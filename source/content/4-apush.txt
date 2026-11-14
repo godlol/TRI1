@@ -1,4 +1,4 @@
-@course apush | AP United States History | US History | Units 1–2
+@course apush | AP United States History 1 | APUSH 1 | Units 1–5
 
 @unit apush-1 | Unit 1 | Period 1: 1491–1607 | 4–6% of exam
 
@@ -367,3 +367,814 @@ b) A population in which enslaved people were the majority
 *c) Elected assemblies and a tradition of self-government
 d) An established Puritan church
 % Every colony had a representative assembly. Economies, religions, and the share of enslaved people varied widely by region.
+
+@unit apush-3 | Unit 3 | Period 3: 1754–1800 | 10–17% of exam
+
+@topic 3.1 | Contextualizing Period 3
+- Britain's victory over France in 1763 left it with a huge debt and a larger empire, so it ended its loose oversight of the colonies and tried to tax and control them.
+- Colonists, used to governing themselves, resisted. Resistance grew into a war for independence and then into an experiment in republican government.
+- The new nation argued over how strong its central government should be, how to deal with Britain and France, and what to do about slavery and American Indian land.
+- **Dates to anchor the period**: 1754 French and Indian War begins; 1763 Treaty of Paris and Proclamation Line; 1765 Stamp Act; 1776 Declaration of Independence; 1781 Yorktown and Articles of Confederation; 1787 Constitutional Convention; 1789 Washington inaugurated; 1800 Jefferson elected.
+? Which change in British policy after 1763 did most to bring on the American Revolution?
+a) Britain gave the colonies seats in Parliament
+*b) Britain ended salutary neglect and began taxing and regulating the colonies more closely
+c) Britain withdrew all of its soldiers from North America
+d) Britain abolished the colonial assemblies in 1763
+% To pay war debts and manage its new territory, Britain enforced trade laws and imposed new taxes, which colonists saw as attacks on their self-government.
+? Which list places the events in the correct order, from earliest to latest?
+a) Declaration of Independence, Stamp Act, Constitutional Convention, Proclamation of 1763
+*b) Proclamation of 1763, Stamp Act, Declaration of Independence, Constitutional Convention
+c) Stamp Act, Proclamation of 1763, Constitutional Convention, Declaration of Independence
+d) Proclamation of 1763, Declaration of Independence, Stamp Act, Constitutional Convention
+% The dates are 1763, 1765, 1776, and 1787.
+
+@topic 3.2 | The Seven Years' War (The French and Indian War)
+- Britain and France fought for control of the Ohio River Valley. Most American Indian nations sided with the French, who were traders and not land-hungry settlers.
+- At the **Albany Congress** (1754), Benjamin Franklin proposed the **Albany Plan of Union** for a common colonial defense. The colonies rejected it.
+- The **Treaty of Paris of 1763** removed France from North America. Britain gained Canada and all land east of the Mississippi River.
+- **Pontiac's Rebellion** (1763) led Britain to issue the **Proclamation of 1763**, which barred colonial settlement west of the Appalachian Mountains. Colonists resented it.
+- The war doubled Britain's debt. Parliament decided the colonies should help pay for their own defense.
+? The Proclamation of 1763 angered many colonists because it
+a) required them to house British soldiers
+*b) prohibited settlement west of the Appalachian Mountains
+c) placed a tax on legal documents and newspapers
+d) closed the port of Boston
+% Colonists had expected the victory over France to open western land. Britain barred settlement there to avoid further wars with American Indians.
+? A major consequence of the Seven Years' War was that
+a) France gained control of the Ohio River Valley
+b) the colonies won representation in Parliament
+*c) Britain took on a large debt and tried to raise revenue from the colonies
+d) Spain was driven out of North America
+% The cost of the war and of defending the new territory led Parliament to tax the colonies directly.
+? The Albany Plan of Union of 1754 is significant because it
+a) united the colonies under one government that lasted until 1776
+*b) was an early proposal for cooperation among the colonies, even though they rejected it
+c) created an alliance between the colonies and France
+d) ended the French and Indian War
+% Franklin's plan for a shared council failed because colonies would not give up power, but it was a first step toward the idea of union.
+
+@topic 3.3 | Taxation Without Representation
+- The **Stamp Act** (1765) was the first direct tax on the colonists. They answered with the Stamp Act Congress, boycotts, and groups such as the **Sons of Liberty**. Parliament repealed it but declared its right to legislate for the colonies.
+- Colonists argued that only their own assemblies could tax them. Britain answered that Parliament represented all subjects (**virtual representation**).
+- The **Townshend Acts** (1767) taxed imported goods such as glass, paper, and tea. Colonists boycotted British goods, and women made homespun cloth.
+- The **Boston Massacre** (1770) and the **Boston Tea Party** (1773) raised tensions. Britain punished Massachusetts with the **Coercive (Intolerable) Acts** in 1774.
+- **Committees of correspondence** linked the colonies, and the **First Continental Congress** met in 1774.
+? Colonists objected to the Stamp Act mainly because
+a) it raised the price of tea
+*b) it was a tax imposed by a Parliament in which they had no elected representatives
+c) it closed western lands to settlement
+d) it required them to trade only with Britain
+% The slogan "no taxation without representation" expressed the belief that only the colonists' own assemblies could tax them.
+? The British response to the Boston Tea Party was to
+a) repeal the tax on tea
+b) grant Massachusetts seats in Parliament
+*c) pass the Coercive Acts, which closed Boston's port and limited self-government in Massachusetts
+d) withdraw British troops from Boston
+% The harsh punishment united other colonies behind Massachusetts and led to the First Continental Congress.
+? Which method did colonists use most effectively against the Stamp Act and the Townshend Acts?
+a) Petitions to the king of France
+*b) Boycotts of British goods
+c) A declaration of independence
+d) Attacks on British forts in Canada
+% Nonimportation agreements hurt British merchants, who then pressed Parliament to repeal the taxes.
+
+@topic 3.4 | Philosophical Foundations of the American Revolution
+- Colonists drew on the **Enlightenment**: people have natural rights, and government exists by the consent of the governed.
+- **Republicanism** held that a nation should be governed by its citizens through elected representatives, with no king or nobility, and that citizens must put the common good first.
+- Thomas Paine's **_Common Sense_** (January 1776) attacked monarchy in plain language and argued for independence.
+- The **Declaration of Independence** (July 1776), written mainly by Thomas Jefferson, stated that all men are created equal, that they have rights to life, liberty, and the pursuit of happiness, and that people may replace a government that violates their rights.
+? Thomas Paine's _Common Sense_ was important because it
+a) proposed a compromise with Parliament over taxation
+*b) persuaded many ordinary colonists that independence from Britain was necessary
+c) outlined the structure of the Constitution
+d) defended the rights of Loyalists
+% Paine wrote in simple, forceful language, attacked the idea of monarchy itself, and sold widely just months before independence was declared.
+? The Declaration of Independence drew most directly on which idea?
+a) The divine right of kings
+b) Mercantilism
+*c) John Locke's theory that governments exist to protect natural rights
+d) The Puritan idea of a covenant community
+% Jefferson echoed Locke: governments get their power from the consent of the governed, and the people may change a government that destroys their rights.
+
+@topic 3.5 | The American Revolution
+- Fighting began at **Lexington and Concord** in April 1775. The Second Continental Congress created the Continental Army under **George Washington**.
+- Colonists were divided among Patriots, Loyalists, and people who tried to stay neutral.
+- The American victory at **Saratoga** (1777) convinced **France** to form an alliance in 1778. French money, troops, and ships were decisive.
+- The British surrender at **Yorktown** (1781) ended major fighting. The **Treaty of Paris of 1783** recognized independence and set the western boundary at the Mississippi River.
+- The Patriots won despite Britain's stronger army and navy because of Washington's leadership, foreign aid, knowledge of the land, and commitment to their cause.
+? The Battle of Saratoga is considered the turning point of the Revolutionary War because it
+a) forced the British to surrender their main army
+*b) convinced France to ally with the United States
+c) ended British control of New York City
+d) led directly to the Declaration of Independence
+% The victory showed France that the Americans could win. The French alliance brought the navy and troops that later trapped the British at Yorktown.
+? Which factor contributed most to the American victory in the Revolutionary War?
+a) The American navy was larger than Britain's
+b) Most American Indians fought for the Patriots
+*c) Military and financial assistance from France
+d) Loyalists switched sides early in the war
+% The Continental Army was often short of money and supplies. French loans, soldiers, and warships made the final victory possible.
+? In the Treaty of Paris of 1783, Britain
+a) kept control of the thirteen colonies' foreign trade
+*b) recognized American independence and a western boundary at the Mississippi River
+c) gave Canada to the United States
+d) agreed to abolish slavery in its empire
+% The treaty gave the new nation far more territory than the thirteen states occupied, which opened the question of how to govern the West.
+
+@topic 3.6 | The Influence of Revolutionary Ideals
+- Talk of liberty and equality led many to question **slavery**. Northern states began gradual emancipation, while slavery expanded in the South.
+- **Republican motherhood** held that women should be educated so they could raise virtuous citizens. Women's political rights did not expand, though Abigail Adams urged her husband to "remember the ladies."
+- State constitutions and new laws reduced property requirements for voting and ended some established churches.
+- The American Revolution inspired later revolutions in **France**, **Haiti**, and **Latin America**.
+? The idea of republican motherhood held that women should
+a) vote and hold public office
+*b) be educated so that they could raise children to be good citizens
+c) work outside the home in factories
+d) stay out of all discussion of public affairs
+% It gave women a civic role within the home and widened their access to education, but it did not give them political rights.
+? Which was an effect of revolutionary ideals in the northern states during and after the war?
+a) The expansion of slavery into new territory
+*b) Laws providing for the gradual abolition of slavery
+c) The granting of voting rights to women in every state
+d) The return of land to American Indians
+% States such as Pennsylvania passed gradual emancipation laws. In the South, slavery continued and grew.
+
+@topic 3.7 | The Articles of Confederation
+- The **Articles of Confederation** (ratified 1781) created a weak central government because Americans feared a distant, powerful authority.
+- Congress **could not tax**, could not regulate trade between states, and had no executive or national courts. Each state had one vote, and amendments required all thirteen states to agree.
+- Its main success was western land policy. The **Northwest Ordinance of 1787** set up a process for territories to become states, banned slavery in the Northwest Territory, and promoted public education.
+- **Shays' Rebellion** (1786–1787), an uprising of indebted Massachusetts farmers, convinced many leaders that a stronger national government was needed.
+? Which was a major weakness of the government under the Articles of Confederation?
+a) The president had too much power
+*b) Congress had no power to tax
+c) The national courts overruled state laws
+d) Large states had more votes than small states
+% Congress could only ask the states for money, so it could not pay its debts or fund an army.
+? The Northwest Ordinance of 1787 was significant because it
+a) opened the Northwest Territory to slavery
+*b) established a process for admitting new states as equals and banned slavery in the Northwest Territory
+c) gave the territory to American Indian nations permanently
+d) was the first law passed under the Constitution
+% It ensured that western territories would become full states and not colonies, and it set a precedent for limiting the spread of slavery.
+? Shays' Rebellion mattered mainly because it
+a) overthrew the government of Massachusetts
+b) ended the Revolutionary War
+*c) persuaded many leaders that the national government was too weak
+d) led to the abolition of debt
+% The national government could not raise troops to help put down the uprising, which strengthened calls for a constitutional convention.
+
+@topic 3.8 | The Constitutional Convention and Debates over Ratification
+- Delegates met in Philadelphia in 1787 to revise the Articles and wrote a new constitution instead.
+- The **Great Compromise** created a two-house Congress: representation by population in the House (as in the Virginia Plan) and equal representation in the Senate (as in the New Jersey Plan).
+- The **Three-Fifths Compromise** counted three-fifths of enslaved people for representation and taxation. Congress could not ban the international slave trade until 1808.
+- **Federalists** supported ratification. Hamilton, Madison, and Jay argued for it in the **_Federalist Papers_**. **Anti-Federalists** feared a strong central government and demanded a bill of rights.
+- The Constitution was ratified in 1788 after Federalists promised to add a **Bill of Rights**, which was ratified in 1791.
+? The Great Compromise settled a dispute at the Constitutional Convention between
+a) northern and southern states over the slave trade
+*b) large and small states over representation in Congress
+c) Federalists and Anti-Federalists over a bill of rights
+d) farmers and merchants over tariffs
+% Large states wanted representation by population and small states wanted equal votes. The compromise used one method in each house.
+? Anti-Federalists opposed ratification of the Constitution mainly because they
+a) wanted to restore the monarchy
+b) believed it gave too much power to the states
+*c) feared it gave the central government too much power and lacked a bill of rights
+d) opposed the Three-Fifths Compromise
+% They worried that a distant national government would threaten individual liberties and the authority of the states.
+? The Three-Fifths Compromise dealt with
+a) how many states were needed to ratify the Constitution
+*b) how enslaved people would be counted for representation and taxation
+c) the share of votes needed to override a veto
+d) the admission of new western states
+% Counting three-fifths of the enslaved population increased the South's representation in the House and in the Electoral College.
+
+@topic 3.9 | The Constitution
+- **Federalism** divides power between the national government and the states.
+- **Separation of powers** divides the national government into legislative, executive, and judicial branches.
+- **Checks and balances** let each branch limit the others: the president can veto laws, Congress can override vetoes and impeach, and courts can rule on laws.
+- The **Bill of Rights**, the first ten amendments, protects individual liberties such as speech, religion, and trial by jury, and reserves other powers to the states and the people.
+? The division of power between the national government and the state governments is called
+a) separation of powers
+*b) federalism
+c) checks and balances
+d) popular sovereignty
+% Federalism lets both levels of government act directly on citizens. Separation of powers divides authority among the three branches.
+? The president's power to veto a bill passed by Congress is an example of
+a) federalism
+b) judicial review
+*c) checks and balances
+d) states' rights
+% Each branch has ways to limit the others. Congress can in turn override a veto with a two-thirds vote.
+
+@topic 3.10 | Shaping a New Republic
+- **Washington** set precedents, including the cabinet and serving two terms.
+- **Hamilton's financial plan**: the national government would take over state debts, create a **national bank**, and raise money through tariffs and an excise tax on whiskey. Jefferson and Madison opposed it as favoring the wealthy and exceeding the Constitution.
+- The **Whiskey Rebellion** (1794) was put down by federal troops, which showed the new government's strength.
+- The first parties formed. **Federalists** (Hamilton) wanted a strong central government, commerce, and ties with Britain. **Democratic-Republicans** (Jefferson, Madison) wanted states' rights, an agrarian nation, and sympathy for France.
+- Foreign policy: the Proclamation of Neutrality (1793), **Jay's Treaty** with Britain, and **Pinckney's Treaty** with Spain. Washington's **Farewell Address** warned against permanent alliances and political parties.
+- Under John Adams, the **Alien and Sedition Acts** (1798) limited criticism of the government. The **Kentucky and Virginia Resolutions** answered that states could judge federal laws unconstitutional.
+? Thomas Jefferson opposed Alexander Hamilton's proposal for a national bank mainly because he believed
+a) the bank would favor farmers over merchants
+*b) the Constitution did not give Congress the power to create it
+c) the bank would be controlled by France
+d) the states should pay their own debts with paper money
+% Jefferson read the Constitution strictly. Hamilton argued that the "necessary and proper" clause implied the power.
+? The federal government's response to the Whiskey Rebellion showed that
+a) the national government was as weak as it had been under the Articles
+*b) the new national government could enforce its laws
+c) Washington supported the farmers' demands
+d) political parties had disappeared
+% Washington led a militia force against the protesters, a sharp contrast with the helplessness of Congress during Shays' Rebellion.
+? In his Farewell Address, George Washington warned Americans against
+a) westward expansion
+b) a national bank
+*c) permanent foreign alliances and political parties
+d) trade with Europe
+% Washington believed that parties would divide the nation and that alliances would drag it into European wars.
+? The Kentucky and Virginia Resolutions argued that
+a) only the Supreme Court could interpret the Constitution
+*b) states could judge a federal law to be unconstitutional
+c) the Alien and Sedition Acts should be made permanent
+d) the president could suspend elections in wartime
+% Written by Jefferson and Madison against the Alien and Sedition Acts, they became a foundation for later states' rights arguments.
+
+@topic 3.11 | Developing an American Identity
+- After independence, Americans worked to create a **national culture** in art, literature, and architecture that expressed republican ideals.
+- Ideas about national identity developed alongside strong **regional** identities and loyalties to states.
+- Enlightenment ideas and religious liberty shaped the culture. Virginia's Statute for Religious Freedom (1786) separated church and state there.
+- Many groups were left out of the new identity, including women, enslaved people, and American Indians.
+? Which development best reflects the effort to build a distinct American national identity after the Revolution?
+a) The adoption of British titles of nobility
+*b) The creation of American art, literature, and schools that celebrated republican values
+c) The establishment of a national church
+d) The closing of colleges founded before independence
+% Writers, artists, and educators tried to express and teach the ideals of the new republic.
+
+@topic 3.12 | Movement in the Early Republic
+- Settlers poured west across the Appalachians, which led to wars with American Indians. After the **Battle of Fallen Timbers** (1794), the Treaty of Greenville opened most of Ohio to settlement.
+- Frontier settlers often resented eastern elites, as in the Whiskey Rebellion.
+- Spain expanded its **missions** into California, bringing more contact and conflict with Native peoples there.
+- The **cotton gin** (1793) made cotton highly profitable and spread slavery westward, even as northern states were ending it. Antislavery feeling grew in the North.
+? The invention of the cotton gin in 1793 led most directly to
+a) a decline in the demand for enslaved labor
+*b) the expansion of cotton growing and slavery across the South
+c) the growth of textile mills in the South
+d) the end of the international slave trade
+% The machine made short-staple cotton profitable, so planters pushed west and demanded more enslaved workers.
+? In the 1790s, westward migration by American settlers most often resulted in
+a) peaceful sharing of land with American Indians
+*b) armed conflict with American Indians over land
+c) the return of settlers to the coast
+d) alliances between settlers and Britain
+% Settlers moved onto Native land in the Ohio country, and resistance was defeated at battles such as Fallen Timbers.
+
+@topic 3.13 | Continuity and Change in Period 3
+- **Changes**: independence from Britain, written constitutions, republican government, a stronger federal system, the first political parties, and gradual abolition in the North.
+- **Continuities**: slavery remained and expanded in the South, women lacked political rights, voting stayed limited mostly to white men with property, and pressure on American Indian land continued.
+! For continuity and change questions, name one thing that changed and one that stayed the same, with a specific example of each.
+? Which statement describes a continuity in American society from 1754 to 1800?
+a) The colonies remained under British rule
+*b) Slavery remained a central part of the southern economy
+c) Political parties did not exist
+d) The national government had no power to tax
+% Despite revolutionary talk of liberty, slavery survived the period and grew with the spread of cotton.
+? Which statement describes a major change in American government between 1781 and 1789?
+a) Power shifted from the national government to the states
+*b) A stronger national government with the power to tax replaced a weak confederation
+c) A monarchy replaced a republic
+d) The states lost the power to make their own laws
+% The Constitution gave the national government powers that the Articles of Confederation had withheld, while keeping the states in a federal system.
+
+@unit apush-4 | Unit 4 | Period 4: 1800–1848 | 10–17% of exam
+
+@topic 4.1 | Contextualizing Period 4
+- The young republic expanded its territory, its democracy, and its market economy.
+- New technology and transportation tied regions together economically, while slavery increasingly divided them.
+- Religious revivals and reform movements tried to improve American society.
+- **Dates to anchor the period**: 1800 Jefferson elected; 1803 Louisiana Purchase and _Marbury v. Madison_; 1812–1815 War of 1812; 1820 Missouri Compromise; 1823 Monroe Doctrine; 1825 Erie Canal opens; 1828 Jackson elected; 1830 Indian Removal Act; 1848 Seneca Falls Convention.
+? Which statement best describes the United States between 1800 and 1848?
+a) The economy shrank as Americans returned to subsistence farming
+*b) The nation expanded westward, more white men gained the vote, and a national market economy developed
+c) Political parties disappeared after 1800
+d) Slavery was abolished in the southern states
+% Territorial growth, wider suffrage for white men, and the market revolution were the major developments of the period.
+
+@topic 4.2 | The Rise of Political Parties and the Era of Jefferson
+- The election of 1800 was the first peaceful transfer of power between parties, from Federalists to Democratic-Republicans.
+- In **_Marbury v. Madison_** (1803), Chief Justice **John Marshall** established **judicial review**, the Supreme Court's power to strike down laws that violate the Constitution.
+- The **Louisiana Purchase** (1803) doubled the size of the country. Jefferson, who read the Constitution strictly, bought it even though the Constitution did not mention buying territory. Lewis and Clark explored it.
+- The Marshall Court strengthened federal power. **_McCulloch v. Maryland_** (1819) upheld the national bank and barred states from taxing it. **_Gibbons v. Ogden_** (1824) gave Congress control of interstate commerce.
+? The Supreme Court's decision in _Marbury v. Madison_ established
+a) the right of states to nullify federal laws
+*b) judicial review, the power of the Court to declare laws unconstitutional
+c) the president's power to remove judges
+d) the constitutionality of the national bank
+% Judicial review made the judiciary an equal branch with a lasting check on Congress and the president.
+? The Louisiana Purchase created a dilemma for Thomas Jefferson because
+a) it required a war with France
+*b) the Constitution did not clearly give the president the power to buy territory
+c) the Federalists strongly supported it
+d) it closed the Mississippi River to American trade
+% Jefferson favored a strict reading of the Constitution, but he set that aside for the chance to double the nation's size and secure the Mississippi.
+? In _McCulloch v. Maryland_, the Supreme Court ruled that
+a) states could tax any institution within their borders
+*b) Congress had implied powers to create a national bank, and a state could not tax it
+c) the national bank was unconstitutional
+d) only states could charter banks
+% The decision supported a broad reading of the Constitution and the supremacy of the national government over the states.
+
+@topic 4.3 | Politics and Regional Interests
+- British seizure of American ships and sailors (**impressment**) and support for American Indian resistance led to the **War of 1812**. Earlier, Jefferson's **Embargo Act** (1807) had tried to avoid war and hurt American trade instead.
+- New England Federalists who opposed the war met at the **Hartford Convention**. After the war they looked disloyal, and the party collapsed.
+- Henry Clay's **American System** called for a protective tariff, a national bank, and federally funded roads and canals.
+- The **Missouri Compromise** (1820) admitted Missouri as a slave state and Maine as a free state, and banned slavery in the rest of the Louisiana Purchase north of 36°30′.
+- Regional interests clashed: the North favored tariffs, the South opposed them, and the West wanted internal improvements and cheap land.
+? Henry Clay's American System included
+a) free trade, state banks, and private roads
+*b) a protective tariff, a national bank, and federally funded internal improvements
+c) the abolition of slavery in the territories
+d) the annexation of Texas and Oregon
+% Clay wanted to tie the regions together in a self-sufficient national economy. Southerners objected most to the tariff.
+? The Missouri Compromise of 1820
+a) allowed each territory to decide on slavery by popular vote
+*b) admitted Missouri as a slave state and Maine as a free state and drew a line dividing future free and slave territory
+c) banned slavery in all western territories
+d) ended the international slave trade
+% It kept the balance of free and slave states in the Senate and postponed the conflict over slavery's expansion.
+? Which was a cause of the War of 1812?
+a) The American purchase of Florida
+*b) British impressment of American sailors and interference with American trade
+c) A dispute over the Oregon boundary
+d) The French sale of Louisiana
+% Britain, at war with France, seized American ships and forced sailors into its navy. Americans also blamed Britain for arming American Indians in the West.
+
+@topic 4.4 | America on the World Stage
+- The War of 1812 ended with the **Treaty of Ghent**, which changed no boundaries. Andrew Jackson's victory at **New Orleans** made him a national hero and fed a surge of nationalism.
+- In the **Adams–Onís Treaty** (1819), Spain gave Florida to the United States.
+- The **Monroe Doctrine** (1823) declared the Western Hemisphere closed to new European colonization and promised that the United States would stay out of European affairs.
+- The United States sought to expand its trade and its borders, and to keep European powers out of the Americas.
+? The Monroe Doctrine of 1823 stated that
+a) the United States would join European alliances
+*b) European powers should not establish new colonies in the Western Hemisphere
+c) the United States would annex Latin America
+d) Britain could keep its forts on American soil
+% The doctrine warned Europe against interfering in the newly independent nations of the Americas and became a foundation of American foreign policy.
+? One result of the War of 1812 was
+a) the loss of American territory to Britain
+*b) a growth of American nationalism and the collapse of the Federalist Party
+c) the end of slavery in the North
+d) an alliance between the United States and France
+% Americans felt they had defended their independence a second time. The Federalists, who had opposed the war, were discredited.
+
+@topic 4.5 | Market Revolution: Industrialization
+- The **market revolution** changed how goods were made and moved: people produced for distant markets and not just for themselves.
+- **Textile mills**, such as those at **Lowell**, Massachusetts, brought spinning and weaving into factories. **Interchangeable parts** made mass production possible.
+- **Transportation**: steamboats, the **Erie Canal** (1825), which linked the Great Lakes to New York City, and then railroads cut the cost and time of shipping. The **telegraph** sped communication.
+- Farm inventions such as the steel plow and mechanical reaper raised output.
+- New links tied the **North and the Midwest** together more closely than either was tied to the South.
+? The completion of the Erie Canal in 1825
+a) connected the Ohio River to New Orleans
+*b) linked the Great Lakes region to New York City and lowered the cost of shipping goods
+c) ended the use of steamboats
+d) opened a route to California
+% Western farm goods could now reach eastern markets cheaply. New York City became the nation's leading port.
+? The market revolution most directly changed the lives of Americans by
+a) ending the growth of cities
+*b) shifting many people from producing goods at home for their own use to working for wages and buying goods
+c) reducing trade between regions
+d) returning most workers to farms
+% Factories, canals, and railroads created a national market in which people sold their labor or crops and bought what they needed.
+? Transportation improvements between 1800 and 1848 strengthened economic ties mainly between
+a) the South and Europe only
+*b) the Northeast and the Midwest
+c) the South and the Northeast
+d) the West Coast and the East Coast
+% Canals and railroads ran east and west, linking midwestern farms with northeastern cities. The South stayed tied to cotton exports.
+
+@topic 4.6 | Market Revolution: Society and Culture
+- Large numbers of immigrants from **Ireland** (fleeing famine) and **Germany** arrived in the 1840s. Many Irish settled in northeastern cities and worked in factories and on canals.
+- Cities grew quickly, and so did the gap between rich and poor. A new **middle class** of shopkeepers, clerks, and professionals emerged.
+- Work moved out of the home. The **cult of domesticity** taught that women's proper sphere was the home and family, while men worked for wages.
+- Young women who worked in the Lowell mills lived in boardinghouses and at times organized against wage cuts.
+? The "cult of domesticity" held that
+a) women should seek factory work to support their families
+*b) a woman's proper role was to care for the home and family
+c) men and women should share housework equally
+d) women should take part in politics
+% As paid work moved to factories and offices, middle-class culture defined the home as women's separate sphere.
+? In the 1840s, large numbers of immigrants came to the United States from
+a) Italy and Russia
+*b) Ireland and Germany
+c) China and Japan
+d) Mexico and Cuba
+% Famine drove the Irish to emigrate, and economic and political troubles pushed Germans. Italians and Russians came in large numbers later in the century.
+
+@topic 4.7 | Expanding Democracy
+- By the 1820s most states had dropped property requirements, so nearly all **white men** could vote. Women, American Indians, and most Black men could not.
+- In the election of 1824, John Quincy Adams won in the House of Representatives after Henry Clay backed him. Jackson's supporters called it a **"corrupt bargain."**
+- **Andrew Jackson** won in 1828 as the champion of the "common man." Campaigns began to use rallies, slogans, and party organization.
+- Jackson rewarded supporters with government jobs, the **spoils system**.
+- New parties formed: Jackson's **Democrats** and their opponents, the **Whigs**.
+? During the 1820s and 1830s, voting rights expanded mainly because
+a) women won the right to vote in most states
+*b) states removed property requirements for white men
+c) free Black men gained the vote throughout the North
+d) the Constitution was amended to lower the voting age
+% Universal white male suffrage made politics more democratic for one group while others remained excluded.
+? Supporters of Andrew Jackson called the election of 1824 a "corrupt bargain" because
+a) Jackson was accused of buying votes
+*b) John Quincy Adams won in the House and then named Henry Clay secretary of state
+c) the Electoral College was abolished
+d) Adams refused to leave office
+% Jackson had won the most popular and electoral votes but not a majority. Clay's support gave Adams the presidency.
+
+@topic 4.8 | Jackson and Federal Power
+- The **Indian Removal Act** (1830) authorized moving southeastern nations west of the Mississippi. In **_Worcester v. Georgia_** the Supreme Court sided with the Cherokee, but Jackson did not enforce the ruling. The forced march of the Cherokee in 1838 is called the **Trail of Tears**.
+- In the **Nullification Crisis** (1832–1833), South Carolina, led by John C. Calhoun, declared a federal tariff void. Jackson threatened force, and a compromise tariff ended the crisis.
+- In the **Bank War**, Jackson vetoed the recharter of the Second Bank of the United States, calling it a tool of the wealthy. He moved federal money to state banks.
+- Opponents who saw Jackson as abusing presidential power formed the **Whig Party**.
+? In the Nullification Crisis, South Carolina claimed that
+a) the national bank was unconstitutional
+*b) a state could declare a federal law void within its borders
+c) the president could not veto tariffs
+d) American Indian nations were sovereign
+% South Carolina objected to a high protective tariff. Jackson insisted that the Union was supreme and that nullification was treason.
+? The Indian Removal Act of 1830 led most directly to
+a) citizenship for the Cherokee
+*b) the forced relocation of southeastern American Indian nations to land west of the Mississippi River
+c) the return of land in Georgia to the Cherokee
+d) a war between the United States and Mexico
+% Thousands of Cherokee died on the journey west known as the Trail of Tears.
+? Andrew Jackson vetoed the bill to recharter the Second Bank of the United States because he believed the bank
+a) gave too much help to western farmers
+*b) concentrated power in the hands of a wealthy few
+c) was controlled by state governments
+d) had caused the War of 1812
+% Jackson presented himself as defending ordinary people against a privileged institution. His opponents said he had exceeded his authority.
+
+@topic 4.9 | The Development of an American Culture
+- A national culture took shape that mixed American subjects with European influences.
+- **Transcendentalists** such as Ralph Waldo Emerson and Henry David Thoreau stressed individual conscience, self-reliance, and nature. Thoreau argued for civil disobedience against unjust laws.
+- Painters of the **Hudson River School** celebrated the American landscape.
+- **Utopian communities**, such as Brook Farm, Oneida, and the Shakers, tried to build perfect societies based on shared property or new social rules.
+? Transcendentalist writers such as Emerson and Thoreau emphasized
+a) obedience to established churches
+*b) individual conscience, self-reliance, and the value of nature
+c) the benefits of factory work
+d) the need for a stronger central government
+% They believed truth could be found through intuition and nature and not through institutions or tradition.
+? Utopian communities such as Brook Farm and Oneida were attempts to
+a) win elections for the Whig Party
+*b) create ideal societies that would serve as models for reform
+c) spread slavery into the West
+d) convert American Indians to Christianity
+% Their members withdrew from mainstream society to experiment with shared property and new forms of family and work.
+
+@topic 4.10 | The Second Great Awakening
+- The **Second Great Awakening** was a wave of Protestant revivals in the early 1800s, with large camp meetings and preachers such as **Charles Finney**.
+- It taught that individuals could choose salvation and could improve themselves and society.
+- Methodist and Baptist churches grew fastest. New groups appeared, including the **Mormons**, founded by Joseph Smith.
+- The revivals inspired many of the era's reform movements, and women took a leading part.
+? The Second Great Awakening contributed to reform movements because it taught that
+a) salvation was already decided for each person
+*b) individuals could improve themselves and had a duty to improve society
+c) the government should establish an official church
+d) reform was the responsibility of the wealthy alone
+% Belief in free will and human perfectibility pushed converts to attack social evils such as drunkenness and slavery.
+? Which statement about the Second Great Awakening is correct?
+a) It weakened the Methodist and Baptist churches
+*b) It increased church membership and encouraged women to take active roles in religious and reform groups
+c) It was limited to New England cities
+d) It rejected emotional preaching
+% Revivals swept the frontier and the North. Women made up most of the converts and organized many reform societies.
+
+@topic 4.11 | An Age of Reform
+- **Temperance** reformers tried to limit alcohol.
+- **Abolition**: William Lloyd Garrison's newspaper **_The Liberator_** (1831) demanded an immediate end to slavery. **Frederick Douglass**, who had escaped slavery, became a leading speaker and writer.
+- **Women's rights**: at the **Seneca Falls Convention** (1848), Elizabeth Cady Stanton and Lucretia Mott issued the **Declaration of Sentiments**, which demanded equality and the vote.
+- **Education**: Horace Mann promoted free public schools. **Dorothea Dix** worked for better treatment of people with mental illness.
+- Abolitionists were a minority in the North, and their demands angered the South.
+? The Seneca Falls Convention of 1848 is significant because it
+a) ended slavery in New York
+*b) launched the organized women's rights movement in the United States
+c) founded the Republican Party
+d) won women the right to vote in federal elections
+% Its Declaration of Sentiments, modeled on the Declaration of Independence, listed women's grievances and called for suffrage.
+? William Lloyd Garrison differed from many earlier opponents of slavery because he
+a) wanted to send freed people to Africa
+*b) demanded the immediate abolition of slavery with no payment to slaveholders
+c) supported slavery where it already existed
+d) believed slavery would end naturally
+% Garrison rejected gradual plans and compromise, which made him a hero to abolitionists and a villain in the South.
+? Horace Mann is best known for his work to
+a) limit the sale of alcohol
+b) improve prisons
+*c) establish free public schools
+d) end child labor in mines
+% Mann argued that tax-supported common schools would create educated citizens and give every child a fair start.
+
+@topic 4.12 | African Americans in the Early Republic
+- Free Black communities in northern cities built their own institutions, such as the African Methodist Episcopal Church, and worked against slavery. They still faced discrimination and limits on voting.
+- Enslaved people preserved families, religion, and culture, and resisted through work slowdowns, escape, and revolt.
+- **Nat Turner's Rebellion** (Virginia, 1831) killed about sixty white people. Southern states answered with harsher slave codes and limits on teaching enslaved people to read.
+- Plots led by Gabriel (1800) and Denmark Vesey (1822) were discovered before they began.
+? Southern states responded to Nat Turner's Rebellion of 1831 by
+a) beginning the gradual abolition of slavery
+*b) passing stricter laws controlling enslaved and free Black people
+c) ending the internal slave trade
+d) allowing enslaved people to testify in court
+% Fear of further revolts led to tighter slave codes and silenced most southern criticism of slavery.
+? Free African Americans in northern cities in the early 1800s
+a) had the same legal rights as white citizens
+*b) built their own churches and organizations while facing discrimination
+c) were barred from all employment
+d) were required to move to the South
+% Institutions such as Black churches gave communities leadership and a base for antislavery work.
+
+@topic 4.13 | The Society of the South in the Early Republic
+- Cotton became the South's main crop, and the region was called the **Cotton Kingdom**. Planters moved southwest into Alabama, Mississippi, and Louisiana.
+- After the international slave trade ended in 1808, a large **internal slave trade** moved enslaved people from the upper South to the cotton states and broke up families.
+- Most white southerners owned no slaves, but a small class of wealthy planters dominated society and politics.
+- Southern leaders such as John C. Calhoun came to defend slavery as a **"positive good"** and not merely a necessary evil.
+- The South had few cities, factories, or immigrants compared with the North.
+? By the 1830s, many southern leaders defended slavery by arguing that it was
+a) an evil that would soon die out
+*b) a positive good for both enslaved people and society
+c) required by the Constitution in every state
+d) less profitable than free labor
+% As cotton profits and northern criticism both grew, southerners moved from apologizing for slavery to praising it.
+? Which statement about white society in the South before the Civil War is accurate?
+a) Most white families owned large plantations
+*b) Most white families owned no enslaved people, but wealthy planters held most political power
+c) Most white southerners worked in factories
+d) Most white southerners opposed slavery
+% Slaveholders were a minority, and large planters were a small elite, yet most white southerners supported the system.
+
+@topic 4.14 | Causation in Period 4
+- The **market revolution** caused the growth of cities, a middle class, and regional specialization, and it bound North and West together.
+- **Wider suffrage** for white men caused new parties and a new style of politics.
+- The **Second Great Awakening** caused reform movements.
+- **Cotton and westward expansion** caused the spread of slavery and growing conflict between the sections.
+? Which development most directly caused the growth of reform movements in the 1830s and 1840s?
+a) The War of 1812
+*b) The Second Great Awakening
+c) The Louisiana Purchase
+d) The Monroe Doctrine
+% Revivalism taught that people could perfect themselves and society, and converts founded societies for temperance, abolition, and other causes.
+? The spread of cotton cultivation in the early 1800s most directly caused
+a) a decline in the value of enslaved people
+*b) the expansion of slavery into new southwestern states
+c) the growth of factories in the South
+d) the end of sectional conflict
+% Demand for cotton from British and northern mills made slavery more profitable and pushed it westward.
+
+@unit apush-5 | Unit 5 | Period 5: 1844–1877 | 10–17% of exam
+
+@topic 5.1 | Contextualizing Period 5
+- Expansion to the Pacific reopened the question of whether slavery would spread into new territory.
+- Compromises failed during the 1850s, and the election of Abraham Lincoln led to secession and civil war.
+- Union victory ended slavery and preserved the nation. Reconstruction then tried, with limited success, to secure rights for formerly enslaved people.
+- **Dates to anchor the period**: 1846–1848 Mexican–American War; 1850 Compromise of 1850; 1854 Kansas–Nebraska Act; 1857 _Dred Scott_ decision; 1860 Lincoln elected; 1861–1865 Civil War; 1863 Emancipation Proclamation; 1865 Thirteenth Amendment; 1877 Reconstruction ends.
+? Which issue did most to divide the North and the South between 1844 and 1860?
+a) Tariff rates
+*b) Whether slavery would expand into the western territories
+c) The location of a transcontinental railroad
+d) Immigration from Ireland and Germany
+% Each new territory raised the question of slavery, and every attempt at compromise eventually broke down.
+? Which list places the events in the correct order, from earliest to latest?
+a) Kansas–Nebraska Act, Compromise of 1850, Emancipation Proclamation, _Dred Scott_ decision
+*b) Compromise of 1850, Kansas–Nebraska Act, _Dred Scott_ decision, Emancipation Proclamation
+c) _Dred Scott_ decision, Compromise of 1850, Kansas–Nebraska Act, Emancipation Proclamation
+d) Compromise of 1850, _Dred Scott_ decision, Emancipation Proclamation, Kansas–Nebraska Act
+% The dates are 1850, 1854, 1857, and 1863.
+
+@topic 5.2 | Manifest Destiny
+- **Manifest Destiny** was the belief that the United States was meant to spread across the continent, bringing its institutions with it.
+- Settlers followed the Oregon Trail to the Pacific Northwest. The United States and Britain divided the Oregon Country at the 49th parallel in 1846.
+- **Texas**, which had won independence from Mexico in 1836, was annexed in 1845.
+- The **California Gold Rush** (1849) drew a flood of migrants. Expansion brought conflict with American Indians and Mexicans already living in the West.
+? Manifest Destiny was the belief that
+a) slavery should be abolished in all territories
+*b) the United States was destined to expand across North America
+c) the United States should avoid acquiring new land
+d) American Indians had a right to western lands
+% The idea was used to justify annexing Texas, claiming Oregon, and going to war with Mexico.
+? The annexation of Texas in 1845 was controversial mainly because
+a) Texas had a small population
+*b) it would add a large slave state and risked war with Mexico
+c) Britain claimed Texas as a colony
+d) Texans opposed joining the United States
+% Northerners feared the growth of slave power, and Mexico had never accepted Texan independence.
+
+@topic 5.3 | The Mexican–American War
+- President **James K. Polk** wanted California and the Southwest. A clash in disputed territory along the Rio Grande led to war in 1846.
+- In the **Treaty of Guadalupe Hidalgo** (1848), Mexico gave up California and most of the present-day Southwest, the **Mexican Cession**, for \$15 million.
+- The **Wilmot Proviso** proposed banning slavery in any land taken from Mexico. It passed the House but not the Senate and inflamed sectional feeling.
+- Mexicans and American Indians in the new territory were promised rights, but many lost land and political power.
+? The Wilmot Proviso was significant because it
+a) ended the Mexican–American War
+*b) proposed banning slavery in territory acquired from Mexico and deepened sectional division
+c) admitted California as a free state
+d) annexed Texas
+% It never became law, but votes on it split along sectional lines instead of party lines, a sign of what was to come.
+? As a result of the Mexican–American War, the United States
+a) lost its claim to Texas
+*b) gained California and much of the present-day Southwest
+c) purchased Alaska
+d) gave up its claim to Oregon
+% The Mexican Cession added a vast territory and immediately raised the question of whether slavery would be allowed there.
+
+@topic 5.4 | The Compromise of 1850
+- California's request to enter as a free state threatened the balance between free and slave states.
+- The **Compromise of 1850** admitted California as a free state, let the Utah and New Mexico territories decide on slavery by **popular sovereignty**, ended the slave trade in Washington, D.C., and passed a stronger **Fugitive Slave Act**.
+- The Fugitive Slave Act required northerners to help return people who had escaped slavery. It angered the North and strengthened the antislavery movement.
+? Which part of the Compromise of 1850 caused the most anger in the North?
+a) The admission of California as a free state
+*b) The Fugitive Slave Act
+c) The end of the slave trade in Washington, D.C.
+d) Popular sovereignty in the New Mexico Territory
+% The law forced northerners to take part in capturing people who had escaped and denied the accused a jury trial.
+? Popular sovereignty meant that
+a) Congress would decide whether a territory allowed slavery
+*b) the settlers of a territory would decide whether to allow slavery
+c) the Supreme Court would decide whether a territory allowed slavery
+d) slavery would be banned north of 36°30′
+% The idea seemed democratic, but in practice it set off a violent contest for control of Kansas.
+
+@topic 5.5 | Sectional Conflict: Regional Differences
+- The **North** had a growing population, factories, railroads, and a free-labor ideal: the belief that people should be free to work for wages and rise.
+- Irish and German immigration led to **nativism**. The anti-immigrant, anti-Catholic **Know-Nothing** party was briefly powerful.
+- Abolitionists were a minority, but **_Uncle Tom's Cabin_** (1852) by Harriet Beecher Stowe turned many northerners against slavery. The **Underground Railroad** helped people escape.
+- The **South** remained agricultural and dependent on enslaved labor, and its leaders defended slavery and states' rights.
+? The novel _Uncle Tom's Cabin_ affected the sectional conflict by
+a) persuading southerners to free enslaved people
+*b) increasing northern opposition to slavery
+c) defending the Fugitive Slave Act
+d) calling for the annexation of Cuba
+% Stowe's story of the cruelty of slavery reached a huge audience in the North and was denounced in the South.
+? The Know-Nothing party of the 1850s was formed mainly to
+a) abolish slavery
+*b) oppose immigrants and Catholics
+c) support the annexation of Texas
+d) win the vote for women
+% Rapid Irish and German immigration alarmed native-born Protestants, who feared competition for jobs and Catholic influence.
+
+@topic 5.6 | Failure of Compromise
+- The **Kansas–Nebraska Act** (1854) let those territories decide on slavery by popular sovereignty, which repealed the Missouri Compromise line. Proslavery and antislavery settlers fought in **"Bleeding Kansas."**
+- The **Republican Party** formed in 1854 to oppose the spread of slavery into the territories.
+- In **_Dred Scott v. Sandford_** (1857), the Supreme Court ruled that Black Americans were not citizens and that Congress could not ban slavery in the territories.
+- In the **Lincoln–Douglas debates** (1858), Lincoln argued against the spread of slavery. **John Brown's raid** on Harpers Ferry (1859) terrified the South.
+? The Kansas–Nebraska Act of 1854 angered many northerners because it
+a) admitted Kansas as a slave state
+*b) repealed the Missouri Compromise line and opened territory to slavery by popular sovereignty
+c) strengthened the Fugitive Slave Act
+d) banned slavery in all territories
+% Land that had been closed to slavery since 1820 was now open to it. The outrage led to the founding of the Republican Party.
+? In the _Dred Scott_ decision, the Supreme Court ruled that
+a) slavery was unconstitutional
+*b) African Americans were not citizens and Congress could not prohibit slavery in the territories
+c) popular sovereignty was required in every territory
+d) enslaved people became free when taken into free states
+% The ruling struck down the Missouri Compromise and denied the Republican Party's central goal, which enraged the North.
+? The Republican Party was founded in the 1850s primarily to
+a) abolish slavery in the southern states
+*b) stop the expansion of slavery into the western territories
+c) restrict immigration
+d) lower tariffs
+% Republicans did not at first call for ending slavery where it existed. They wanted the territories kept for free labor.
+
+@topic 5.7 | Election of 1860 and Secession
+- The Democratic Party split into northern and southern wings. **Abraham Lincoln**, the Republican, won the presidency in 1860 without carrying a single southern state.
+- Lincoln opposed the spread of slavery but said he would not interfere with it where it existed. Southern leaders did not believe him.
+- **South Carolina** seceded in December 1860, and other Deep South states followed. They formed the **Confederate States of America**.
+- The war began when Confederate forces fired on **Fort Sumter** in April 1861. Four more states then seceded. The slaveholding **border states** stayed in the Union.
+? Southern states began to secede after the election of 1860 mainly because
+a) Lincoln had promised to abolish slavery everywhere immediately
+*b) they believed a Republican president threatened the future of slavery
+c) the Supreme Court had outlawed slavery in the territories
+d) Congress had raised the tariff
+% Lincoln won with no southern support on a platform of stopping slavery's expansion, and southern leaders saw their political power slipping away.
+? The Civil War began when
+a) John Brown raided Harpers Ferry
+b) Lincoln issued the Emancipation Proclamation
+*c) Confederate forces attacked Fort Sumter
+d) South Carolina nullified a federal tariff
+% After the attack in April 1861, Lincoln called for troops, and four more southern states joined the Confederacy.
+
+@topic 5.8 | Military Conflict in the Civil War
+- The **Union** had more people, factories, railroads, and a navy. The **Confederacy** had skilled generals, a defensive war on familiar ground, and hopes of European help.
+- The Union plan was to blockade southern ports, take control of the Mississippi River, and capture Richmond.
+- **Antietam** (1862) stopped a Confederate invasion and gave Lincoln the chance to announce emancipation.
+- In July 1863, Union victories at **Gettysburg** and **Vicksburg** turned the war. Vicksburg gave the Union control of the Mississippi.
+- **Sherman's March to the Sea** destroyed southern resources. Lee surrendered to Grant at **Appomattox** in April 1865.
+? Which was a major advantage of the Union at the start of the Civil War?
+a) Better generals
+b) The need to fight only a defensive war
+*c) A larger population and far more industry and railroads
+d) Support from Britain and France
+% The North could supply and replace its armies in a way the South could not, which mattered more as the war dragged on.
+? The Union victory at Vicksburg in 1863 was important because it
+a) ended the war in the East
+*b) gave the Union control of the Mississippi River and split the Confederacy
+c) led France to recognize the Confederacy
+d) freed the enslaved people of the border states
+% With the river in Union hands, Texas, Arkansas, and Louisiana were cut off from the rest of the Confederacy.
+? The Battle of Antietam mattered politically because it
+a) convinced Britain to aid the Confederacy
+*b) gave Lincoln a victory after which he announced the Emancipation Proclamation
+c) led to Lincoln's defeat in the next election
+d) ended the Union blockade
+% Lincoln had been waiting for a Union success so that emancipation would not look like an act of desperation.
+
+@topic 5.9 | Government Policies During the Civil War
+- The **Emancipation Proclamation** (January 1, 1863) declared free the enslaved people in areas in rebellion. It did not apply to the border states. It made ending slavery a war aim, discouraged European support for the Confederacy, and opened the army to Black soldiers.
+- About 200,000 African Americans served in the Union army and navy.
+- In the **Gettysburg Address**, Lincoln described the war as a struggle to preserve a nation dedicated to equality.
+- With southerners gone from Congress, Republicans passed the **Homestead Act**, the Pacific Railway Act, and the Morrill Land-Grant Act (all 1862).
+- Lincoln suspended habeas corpus in some areas, and both sides drafted soldiers. The **Thirteenth Amendment** (1865) abolished slavery.
+? The Emancipation Proclamation
+a) freed all enslaved people in the United States
+*b) declared free the enslaved people in areas that were in rebellion against the Union
+c) abolished slavery in the border states
+d) was an amendment to the Constitution
+% It applied only where the Union did not yet have control, but it changed the purpose of the war. Slavery was ended everywhere by the Thirteenth Amendment.
+? One effect of the Emancipation Proclamation was that
+a) the border states seceded
+*b) Britain and France became less likely to support the Confederacy
+c) the Confederacy abolished slavery
+d) the war ended within months
+% Once the war was openly about slavery, European governments whose people opposed slavery could not easily side with the South.
+? The Homestead Act of 1862
+a) gave land to formerly enslaved people in the South
+*b) offered settlers 160 acres of western land if they lived on it and improved it
+c) created reservations for American Indians
+d) funded the first transcontinental railroad
+% The law encouraged settlement of the West by small farmers, a long-held Republican goal.
+
+@topic 5.10 | Reconstruction
+- **Reconstruction** (1865–1877) dealt with how to readmit the southern states and what rights formerly enslaved people would have.
+- The **Thirteenth Amendment** abolished slavery. The **Fourteenth** granted citizenship and equal protection of the laws. The **Fifteenth** said the vote could not be denied because of race.
+- President **Andrew Johnson** was lenient toward the South. Southern states passed **Black Codes** that restricted freedpeople.
+- **Radical Republicans** in Congress took control, placed the South under military rule, and required new state constitutions. The House **impeached** Johnson, and the Senate fell one vote short of removing him.
+- The **Freedmen's Bureau** provided food, schools, and legal help. Black men voted and held office.
+- The women's rights movement split over the Fifteenth Amendment because it did not include women.
+? The Fourteenth Amendment
+a) abolished slavery
+*b) granted citizenship to people born in the United States and guaranteed equal protection of the laws
+c) gave women the right to vote
+d) ended military rule in the South
+% It overturned the _Dred Scott_ ruling on citizenship and became the basis for later civil rights decisions.
+? Black Codes passed by southern states in 1865 and 1866 were intended to
+a) guarantee voting rights for freedmen
+*b) restrict the freedom of African Americans and keep them as a dependent labor force
+c) distribute land to formerly enslaved people
+d) carry out the Fourteenth Amendment
+% The codes limited where freedpeople could work, travel, and live. They convinced Congress that stronger federal action was needed.
+? Radical Republicans in Congress differed from President Andrew Johnson because they wanted to
+a) readmit the southern states immediately with no conditions
+*b) protect the rights of freedpeople and require changes in the South before readmission
+c) pay slaveholders for their losses
+d) end the Freedmen's Bureau
+% Johnson pardoned former Confederates and vetoed civil rights measures. Congress overrode him and imposed its own plan.
+
+@topic 5.11 | Failure of Reconstruction
+- Most freedpeople got no land. Many became **sharecroppers**, farming a planter's land for a share of the crop and falling into debt.
+- White supremacist groups such as the **Ku Klux Klan** used violence to keep Black southerners from voting.
+- Northern support faded because of economic depression, corruption scandals, and weariness.
+- In the **Compromise of 1877**, Republican Rutherford B. Hayes became president after a disputed election, and federal troops left the South. Reconstruction ended.
+- Southern governments then stripped Black citizens of rights, but the Fourteenth and Fifteenth Amendments remained as a basis for later civil rights victories.
+? Sharecropping in the South after the Civil War
+a) gave most freedpeople ownership of their own farms
+*b) kept many freedpeople and poor whites in poverty and debt
+c) was outlawed by the Fourteenth Amendment
+d) replaced cotton with food crops
+% Sharecroppers owed part of each crop to the landowner and bought supplies on credit, so few ever got ahead.
+? Reconstruction ended in 1877 when
+a) the Fifteenth Amendment was ratified
+*b) federal troops were withdrawn from the South as part of a political compromise
+c) the Supreme Court declared the Freedmen's Bureau unconstitutional
+d) Andrew Johnson was removed from office
+% With no federal protection, southern Democrats regained control and began to take away the rights of Black citizens.
+? Which statement best describes the long-term significance of the Fourteenth and Fifteenth Amendments?
+a) They ended racial discrimination in the South by 1880
+*b) Although weakly enforced for decades, they provided a legal basis for later civil rights gains
+c) They were repealed after Reconstruction
+d) They applied only to northern states
+% The amendments stayed in the Constitution, and the civil rights movement of the twentieth century relied on them.
+
+@topic 5.12 | Comparison in Period 5
+- **North and South in the war**: the North had industry, population, and railroads; the South had cotton, defensive strategy, and military leadership.
+- **Plans for Reconstruction**: Lincoln and Johnson wanted quick readmission; Radical Republicans wanted to remake the South and protect freedpeople.
+- **Compromises**: the Missouri Compromise drew a line; the Compromise of 1850 and the Kansas–Nebraska Act relied on popular sovereignty. Each delayed conflict, and none settled it.
+? How did the Kansas–Nebraska Act differ from the Missouri Compromise?
+a) It banned slavery in all territories
+*b) It left the decision on slavery to the settlers of a territory instead of drawing a geographic line
+c) It applied only to land won from Mexico
+d) It was struck down before taking effect
+% The Missouri Compromise had closed northern territory to slavery. The Kansas–Nebraska Act reopened it to a popular vote.
+? A key difference between presidential and congressional Reconstruction was that congressional Reconstruction
+a) pardoned former Confederate leaders more quickly
+*b) required southern states to protect the rights of African Americans
+c) opposed the Fourteenth Amendment
+d) left the southern states under their prewar governments
+% Congress demanded new constitutions, Black male suffrage, and ratification of the Fourteenth Amendment as conditions for readmission.

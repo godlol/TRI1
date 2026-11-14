@@ -1,0 +1,991 @@
+@course apush2 | AP United States History 2 | APUSH 2 | Units 6–9
+
+@unit apush2-6 | Unit 6 | Period 6: 1865–1898 | 10–17% of exam
+
+@topic 6.1 | Contextualizing Period 6
+- After the Civil War the United States became an industrial power. Railroads, new technology, big business, and cheap labor drove rapid growth. The era is called the **Gilded Age**: glittering wealth on the surface, with poverty and corruption underneath.
+- Settlers, railroads, and the army pushed across the West and forced American Indians onto reservations.
+- Millions of immigrants and rural Americans moved to cities. Workers, farmers, and reformers challenged the power of corporations.
+- **Dates to anchor the period**: 1869 transcontinental railroad completed; 1877 Great Railroad Strike; 1882 Chinese Exclusion Act; 1887 Dawes Act and Interstate Commerce Act; 1890 Sherman Antitrust Act and Wounded Knee; 1892 Populist Party; 1896 _Plessy v. Ferguson_ and McKinley elected.
+? The term "Gilded Age" suggests that the late 1800s were a time of
+a) shared prosperity and honest government
+*b) great wealth for some that covered serious social problems and corruption
+c) economic decline and falling population
+d) isolation from world trade
+% Mark Twain's phrase compares the era to a cheap object coated in gold: impressive outside, flawed inside.
+? Which list places the events in the correct order, from earliest to latest?
+a) Dawes Act, completion of the transcontinental railroad, _Plessy v. Ferguson_, Chinese Exclusion Act
+*b) Completion of the transcontinental railroad, Chinese Exclusion Act, Dawes Act, _Plessy v. Ferguson_
+c) Chinese Exclusion Act, Dawes Act, completion of the transcontinental railroad, _Plessy v. Ferguson_
+d) Completion of the transcontinental railroad, Dawes Act, _Plessy v. Ferguson_, Chinese Exclusion Act
+% The dates are 1869, 1882, 1887, and 1896.
+
+@topic 6.2 | Westward Expansion: Economic Development
+- The first **transcontinental railroad** was finished in 1869, built largely by Chinese and Irish workers with federal land grants and loans. Railroads opened the West to settlement and national markets.
+- The **Homestead Act** drew farmers to the Great Plains. Mining and cattle ranching boomed.
+- New machinery raised farm output, but crop prices fell. Farmers faced high railroad rates and debt.
+- Farmers organized in the **Grange** and the **Farmers' Alliances** to demand regulation of railroads and cheaper credit.
+? The federal government encouraged the building of transcontinental railroads mainly by
+a) building and operating the lines itself
+*b) giving railroad companies land grants and loans
+c) banning competition from canals
+d) requiring states to pay for construction
+% Subsidies of public land and money made private companies willing to build across thinly settled territory.
+? In the late 1800s, western farmers organized groups such as the Grange because they
+a) wanted higher tariffs on imported goods
+*b) faced falling crop prices, high railroad rates, and heavy debt
+c) opposed the Homestead Act
+d) wanted to end immigration from Europe
+% Farmers believed railroads and banks took unfair advantage of them and pressed states and Congress to regulate rates.
+
+@topic 6.3 | Westward Expansion: Social and Cultural Development
+- The government forced American Indians onto **reservations**. The army and Plains nations fought a series of wars, including the Sioux and Cheyenne victory at **Little Bighorn** (1876).
+- The near extinction of the bison destroyed the basis of Plains life.
+- The **Dawes Act** (1887) broke up reservation land into individual family plots to push American Indians to live as farmers. Much of the land ended up in white hands.
+- Boarding schools tried to erase Native languages and cultures. The army's killing of Lakota at **Wounded Knee** (1890) marked the end of armed resistance.
+- Many American Indians preserved their cultures and identities despite these policies.
+? The main goal of the Dawes Act of 1887 was to
+a) return the Great Plains to American Indian nations
+*b) assimilate American Indians by dividing tribal lands into individual farms
+c) create new reservations in the Southwest
+d) grant voting rights to American Indian men
+% Reformers thought private property would make American Indians into independent farmers. In practice, tribes lost most of their land.
+? Which development did most to undermine the way of life of the Plains Indians?
+a) The discovery of gold in California
+*b) The destruction of the bison herds
+c) The passage of the Chinese Exclusion Act
+d) The end of Reconstruction
+% Plains peoples depended on bison for food, shelter, and tools. Hunters and railroads wiped out the herds within a few decades.
+
+@topic 6.4 | The "New South"
+- Boosters such as Henry Grady called for a **"New South"** of factories and cities. Textile mills, tobacco plants, and steel grew, but the region stayed mostly agricultural and poor, with sharecropping widespread.
+- In **_Plessy v. Ferguson_** (1896) the Supreme Court upheld segregation under the rule of **"separate but equal."**
+- **Jim Crow laws** segregated public life. Poll taxes, literacy tests, and violence kept Black southerners from voting.
+- **Booker T. Washington** urged Black Americans to build economic strength through vocational education before demanding equality. **Ida B. Wells** led a campaign against lynching. **W. E. B. Du Bois** later demanded full civil rights at once.
+? In _Plessy v. Ferguson_, the Supreme Court ruled that
+a) segregation in public schools was unconstitutional
+*b) racial segregation was legal as long as the separate facilities were equal
+c) African Americans were not citizens
+d) literacy tests for voting were unconstitutional
+% The decision gave constitutional cover to Jim Crow laws until it was overturned for public schools in 1954.
+? Booker T. Washington argued that African Americans should
+a) demand full political and social equality at once
+*b) focus first on vocational training and economic self-improvement
+c) move to Africa
+d) form a separate political party
+% In his Atlanta speech of 1895, Washington accepted segregation for the time being in exchange for economic opportunity.
+? Southern states kept most African Americans from voting after Reconstruction by using
+a) the Fifteenth Amendment
+*b) poll taxes, literacy tests, and intimidation
+c) federal troops
+d) the Freedmen's Bureau
+% These methods avoided mentioning race directly and so got around the Fifteenth Amendment.
+
+@topic 6.5 | Technological Innovation
+- The **Bessemer process** made steel cheap, which made possible railroads, bridges, and skyscrapers.
+- **Electricity** lit cities and powered factories. Thomas Edison developed a practical light bulb and power systems.
+- The **telephone** (Alexander Graham Bell) and the telegraph sped communication.
+- New technology raised production, lowered prices, and created national markets for mass-produced goods.
+? The Bessemer process was important to industrialization because it
+a) generated electricity cheaply
+*b) made it possible to produce large amounts of steel at low cost
+c) allowed oil to be refined into kerosene
+d) sped up the weaving of cloth
+% Cheap, strong steel was the basic material of railroads, machinery, and tall buildings.
+? Which was a major effect of new technology on the American economy in the late 1800s?
+a) A decline in manufacturing output
+*b) Greater production and the growth of national markets
+c) The end of railroad construction
+d) A return to hand production in small shops
+% Faster transport, communication, and production let companies make and sell goods across the whole country.
+
+@topic 6.6 | The Rise of Industrial Capitalism
+- Business leaders built huge companies. **Andrew Carnegie** dominated steel by controlling every stage of production (**vertical integration**). **John D. Rockefeller** dominated oil by buying out competitors (**horizontal integration**) and forming a **trust**.
+- Supporters of **laissez-faire** said government should leave business alone. **Social Darwinism** claimed that the rich had succeeded because they were the fittest.
+- In the **Gospel of Wealth**, Carnegie argued that the rich had a duty to use their fortunes for the public good.
+- Critics called these men **robber barons**. The economy grew enormously, and so did the gap between rich and poor.
+? John D. Rockefeller gained control of the oil industry mainly through
+a) vertical integration, owning every stage from well to customer
+*b) horizontal integration, buying or driving out competing refineries
+c) government ownership
+d) labor union support
+% Standard Oil controlled about nine-tenths of American refining by absorbing its rivals and organizing them in a trust.
+? Social Darwinists in the late 1800s argued that
+a) government should redistribute wealth
+*b) wealth was a sign of fitness and government should not interfere with competition
+c) workers should own the factories
+d) monopolies should be broken up
+% The idea was used to justify great fortunes and to oppose aid to the poor and regulation of business.
+? In the Gospel of Wealth, Andrew Carnegie claimed that wealthy people should
+a) leave all of their money to their children
+*b) use their fortunes to benefit society through philanthropy
+c) pay much higher taxes
+d) share ownership with their workers
+% Carnegie gave away most of his fortune to libraries, schools, and other institutions, while opposing unions and higher wages.
+
+@topic 6.7 | Labor in the Gilded Age
+- Industrial workers faced low pay, long hours, dangerous conditions, and child labor.
+- The **Knights of Labor** welcomed nearly all workers, skilled and unskilled. The **American Federation of Labor**, led by **Samuel Gompers**, organized skilled workers and focused on wages, hours, and working conditions.
+- Major strikes included the **Great Railroad Strike** (1877), the **Homestead Strike** (1892), and the **Pullman Strike** (1894).
+- Government usually sided with employers, sending troops and issuing court orders against strikers.
+? The American Federation of Labor differed from the Knights of Labor because it
+a) welcomed all workers regardless of skill
+*b) organized mainly skilled workers and concentrated on wages, hours, and working conditions
+c) rejected the use of strikes
+d) called for government ownership of industry
+% Gompers avoided broad political goals and focused on practical gains for craft unions.
+? During major strikes of the Gilded Age, such as the Pullman Strike, the federal government generally
+a) forced employers to raise wages
+*b) supported employers by using troops and court orders against strikers
+c) stayed neutral
+d) took ownership of the companies
+% Officials treated strikes as threats to order and property. Labor would not gain federal protection until the 1930s.
+
+@topic 6.8 | Immigration and Migration in the Gilded Age
+- After 1880, **"new immigrants"** came mainly from **southern and eastern Europe**: Italians, Poles, Russian Jews, and others. Chinese immigrants came to the West.
+- Most settled in cities, in crowded tenements and ethnic neighborhoods, and took industrial jobs.
+- Urban **political machines**, such as New York's Tammany Hall, gave immigrants jobs and help in exchange for votes, and were often corrupt.
+- African Americans began leaving the South. Some, called Exodusters, moved to Kansas.
+? The "new immigrants" who arrived in large numbers after 1880 came mainly from
+a) Britain and Germany
+*b) southern and eastern Europe
+c) Mexico and Canada
+d) Ireland and Scandinavia
+% Italians, Poles, Russian Jews, and others differed in language and religion from earlier immigrants, which fed nativist fears.
+? Urban political machines held power in the late 1800s largely by
+a) restricting the vote to property owners
+*b) providing jobs and services to immigrants in exchange for their votes
+c) opposing all government spending
+d) supporting civil service reform
+% Machines met real needs that government did not, and they profited through bribes and kickbacks.
+
+@topic 6.9 | Responses to Immigration in the Gilded Age
+- **Nativists** claimed immigrants took jobs and threatened American culture.
+- The **Chinese Exclusion Act** (1882) banned Chinese laborers. It was the first federal law to bar immigrants by nationality.
+- **Settlement houses**, such as **Jane Addams's Hull House** in Chicago, offered immigrants classes, child care, and other help.
+- Many reformers pushed immigrants to adopt American customs. Immigrants also kept their own languages, religions, and traditions.
+? The Chinese Exclusion Act of 1882 is significant because it was the first federal law to
+a) grant citizenship to immigrants
+*b) ban immigration by a specific nationality
+c) limit immigration from Europe
+d) require immigrants to speak English
+% Pressure from western workers who blamed Chinese laborers for low wages led Congress to pass the ban.
+? Settlement houses such as Hull House were created to
+a) keep immigrants out of the country
+*b) provide education and social services to immigrants and the urban poor
+c) organize labor unions
+d) elect machine politicians
+% Middle-class reformers, many of them women, lived in poor neighborhoods and offered practical help.
+
+@topic 6.10 | Development of the Middle Class
+- Corporations needed managers, clerks, and salespeople, which created a growing **middle class** of white-collar workers. Many clerical jobs went to women.
+- With more income and free time, people spent on **leisure**: spectator sports, vaudeville, amusement parks, and department stores.
+- Wealthy donors, following the Gospel of Wealth, funded libraries, universities, and museums.
+? The growth of large corporations in the late 1800s contributed to the rise of a middle class by
+a) eliminating factory work
+*b) creating many white-collar jobs for managers and office workers
+c) lowering the cost of land
+d) ending child labor
+% Big companies needed people to keep accounts, supervise workers, and sell goods.
+
+@topic 6.11 | Reform in the Gilded Age
+- The **Social Gospel** taught that Christians had a duty to fix social problems such as poverty.
+- Writers proposed alternatives to unregulated capitalism. Henry George called for a tax on land, and Edward Bellamy imagined a cooperative society.
+- Women led many reforms. The **Woman's Christian Temperance Union** fought alcohol, and the **National American Woman Suffrage Association** (1890) worked for the vote.
+- Some workers and thinkers turned to socialism.
+? The Social Gospel movement taught that
+a) poverty was a sign of personal failure
+*b) Christians should work to improve conditions for the poor
+c) churches should stay out of public issues
+d) government should not regulate business
+% Its ministers applied Christian ethics to the problems of industrial cities and influenced later Progressive reform.
+? Which organization worked to win voting rights for women?
+a) The Woman's Christian Temperance Union
+b) The Knights of Labor
+*c) The National American Woman Suffrage Association
+d) The Grange
+% The association, led by Susan B. Anthony and Elizabeth Cady Stanton, campaigned state by state and for a federal amendment.
+
+@topic 6.12 | Controversies over the Role of Government in the Gilded Age
+- Most leaders favored **laissez-faire**, but farmers, workers, and small businesses demanded regulation.
+- The **Interstate Commerce Act** (1887) created a federal commission to regulate railroad rates. It was the first federal regulation of an industry.
+- The **Sherman Antitrust Act** (1890) outlawed combinations that restrained trade. It was weakly enforced and at first was used more against unions than against corporations.
+? The Interstate Commerce Act of 1887 was passed mainly to
+a) break up the oil trust
+*b) regulate railroad rates
+c) protect the right of workers to strike
+d) lower tariffs
+% Farmers and shippers complained of unfair rates. The law's commission had little power at first but set a precedent for federal regulation.
+? The Sherman Antitrust Act of 1890
+a) ended monopolies within a few years
+*b) outlawed trusts that restrained trade but was weakly enforced at first
+c) gave the federal government ownership of the railroads
+d) protected labor unions from court orders
+% Courts interpreted the law narrowly, and it was even turned against striking unions.
+
+@topic 6.13 | Politics in the Gilded Age
+- Politics was closely contested and often corrupt. Parties rewarded supporters with government jobs until the **Pendleton Civil Service Act** (1883) required exams for many federal positions.
+- Major issues were tariffs and the money supply. Farmers and debtors wanted **free silver** to raise prices. Bankers and business wanted the **gold standard**.
+- The **Populist Party** (1892) called for free silver, a graduated income tax, government ownership of railroads, and direct election of senators.
+- In 1896 Democrat **William Jennings Bryan**, backed by the Populists, gave his "Cross of Gold" speech and lost to Republican **William McKinley**.
+? Farmers in the 1890s supported the free coinage of silver because they believed it would
+a) lower crop prices
+*b) increase the money supply, raise crop prices, and make debts easier to repay
+c) reduce the power of labor unions
+d) end railroad regulation
+% Inflation helps debtors. Farmers had borrowed when prices were higher and were being squeezed by falling prices.
+? The Pendleton Civil Service Act of 1883
+a) gave women the right to vote in federal elections
+*b) required that many federal jobs be filled on the basis of merit
+c) raised tariffs on manufactured goods
+d) made the gold standard law
+% The assassination of President Garfield by a disappointed office seeker pushed Congress to limit the spoils system.
+? Which was a demand of the Populist Party?
+a) Higher tariffs to protect industry
+*b) Government ownership of the railroads
+c) A return to the gold standard
+d) Limits on the right to vote
+% Populists wanted government to check the power of railroads and banks. Several of their ideas, such as the income tax and direct election of senators, were adopted later.
+
+@topic 6.14 | Continuity and Change in Period 6
+- **Changes**: an industrial economy, national corporations, large cities, mass immigration, the end of the frontier, and the first federal regulation of business.
+- **Continuities**: racial discrimination and segregation, government support for business over labor, and conflict over American Indian land.
+? Which statement describes a continuity in American life from 1865 to 1898?
+a) Most Americans lived on farms throughout the period
+*b) African Americans in the South continued to face discrimination and the denial of their rights
+c) The federal government refused to aid railroad construction
+d) Immigration to the United States stopped
+% Slavery had ended, but sharecropping, segregation, and disenfranchisement kept Black southerners in a subordinate position.
+? Which was a major change in the American economy between 1865 and 1898?
+a) A shift from industry to agriculture
+*b) The rise of large corporations and mass production
+c) The decline of railroads
+d) The end of international trade
+% By 1900 the United States was the world's leading industrial producer, with an economy dominated by big business.
+
+@unit apush2-7 | Unit 7 | Period 7: 1890–1945 | 10–17% of exam
+
+@topic 7.1 | Contextualizing Period 7
+- The United States became a world power, acquiring overseas territory and fighting in two world wars.
+- At home, Progressive reformers and then the New Deal expanded the role of the federal government in the economy and in people's lives.
+- The economy swung from the boom of the 1920s to the Great Depression and then to wartime prosperity.
+- **Dates to anchor the period**: 1898 Spanish–American War; 1917 United States enters World War I; 1920 Nineteenth Amendment; 1929 stock market crash; 1933 New Deal begins; 1941 Pearl Harbor; 1945 World War II ends.
+? Which statement best describes a major change in the United States between 1890 and 1945?
+a) The federal government's role in the economy shrank
+*b) The federal government took on a much larger role in regulating the economy and providing for citizens
+c) The United States gave up its overseas territories
+d) Immigration reached its highest level in the 1930s
+% Progressive laws and then New Deal programs made Washington responsible for regulating business and protecting people's economic security.
+? Which list places the events in the correct order, from earliest to latest?
+a) Stock market crash, Spanish–American War, attack on Pearl Harbor, United States enters World War I
+*b) Spanish–American War, United States enters World War I, stock market crash, attack on Pearl Harbor
+c) United States enters World War I, Spanish–American War, stock market crash, attack on Pearl Harbor
+d) Spanish–American War, stock market crash, United States enters World War I, attack on Pearl Harbor
+% The dates are 1898, 1917, 1929, and 1941.
+
+@topic 7.2 | Imperialism: Debates
+- **Imperialists** argued that the United States needed overseas markets and raw materials, naval bases (as Alfred Thayer Mahan urged), and a share of world power. Some claimed a duty to spread American civilization, an idea tied to beliefs in racial superiority.
+- The census of 1890 reported that the frontier had closed, which made some look abroad.
+- **Anti-imperialists**, including Mark Twain and William Jennings Bryan, argued that ruling other peoples without their consent violated American principles of self-government.
+? Anti-imperialists opposed the annexation of the Philippines mainly because they believed
+a) the islands had no economic value
+*b) ruling people without their consent violated American ideals of self-government
+c) Spain deserved to keep its colonies
+d) the United States should annex Cuba instead
+% They pointed to the Declaration of Independence and argued that a republic should not hold colonies.
+? Supporters of American expansion overseas in the 1890s argued that the United States needed
+a) fewer trading partners
+*b) new markets for its goods and naval bases to protect its trade
+c) a smaller navy
+d) to avoid competition with European powers
+% Industrial output had outgrown the home market, and Mahan's writings linked national greatness to sea power.
+
+@topic 7.3 | The Spanish–American War
+- Americans sympathized with Cuba's revolt against Spain. Sensational **yellow journalism** and the explosion of the battleship **_Maine_** in Havana harbor pushed the country to war in 1898.
+- The war lasted a few months. Spain gave the United States **Puerto Rico**, **Guam**, and the **Philippines**. Cuba became independent, but the **Platt Amendment** let the United States intervene there.
+- Filipinos who wanted independence fought a long, bloody war against American rule.
+- The **Open Door policy** sought equal trading rights in China. The **Roosevelt Corollary** claimed a right to police Latin America, and the United States built the **Panama Canal**.
+? Which factor helped push the United States into war with Spain in 1898?
+a) A Spanish attack on Florida
+*b) Sensational newspaper stories about Cuba and the sinking of the battleship _Maine_
+c) Spain's alliance with Germany
+d) The closing of the Panama Canal
+% Newspapers competing for readers stirred public anger, and many blamed Spain for the explosion.
+? As a result of the Spanish–American War, the United States
+a) withdrew from the Caribbean
+*b) acquired Puerto Rico, Guam, and the Philippines
+c) annexed Cuba as a state
+d) lost its Pacific bases
+% The war made the United States a colonial power with possessions in the Caribbean and the Pacific.
+? The Roosevelt Corollary to the Monroe Doctrine stated that the United States
+a) would stay out of Latin American affairs
+*b) had the right to intervene in Latin American countries to keep order
+c) would give up the Panama Canal
+d) would support European colonies in the Americas
+% Roosevelt turned a warning to Europe into a justification for American intervention in the hemisphere.
+
+@topic 7.4 | The Progressives
+- **Progressives** were reformers, mostly middle class and urban, who wanted government to fix the problems of industrial society.
+- **Muckrakers** exposed abuses. Upton Sinclair's **_The Jungle_** led to the Meat Inspection Act and the Pure Food and Drug Act (1906).
+- Political reforms included the initiative, referendum, recall, and direct primary. Amendments brought the income tax (**Sixteenth**), direct election of senators (**Seventeenth**), Prohibition (**Eighteenth**), and women's suffrage (**Nineteenth**, 1920).
+- **Theodore Roosevelt** broke up trusts, regulated business, and conserved natural resources. **Woodrow Wilson** created the **Federal Reserve** and strengthened antitrust law.
+- Progressives disagreed among themselves, and most did little to challenge segregation.
+? Muckrakers contributed to Progressive reform by
+a) defending the practices of large corporations
+*b) exposing corruption and abuses in business and government
+c) organizing labor unions
+d) running for president
+% Their articles and books stirred public anger and pressured lawmakers to act.
+? The Seventeenth Amendment made government more democratic by
+a) giving women the right to vote
+*b) providing for the direct election of United States senators by voters
+c) lowering the voting age
+d) ending the Electoral College
+% Senators had been chosen by state legislatures, which were often influenced by special interests.
+? Upton Sinclair's novel _The Jungle_ led most directly to
+a) the breakup of Standard Oil
+*b) federal laws regulating meatpacking and food and drugs
+c) the creation of the Federal Reserve
+d) a constitutional amendment on child labor
+% Public disgust at the conditions he described pushed Congress to pass the first federal consumer protection laws.
+? The Federal Reserve Act of 1913 was passed to
+a) lower tariffs on imports
+*b) create a central banking system to regulate the money supply and stabilize banks
+c) break up railroad monopolies
+d) provide pensions for the elderly
+% The system of regional reserve banks gave the country a way to manage credit and respond to financial panics.
+
+@topic 7.5 | World War I: Military and Diplomacy
+- When war began in Europe in 1914, the United States declared neutrality.
+- It entered the war in **April 1917** after Germany resumed **unrestricted submarine warfare** and the **Zimmermann Telegram** revealed a German offer of alliance to Mexico.
+- American troops and supplies helped the Allies win in 1918.
+- Wilson's **Fourteen Points** called for self-determination, free trade, and a **League of Nations**. The **Treaty of Versailles** punished Germany and included the League.
+- The Senate **rejected the treaty**, and the United States never joined the League.
+? Which event did most to bring the United States into World War I?
+a) The assassination of Archduke Franz Ferdinand
+*b) Germany's return to unrestricted submarine warfare
+c) The Russian Revolution
+d) The sinking of the battleship _Maine_
+% German submarines sank American ships without warning. The Zimmermann Telegram added to public anger.
+? The United States Senate refused to approve the Treaty of Versailles mainly because many senators
+a) thought the treaty was too harsh on Britain
+*b) feared that joining the League of Nations would draw the country into foreign wars
+c) wanted to continue the war
+d) opposed self-determination for European peoples
+% Opponents argued that the League's promise of collective defense would take the power to declare war away from Congress.
+? Woodrow Wilson's Fourteen Points called for
+a) heavy reparations from Germany
+*b) self-determination for nations and an international organization to keep the peace
+c) the division of Germany among the Allies
+d) American colonies in Africa
+% Wilson wanted a peace based on principles instead of revenge. The other Allied leaders accepted only part of his plan.
+
+@topic 7.6 | World War I: Home Front
+- The government managed the economy for war, sold Liberty Bonds, and used propaganda to build support.
+- The **Espionage and Sedition Acts** punished criticism of the war. In **_Schenck v. United States_** (1919) the Supreme Court upheld limits on speech that created a "clear and present danger."
+- In the **Great Migration**, hundreds of thousands of African Americans moved from the rural South to northern cities for factory jobs and to escape Jim Crow.
+- After the war came the first **Red Scare**, with raids on suspected radicals, along with strikes and race riots.
+? The Great Migration during and after World War I was the movement of
+a) European immigrants to western farms
+*b) African Americans from the rural South to northern cities
+c) farmers from the Great Plains to California
+d) factory workers from the North to the South
+% Wartime labor shortages opened industrial jobs, and migrants hoped to escape segregation and violence.
+? In _Schenck v. United States_, the Supreme Court ruled that
+a) all restrictions on speech were unconstitutional
+*b) speech could be limited when it posed a clear and present danger
+c) the military draft was unconstitutional
+d) labor unions could not strike in wartime
+% The decision upheld the conviction of a man who had urged resistance to the draft.
+? The Red Scare of 1919 and 1920 was a reaction to
+a) the stock market crash
+*b) fear of communism and radicalism after the Russian Revolution and a wave of strikes
+c) the Scopes trial
+d) the attack on Pearl Harbor
+% Officials arrested and deported suspected radicals, many of them immigrants, often without regard for their rights.
+
+@topic 7.7 | 1920s: Innovations in Communication and Technology
+- **Henry Ford's assembly line** made automobiles cheap enough for ordinary families. Cars reshaped cities and suburbs and boosted the steel, oil, and rubber industries.
+- **Radio** and **movies** created a shared national popular culture.
+- Electricity brought new household appliances. **Advertising** and buying on **credit** fed a consumer economy.
+? The assembly line was important to the economy of the 1920s because it
+a) raised the price of manufactured goods
+*b) lowered the cost of goods such as automobiles so that many more people could buy them
+c) reduced the number of factory jobs to almost none
+d) ended the use of electricity in factories
+% Mass production cut the time and cost of building a car, and the automobile industry drove growth in many others.
+? Radio and motion pictures in the 1920s
+a) deepened the cultural differences among regions
+*b) helped create a national popular culture shared across regions
+c) were available only to the wealthy
+d) were banned in most states
+% People across the country heard the same programs and watched the same films and stars.
+
+@topic 7.8 | 1920s: Cultural and Political Controversies
+- The decade saw conflict between modern, urban values and traditional, rural ones.
+- **Nativism**: the **quota laws** of 1921 and 1924 sharply cut immigration from southern and eastern Europe and barred most Asians. The Ku Klux Klan revived.
+- The **Scopes Trial** (1925) pitted the teaching of evolution against religious fundamentalism.
+- **Prohibition** banned alcohol, was widely ignored, and fed organized crime.
+- The **Harlem Renaissance** was a flowering of African American writing, art, and music, with figures such as Langston Hughes. Women gained new freedoms, symbolized by the flapper.
+? The immigration laws of the 1920s
+a) opened the United States to immigrants from all countries equally
+*b) set quotas that sharply reduced immigration from southern and eastern Europe and Asia
+c) applied only to immigrants from Latin America
+d) increased immigration to fill factory jobs
+% The quotas were based on national origins and were designed to favor immigrants from northern and western Europe.
+? The Scopes Trial of 1925 reflected a conflict between
+a) labor unions and employers
+*b) religious fundamentalism and modern science
+c) farmers and railroads
+d) isolationists and internationalists
+% A Tennessee teacher was tried for teaching evolution, and the case became a national debate over tradition and change.
+? The Harlem Renaissance was
+a) a campaign to end Prohibition
+*b) a movement of African American writers, artists, and musicians who celebrated Black culture
+c) a program to rebuild northern cities
+d) a labor strike in New York City
+% It grew out of the Great Migration and expressed pride in African American identity.
+
+@topic 7.9 | The Great Depression
+- The **stock market crash** of October 1929 began the Depression. Deeper causes were overproduction, unequal distribution of wealth, risky borrowing and speculation, weak banks, and high tariffs.
+- By 1933 about a **quarter** of workers were unemployed. Banks failed, and farms and homes were lost.
+- Drought turned the southern plains into the **Dust Bowl**, and many farm families left for California.
+- President **Herbert Hoover** believed in limited government and voluntary action. His response was seen as too little.
+? Which was an underlying cause of the Great Depression?
+a) Excessive government regulation of banks
+*b) Overproduction of goods and an unequal distribution of income that limited what consumers could buy
+c) A shortage of factory capacity
+d) High wages for farm workers
+% Factories and farms produced more than people could afford to buy, and much of the decade's prosperity rested on credit.
+? President Hoover's response to the Depression was criticized mainly because he
+a) spent too much on direct aid to the unemployed
+*b) relied on voluntary action and opposed large-scale direct federal relief
+c) closed all of the banks
+d) raised income taxes on the poor
+% Hoover feared that direct federal aid would weaken self-reliance. As conditions worsened, voters turned against him.
+
+@topic 7.10 | The New Deal
+- **Franklin D. Roosevelt** took office in 1933 and promised relief for the needy, recovery for the economy, and reform of the financial system.
+- Programs created jobs (**Civilian Conservation Corps**, **Works Progress Administration**), insured bank deposits (**FDIC**), regulated the stock market (**SEC**), and paid farmers to cut production.
+- The **Social Security Act** (1935) created pensions for the elderly and unemployment insurance. The **Wagner Act** protected workers' right to form unions.
+- Critics on the right said the New Deal gave government too much power. Critics on the left, such as Huey Long, said it did too little. Roosevelt's plan to add justices to the Supreme Court failed.
+- The New Deal did not end the Depression, but it greatly **expanded the federal government's role** and drew African Americans, union members, and ethnic voters into the Democratic Party.
+? The Social Security Act of 1935 was significant because it
+a) ended unemployment
+*b) made the federal government responsible for providing old-age pensions and unemployment insurance
+c) nationalized the banks
+d) guaranteed every worker a job
+% It created a lasting system of social insurance and marked a major expansion of the government's responsibility for citizens' welfare.
+? The Wagner Act of 1935
+a) outlawed strikes
+*b) protected the right of workers to organize unions and bargain collectively
+c) set quotas on immigration
+d) insured bank deposits
+% With federal protection, union membership grew rapidly in the late 1930s.
+? Which statement best describes the long-term effect of the New Deal?
+a) It ended the Great Depression by 1935
+*b) It expanded the role of the federal government in the economy and in social welfare
+c) It reduced the power of the presidency
+d) It returned economic regulation to the states
+% Full recovery came only with wartime spending, but Americans now expected the federal government to manage the economy and protect them from hardship.
+? Critics on the political right opposed the New Deal because they believed it
+a) did too little to help the poor
+*b) gave the federal government too much power over the economy
+c) favored big business over workers
+d) ignored the problems of farmers
+% Business leaders and conservatives saw New Deal regulation and spending as a threat to free enterprise and individual liberty.
+
+@topic 7.11 | Interwar Foreign Policy
+- After World War I most Americans favored **isolationism**: staying out of foreign conflicts.
+- The United States still took part in arms-limitation talks and signed the Kellogg–Briand Pact, which renounced war.
+- The **Neutrality Acts** of the 1930s tried to keep the country out of another war.
+- As Germany and Japan advanced, Roosevelt moved to help the Allies. The **Lend-Lease Act** (1941) supplied arms to Britain and others.
+- Japan's attack on **Pearl Harbor** on December 7, 1941, brought the United States into the war.
+? The Neutrality Acts of the 1930s reflected the belief that the United States should
+a) join the League of Nations
+*b) avoid involvement in foreign wars
+c) build colonies in Asia
+d) ally with Germany
+% Many Americans believed that entering World War I had been a mistake and wanted to stay out of Europe's quarrels.
+? The Lend-Lease Act of 1941
+a) declared war on Germany
+*b) allowed the United States to supply arms to nations fighting the Axis powers
+c) banned trade with Britain
+d) created the military draft
+% The policy made the United States the "arsenal of democracy" before it entered the fighting.
+
+@topic 7.12 | World War II: Mobilization
+- War production **ended the Depression**. Factories ran at full capacity, and unemployment almost disappeared.
+- Millions of **women** took industrial jobs. African Americans pressed for a **"Double V"**: victory over fascism abroad and over racism at home.
+- Migration to war jobs in the North and West continued. Mexican workers came under the bracero program.
+- About 110,000 **Japanese Americans** were removed from the West Coast and held in **internment camps**. The Supreme Court upheld the policy in **_Korematsu v. United States_** (1944).
+? Which was an effect of World War II on the American home front?
+a) Unemployment rose sharply
+*b) Large numbers of women took jobs in defense industries
+c) The federal government reduced its spending
+d) Racial segregation ended in the armed forces during the war
+% With millions of men in uniform, women filled factory jobs, a change symbolized by "Rosie the Riveter."
+? During World War II, Japanese Americans living on the West Coast were
+a) drafted in greater numbers than other groups
+*b) forced into internment camps by the federal government
+c) given land in the Midwest
+d) deported to Japan
+% Fear and prejudice after Pearl Harbor led to the removal of citizens and noncitizens alike, though none had been convicted of disloyalty.
+? The "Double V" campaign called for
+a) victory in both Europe and the Pacific
+*b) victory over the Axis abroad and over racial discrimination at home
+c) votes for women and for eighteen-year-olds
+d) two terms for the president
+% African Americans pointed out the contradiction of fighting for freedom overseas while being denied it at home.
+
+@topic 7.13 | World War II: Military
+- The Allies agreed to defeat Germany first.
+- The Allied invasion of **Normandy** on **D-Day** (June 6, 1944) opened the way to Germany's defeat in May 1945.
+- In the Pacific, the victory at **Midway** (1942) turned the war. American forces then advanced by **island hopping**.
+- The United States dropped **atomic bombs** on Hiroshima and Nagasaki in August 1945, and Japan surrendered.
+- Allied victory rested on American industrial output, technology, and cooperation among the Allies.
+? The Battle of Midway in 1942 was significant because it
+a) brought the United States into the war
+*b) was the turning point of the war in the Pacific
+c) ended the war in Europe
+d) led to the invasion of Italy
+% The American navy destroyed several Japanese aircraft carriers, and Japan was on the defensive from then on.
+? President Truman said that he used atomic bombs against Japan mainly to
+a) punish Japan for its alliance with Germany
+*b) end the war quickly and avoid the casualties of an invasion of Japan
+c) test the weapon before the war ended
+d) force the Soviet Union to leave Asia
+% American planners expected an invasion of the Japanese home islands to cost very large numbers of lives.
+
+@topic 7.14 | Postwar Diplomacy
+- The United States came out of the war as the **most powerful nation** in the world, with its economy intact.
+- At **Yalta** (1945), Roosevelt, Churchill, and Stalin planned the occupation of Germany and the future of eastern Europe.
+- The United States helped found the **United Nations** and took a leading role in it, unlike after World War I.
+- Disagreements with the Soviet Union over eastern Europe grew quickly.
+? After World War II, the United States differed from its position after World War I because it
+a) returned to isolationism
+*b) joined an international peacekeeping organization and took a leading role in world affairs
+c) reduced its military to prewar levels and withdrew from Europe
+d) refused to occupy Germany and Japan
+% The United States had rejected the League of Nations in 1919. In 1945 it helped create the United Nations and hosted its headquarters.
+
+@topic 7.15 | Comparison in Period 7
+- **Progressives and New Dealers**: both used government to fix problems of industrial capitalism. The New Deal went much further in providing direct relief and economic security.
+- **The two world wars**: in both, the government managed the economy and limited civil liberties, and wartime jobs drew women and African Americans into new roles. After the first the nation turned inward; after the second it led.
+- **The 1920s and 1930s**: prosperity with limited government, then depression with active government.
+? Which statement compares the Progressive Era and the New Deal accurately?
+a) Both aimed to reduce the role of government
+*b) Both expanded the role of government, but the New Deal provided far more direct aid to individuals
+c) Only the Progressive Era regulated business
+d) Both were responses to economic depression
+% Progressives regulated business and reformed politics in a time of growth. The New Deal added jobs programs and social insurance during a depression.
+? One similarity between the home fronts in World War I and World War II was that in both wars
+a) the government refused to manage the economy
+*b) wartime labor needs opened new job opportunities for women and African Americans
+c) civil liberties were fully protected
+d) unemployment rose
+% In both wars labor shortages drew new groups into industrial work, and in both the government restricted some freedoms.
+
+@unit apush2-8 | Unit 8 | Period 8: 1945–1980 | 10–17% of exam
+
+@topic 8.1 | Contextualizing Period 8
+- The United States led the Western side in the **Cold War** against the Soviet Union.
+- The postwar economy boomed, and the middle class grew.
+- Movements for civil rights transformed American society, and the federal government expanded again under the Great Society.
+- By the 1970s, the Vietnam War, Watergate, and economic trouble had shaken confidence in government.
+- **Dates to anchor the period**: 1947 Truman Doctrine; 1950–1953 Korean War; 1954 _Brown v. Board of Education_; 1962 Cuban Missile Crisis; 1964 Civil Rights Act; 1965 Voting Rights Act; 1968 Tet Offensive; 1974 Nixon resigns; 1980 Reagan elected.
+? Which list places the events in the correct order, from earliest to latest?
+a) Cuban Missile Crisis, _Brown v. Board of Education_, Truman Doctrine, resignation of Richard Nixon
+*b) Truman Doctrine, _Brown v. Board of Education_, Cuban Missile Crisis, resignation of Richard Nixon
+c) _Brown v. Board of Education_, Truman Doctrine, resignation of Richard Nixon, Cuban Missile Crisis
+d) Truman Doctrine, Cuban Missile Crisis, _Brown v. Board of Education_, resignation of Richard Nixon
+% The dates are 1947, 1954, 1962, and 1974.
+
+@topic 8.2 | The Cold War from 1945 to 1980
+- **Containment** was the policy of stopping the spread of communism.
+- The **Truman Doctrine** (1947) promised aid to countries resisting communism. The **Marshall Plan** gave economic aid to rebuild western Europe. **NATO** (1949) was a military alliance against the Soviet Union.
+- The **Korean War** (1950–1953) ended in a stalemate that left Korea divided.
+- An arms race and a space race followed. The **Cuban Missile Crisis** (1962) brought the superpowers close to nuclear war.
+- In the 1970s, President Nixon pursued **détente**, a relaxing of tensions, and visited China.
+? The goal of the policy of containment was to
+a) overthrow the government of the Soviet Union
+*b) prevent communism from spreading to additional countries
+c) withdraw American forces from Europe and Asia
+d) end the nuclear arms race
+% Containment guided American policy for decades and lay behind the Truman Doctrine, the Marshall Plan, and wars in Korea and Vietnam.
+? The Marshall Plan was designed to
+a) rebuild the Soviet economy
+*b) rebuild western European economies so that communism would be less appealing
+c) create a military alliance in Asia
+d) divide Germany permanently
+% American leaders believed that poverty and disorder helped communist parties win support.
+? The Cuban Missile Crisis of 1962 ended when
+a) the United States invaded Cuba
+*b) the Soviet Union agreed to remove its missiles from Cuba
+c) Cuba joined NATO
+d) Fidel Castro was removed from power
+% After a tense standoff and an American naval blockade, the Soviets withdrew the missiles and the United States pledged not to invade.
+
+@topic 8.3 | The Red Scare
+- Fear of communist influence at home led to a second **Red Scare**.
+- The government required loyalty checks of federal employees. The House Un-American Activities Committee investigated Hollywood and others.
+- Senator **Joseph McCarthy** made reckless, unproven charges that communists had infiltrated the government. **McCarthyism** ruined careers until the Senate censured him in 1954.
+- Supporters said these steps protected national security. Critics said they violated civil liberties.
+? "McCarthyism" refers to
+a) support for the Marshall Plan
+*b) making accusations of disloyalty without adequate evidence
+c) opposition to the Korean War
+d) the policy of containment
+% McCarthy's charges were rarely supported by proof, but fear of being accused silenced many people.
+
+@topic 8.4 | Economy after 1945
+- The **GI Bill** paid for veterans' college education and backed their home loans.
+- The **baby boom**, cheap suburban housing such as **Levittown**, and the **Interstate Highway Act** (1956) fueled the growth of suburbs.
+- Rising wages, strong unions, and federal spending built a large middle class and a consumer culture.
+- Many Americans and businesses moved to the **Sun Belt** of the South and West.
+? The GI Bill contributed to postwar prosperity by
+a) raising taxes on corporations
+*b) helping veterans pay for college and buy homes
+c) guaranteeing every veteran a government job
+d) ending the military draft
+% Millions of veterans gained education and home ownership, which expanded the middle class.
+? Which development contributed most to the growth of suburbs after World War II?
+a) The decline of the automobile industry
+*b) Affordable mass-produced housing and new highways
+c) A drop in the birth rate
+d) Restrictions on home loans
+% Builders put up houses quickly and cheaply, federal loans made them affordable, and highways let residents commute.
+
+@topic 8.5 | Culture after 1945
+- **Television** spread a common mass culture.
+- Many observers saw the 1950s as a time of **conformity**, especially in the suburbs.
+- Critics pushed back. **Beat** writers rejected conformity, **rock and roll** created a separate youth culture, and writers pointed to poverty that persisted amid prosperity.
+? Beat writers of the 1950s were known for
+a) celebrating suburban life
+*b) rejecting the conformity and materialism of mainstream society
+c) supporting McCarthyism
+d) defending segregation
+% Writers such as Jack Kerouac and Allen Ginsberg questioned middle-class values and influenced the later counterculture.
+
+@topic 8.6 | Early Steps in the Civil Rights Movement (1940s and 1950s)
+- President **Truman** ordered the armed forces **desegregated** in 1948.
+- In **_Brown v. Board of Education_** (1954), the Supreme Court ruled that segregated public schools were unconstitutional, overturning "separate but equal" in education.
+- Many southern officials resisted. In 1957 President Eisenhower sent federal troops to enforce integration at a high school in **Little Rock**, Arkansas.
+- The **Montgomery Bus Boycott** (1955–1956), begun after Rosa Parks's arrest, made **Martin Luther King Jr.** a national leader and showed the power of nonviolent protest.
+? In _Brown v. Board of Education_, the Supreme Court ruled that
+a) segregation was legal if facilities were equal
+*b) racial segregation in public schools was unconstitutional
+c) public schools must be funded equally
+d) states could decide for themselves whether to integrate
+% The Court held that separate schools were inherently unequal, which overturned _Plessy v. Ferguson_ in public education.
+? The Montgomery Bus Boycott was significant because it
+a) led immediately to the Civil Rights Act
+*b) showed that organized nonviolent protest could defeat segregation and brought Martin Luther King Jr. to prominence
+c) ended segregation in public schools
+d) was organized by the federal government
+% After more than a year of boycott, the Supreme Court ruled that segregated buses were unconstitutional.
+? President Eisenhower sent federal troops to Little Rock, Arkansas, in 1957 to
+a) stop a civil rights march
+*b) enforce a court order to integrate a public high school
+c) put down a labor strike
+d) protect a military base
+% The governor had used the National Guard to block Black students. Eisenhower acted to uphold federal authority.
+
+@topic 8.7 | America as a World Power
+- As colonies in Asia and Africa became independent, the United States and the Soviet Union competed for their support.
+- The United States used covert action to remove governments it saw as unfriendly, as in **Iran** (1953) and **Guatemala** (1954).
+- In his farewell address, President Eisenhower warned of the growing power of the **military-industrial complex**.
+- American involvement in the Middle East and Latin America grew.
+? In his farewell address in 1961, President Eisenhower warned against
+a) foreign aid to Europe
+*b) the growing influence of the military-industrial complex
+c) the dangers of the space program
+d) the spread of television
+% He feared that the permanent arms industry and the military together could gain too much power over government policy.
+? During the Cold War, the United States often responded to new nations in Asia, Africa, and Latin America by
+a) refusing all contact with them
+*b) trying to keep them from aligning with the Soviet Union, at times through covert action
+c) inviting them to become states
+d) ending all foreign aid
+% Both superpowers offered aid and arms, and the United States at times backed coups against leaders it distrusted.
+
+@topic 8.8 | The Vietnam War
+- The United States backed South Vietnam against communist North Vietnam, following the **domino theory** that one country's fall would lead to others.
+- The **Gulf of Tonkin Resolution** (1964) gave President **Lyndon Johnson** broad authority to use force, and he sent hundreds of thousands of troops.
+- The **Tet Offensive** (1968) convinced many Americans the war could not be won. A large **antiwar movement** grew.
+- President **Nixon** gradually withdrew American troops while widening the bombing. American forces left in 1973, and South Vietnam fell in 1975.
+- Congress passed the **War Powers Act** (1973) to limit the president's power to send troops into combat.
+? The Gulf of Tonkin Resolution of 1964
+a) declared war on North Vietnam
+*b) gave the president broad authority to use military force in Vietnam
+c) ended American involvement in Vietnam
+d) set limits on the draft
+% Congress never declared war. Presidents used the resolution to justify a major escalation.
+? The Tet Offensive of 1968 was a turning point in the Vietnam War because it
+a) destroyed the North Vietnamese army
+*b) turned American public opinion against the war
+c) led to an invasion of China
+d) ended the military draft
+% The attacks failed militarily, but they contradicted official claims that victory was near.
+? Congress passed the War Powers Act in 1973 in order to
+a) expand the president's authority in wartime
+*b) limit the president's ability to commit troops without the approval of Congress
+c) end the military draft
+d) increase defense spending
+% After Vietnam, Congress tried to reclaim its constitutional role in decisions about war.
+
+@topic 8.9 | The Great Society
+- President Johnson's **Great Society** was the largest expansion of federal social programs since the New Deal.
+- It created **Medicare** for the elderly and **Medicaid** for the poor, gave federal aid to schools, and launched a **War on Poverty**.
+- The **Immigration Act of 1965** ended the national-origins quotas, which opened the country to more immigrants from Asia and Latin America.
+- The **Warren Court** expanded individual rights, including the rights of people accused of crimes.
+? Which programs were created as part of the Great Society?
+a) Social Security and the Civilian Conservation Corps
+*b) Medicare and Medicaid
+c) The Federal Reserve and the income tax
+d) The GI Bill and the Marshall Plan
+% These programs provided health insurance for the elderly and the poor and remain central to federal social policy.
+? The Immigration Act of 1965 changed American immigration policy by
+a) ending all immigration from Asia
+*b) abolishing the national-origins quota system
+c) creating the first quotas
+d) limiting immigration to Europeans
+% The law led to a large increase in immigration from Asia and Latin America in the following decades.
+
+@topic 8.10 | The African American Civil Rights Movement (1960s)
+- Activists used nonviolent **direct action**: sit-ins, Freedom Rides, and marches. The **March on Washington** (1963) drew about 250,000 people.
+- The **Civil Rights Act of 1964** banned discrimination in public places and in employment. The **Voting Rights Act of 1965** outlawed literacy tests and put federal officials in charge of registration where voting had been blocked.
+- **Martin Luther King Jr.** led the nonviolent movement. **Malcolm X** and advocates of **Black Power** stressed self-defense, pride, and control of their own communities.
+- Riots in northern and western cities showed that discrimination in housing and jobs remained.
+? The Voting Rights Act of 1965
+a) lowered the voting age to eighteen
+*b) banned literacy tests and provided federal oversight of voter registration
+c) gave women the right to vote
+d) ended the poll tax in local elections only
+% Black voter registration in the South rose sharply after the law took effect.
+? The Civil Rights Act of 1964
+a) applied only to public schools
+*b) outlawed discrimination in public accommodations and in employment
+c) guaranteed the right to vote
+d) ended segregation in the armed forces
+% It was the most sweeping civil rights law since Reconstruction and also banned discrimination based on sex.
+? Advocates of Black Power differed from Martin Luther King Jr. because they
+a) opposed voting rights
+*b) emphasized racial pride and self-reliance and questioned the strategy of nonviolence and integration
+c) supported segregation laws
+d) worked only in the rural South
+% Younger activists, frustrated by slow progress and continued violence, called for African Americans to control their own institutions.
+
+@topic 8.11 | The Civil Rights Movement Expands
+- **Women**: Betty Friedan's **_The Feminine Mystique_** (1963) and the National Organization for Women challenged limits on women. **Title IX** (1972) banned sex discrimination in education. The **Equal Rights Amendment** passed Congress but was not ratified.
+- **Latinos**: **César Chávez** and Dolores Huerta organized farm workers.
+- **American Indians**: the **American Indian Movement** demanded self-determination and the honoring of treaties.
+- **Gay and lesbian Americans**: the **Stonewall** uprising (1969) began a wider movement for equal rights.
+? Betty Friedan's book _The Feminine Mystique_ helped start the modern women's movement by
+a) defending traditional roles for women
+*b) describing the dissatisfaction of many women who were limited to the role of housewife
+c) calling for an end to women's suffrage
+d) opposing the Civil Rights Act
+% The book challenged the idea that women could find fulfillment only at home, and its author helped found the National Organization for Women.
+? César Chávez is best known for
+a) leading the American Indian Movement
+*b) organizing farm workers to win better pay and working conditions
+c) arguing civil rights cases before the Supreme Court
+d) founding the National Organization for Women
+% He used strikes, boycotts, and nonviolent protest to win union contracts for mostly Mexican American farm workers.
+? The Equal Rights Amendment
+a) was ratified in 1972
+*b) was passed by Congress but fell short of ratification by the states
+c) was struck down by the Supreme Court
+d) gave women the right to vote
+% Opponents argued that it would undermine traditional family roles, and it fell three states short.
+
+@topic 8.12 | Youth Culture of the 1960s
+- College students formed the **New Left**, which criticized the Vietnam War, racism, and the power of large institutions.
+- The **counterculture** rejected mainstream values in dress, music, and lifestyle.
+- Protests against the war spread across campuses.
+- Many other Americans reacted against the protests, and a conservative response grew.
+? The counterculture of the 1960s was characterized by
+a) support for the Vietnam War
+*b) rejection of traditional social values and mainstream lifestyles
+c) loyalty to large corporations
+d) a return to the conformity of the 1950s
+% Many young people experimented with new forms of music, dress, and community and questioned authority.
+
+@topic 8.13 | The Environment and Natural Resources from 1968 to 1980
+- Rachel Carson's **_Silent Spring_** (1962) warned of the dangers of pesticides and helped launch the modern environmental movement.
+- The first **Earth Day** was held in 1970. That year the **Environmental Protection Agency** was created, and Congress passed clean air and clean water laws.
+- An **oil embargo** by Arab oil-producing countries in 1973 caused shortages and showed American dependence on foreign oil.
+? Rachel Carson's book _Silent Spring_ is significant because it
+a) defended the use of nuclear power
+*b) drew public attention to the environmental damage caused by pesticides
+c) proposed the interstate highway system
+d) opposed the creation of national parks
+% The book led many Americans to question the effects of industrial chemicals and encouraged new environmental laws.
+? The oil embargo of 1973 showed that the United States
+a) produced more oil than it needed
+*b) depended heavily on imported oil
+c) had ended its involvement in the Middle East
+d) no longer used oil for transportation
+% Gasoline shortages and rising prices contributed to the economic troubles of the 1970s.
+
+@topic 8.14 | Society in Transition
+- The **Watergate scandal** grew out of a break-in at Democratic headquarters and the cover-up that followed. **Nixon resigned** in 1974. Together with Vietnam, it deepened public distrust of government.
+- In the 1970s the economy suffered **stagflation**: high inflation and high unemployment at the same time.
+- A **conservative movement** grew. It drew on opposition to high taxes and big government, on evangelical Christians, and on reaction against the social changes of the 1960s.
+? The Watergate scandal led to
+a) the impeachment and removal of President Johnson
+*b) the resignation of President Nixon and greater public distrust of government
+c) the end of the Cold War
+d) the election of a third-party president
+% Evidence that Nixon had helped cover up the break-in left him facing certain impeachment.
+? Stagflation, the economic problem of the 1970s, was a combination of
+a) falling prices and low unemployment
+*b) rising prices and high unemployment
+c) rapid growth and falling prices
+d) high interest rates and a trade surplus
+% Inflation and unemployment normally move in opposite directions, so having both at once was hard for policymakers to fight.
+? Which development contributed to the rise of the conservative movement in the 1970s?
+a) Growing public trust in the federal government
+*b) The political activism of evangelical Christians and opposition to high taxes
+c) The success of Great Society programs in ending poverty
+d) Increased support for labor unions
+% Many voters blamed liberal policies for economic and social problems and wanted lower taxes and a return to traditional values.
+
+@topic 8.15 | Continuity and Change in Period 8
+- **Changes**: legal segregation ended, federal social programs grew, immigration law opened, women's roles widened, and trust in government fell.
+- **Continuities**: Cold War rivalry shaped foreign policy throughout, the economy stayed consumer-driven, and racial and economic inequality persisted.
+? Which statement describes a continuity in American foreign policy from 1945 to 1980?
+a) A return to isolationism
+*b) A commitment to containing the influence of the Soviet Union
+c) A refusal to form military alliances
+d) Steady cuts in military spending
+% From the Truman Doctrine through the 1970s, opposing Soviet power remained the central goal, even as methods changed.
+? Which was a major change in American society between 1945 and 1980?
+a) The federal government withdrew from social welfare
+*b) Laws requiring racial segregation were struck down or repealed
+c) Immigration from Asia and Latin America ended
+d) Women left the paid workforce
+% Court rulings and the civil rights laws of the 1960s ended legal segregation, though inequality continued.
+
+@unit apush2-9 | Unit 9 | Period 9: 1980–Present | 4–6% of exam
+
+@topic 9.1 | Contextualizing Period 9
+- A conservative movement gained power with the election of **Ronald Reagan** in 1980 and reshaped debates over the role of government.
+- The Cold War ended, leaving the United States the only superpower.
+- New technology and global trade changed the economy, and immigration changed the population.
+- After the attacks of **September 11, 2001**, the United States fought wars in Afghanistan and Iraq.
+? Which development marked the beginning of Period 9?
+a) The end of the Vietnam War
+*b) The election of Ronald Reagan and the rise of conservatism
+c) The fall of the Soviet Union
+d) The attacks of September 11, 2001
+% Reagan's victory in 1980 signaled a shift away from the liberal policies of the New Deal and Great Society eras.
+
+@topic 9.2 | Reagan and Conservatism
+- **Reagan** argued that government was the problem and not the solution.
+- **Reaganomics** (supply-side economics) cut income taxes, reduced regulation, and trimmed some social programs, on the theory that this would spur growth.
+- Military spending rose sharply. With lower taxes and higher spending, the **federal deficit** grew.
+- Conservatives also promoted traditional social values. Many popular programs, such as Social Security and Medicare, remained in place.
+? Supply-side economics, as practiced by the Reagan administration, was based on the idea that
+a) higher government spending would end recessions
+*b) cutting taxes and regulation would encourage investment and economic growth
+c) wages and prices should be set by the government
+d) trade should be restricted to protect jobs
+% Supporters argued that the benefits of lower taxes on businesses and high earners would spread through the economy.
+? Which was a result of the Reagan administration's policies in the 1980s?
+a) A large reduction in military spending
+*b) Lower income tax rates and larger federal budget deficits
+c) The end of Social Security
+d) A major expansion of federal regulation
+% Tax cuts combined with a military buildup meant the government spent far more than it collected.
+
+@topic 9.3 | The End of the Cold War
+- Reagan first took a hard line against the Soviet Union and built up the military, including a proposed missile-defense system.
+- Soviet leader **Mikhail Gorbachev** began reforms, and the two leaders signed an arms-reduction treaty.
+- The **Berlin Wall** fell in 1989, and the **Soviet Union dissolved** in 1991.
+- The United States, now the only superpower, led a coalition in the **Persian Gulf War** (1991) after Iraq invaded Kuwait.
+? Which development contributed to the end of the Cold War?
+a) The American defeat in Vietnam
+*b) Reforms within the Soviet Union and the collapse of communist governments in eastern Europe
+c) The founding of NATO
+d) The Cuban Missile Crisis
+% Economic weakness, Gorbachev's reforms, and popular movements in eastern Europe brought down Soviet-backed governments and then the Soviet Union itself.
+? After the Cold War ended, the United States
+a) withdrew from world affairs
+*b) remained deeply involved in the world as the only superpower
+c) disbanded NATO
+d) formed a military alliance with Iraq
+% American forces continued to be used abroad, as in the Persian Gulf War of 1991.
+
+@topic 9.4 | A Changing Economy
+- **Computers and the internet** transformed work, communication, and daily life.
+- **Globalization** expanded trade. The North American Free Trade Agreement (1994) removed most trade barriers with Canada and Mexico.
+- Manufacturing jobs and union membership declined, and service jobs grew.
+- Productivity rose, but wages for many workers stagnated and **income inequality** widened.
+? Which statement describes a change in the American economy after 1980?
+a) Manufacturing employment grew faster than any other sector
+*b) Manufacturing jobs declined while service and technology jobs grew
+c) Union membership reached its highest level
+d) International trade decreased
+% Factories moved overseas or automated, and new jobs were concentrated in services and digital technology.
+? One effect of the economic changes of the late twentieth century was
+a) a narrowing of the gap between rich and poor
+*b) rising income inequality as wages stagnated for many workers
+c) the disappearance of the service sector
+d) a decline in the use of computers
+% Gains from growth went disproportionately to those with the highest incomes and the most education.
+
+@topic 9.5 | Migration and Immigration in the 1990s and 2000s
+- Immigration rose sharply after 1965, mostly from **Latin America and Asia**.
+- Population continued to shift to the **South and West**, which gained political influence.
+- Immigrants supplied labor and added to the nation's cultural diversity.
+- Americans debated immigration policy, including how to respond to unauthorized immigration.
+? Since 1980, most immigrants to the United States have come from
+a) northern and western Europe
+*b) Latin America and Asia
+c) southern and eastern Europe
+d) Africa and Australia
+% The end of the national-origins quotas in 1965 changed the sources of immigration.
+? Internal migration within the United States since 1980 has mainly
+a) moved people from the South to the Northeast
+*b) increased the population and political power of the South and West
+c) emptied the largest cities
+d) returned people to farms
+% Growth in the Sun Belt shifted seats in Congress and electoral votes toward those regions.
+
+@topic 9.6 | Challenges of the 21st Century
+- On **September 11, 2001**, terrorists attacked the World Trade Center and the Pentagon. The United States invaded **Afghanistan** in 2001 and **Iraq** in 2003.
+- The **Patriot Act** expanded government surveillance, which set off debate over security and civil liberties.
+- A financial crisis in 2008 caused the **Great Recession**.
+- In 2008 **Barack Obama** was elected the first African American president.
+- Americans continue to debate climate change, energy, health care, and the role of government.
+? After the attacks of September 11, 2001, the United States
+a) reduced its military presence in the Middle East
+*b) launched wars in Afghanistan and Iraq and expanded government surveillance powers
+c) closed its borders to all immigrants
+d) withdrew from the United Nations
+% The government's response abroad and at home raised lasting debates about the use of force and about privacy.
+? The Patriot Act was controversial because critics believed it
+a) weakened the armed forces
+*b) threatened civil liberties by expanding the government's surveillance powers
+c) raised taxes on the middle class
+d) ended immigration
+% Supporters argued that the powers were needed to prevent attacks. Opponents said they went too far.
+
+@topic 9.7 | Causation in Period 9
+- **Causes of the conservative rise**: distrust of government after Vietnam and Watergate, the economic troubles of the 1970s, opposition to taxes, and religious activism.
+- **Causes of economic change**: digital technology and global trade.
+- **Effects of the end of the Cold War**: the United States became the sole superpower and took on new overseas commitments.
+? Which development best explains the conservative political victories of the 1980s?
+a) Widespread satisfaction with the economy of the 1970s
+*b) Public frustration with inflation, taxes, and the federal government
+c) The expansion of Great Society programs
+d) The growth of labor unions
+% Stagflation and distrust left over from Vietnam and Watergate made many voters receptive to calls for smaller government.
+? The growth of digital technology after 1980 most directly caused
+a) a decline in international trade
+*b) major changes in how Americans work and communicate
+c) the end of the service economy
+d) a return to manufacturing as the main source of jobs
+% Computers and the internet created new industries, changed existing ones, and linked the American economy more closely to the world.

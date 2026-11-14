@@ -5,7 +5,7 @@ A single-page study guide with notes, practice questions and a score report for:
 - AP Macroeconomics, Units 1–3
 - AP Chemistry, Units 1–3
 - AP Biology, Units 1–3
-- AP United States History, Units 1–2
+- AP United States History: APUSH 1 (Units 1–5, 1491–1877) and APUSH 2 (Units 6–9, 1865–present)
 - AP Calculus AB, Units 1–3
 
 `index.html` is the whole site. It is generated; edit the files in `source/` and rebuild instead of editing it by hand.
