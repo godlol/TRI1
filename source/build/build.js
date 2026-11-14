@@ -322,7 +322,7 @@ function reportView() {
 </div></section>`;
 }
 
-const CREDIT_NAME = 'godlol';
+const CREDIT_NAME = 'Tony Zheng';
 const CREDIT_URL = 'https://github.com/godlol';
 const REPO_URL = 'https://github.com/godlol/TRI1';
 
