@@ -1,0 +1,630 @@
+@course chem | AP Chemistry | Chemistry | Units 1–3
+
+@unit chem-1 | Unit 1 | Atomic Structure and Properties | 7–9% of exam
+
+@topic 1.1 | Moles and Molar Mass
+- The **mole** connects the mass of a sample to the number of particles in it. One mole contains $6.022 \times 10^{23}$ particles, which is **Avogadro's number** ($N_A$).
+- **Molar mass** in g/mol has the same numerical value as the average mass of one atom or molecule in amu.
+- Use dimensional analysis to move between grams, moles, and particles. Use the subscripts in a formula to go from molecules to atoms.
+= $n = \frac{m}{M}$ :: Moles from mass
+= $\text{number of particles} = n \times N_A$ :: Particles from moles
+! Check whether a question asks for atoms or molecules. One mole of $\ce{CO2}$ contains two moles of oxygen atoms.
+? How many moles of oxygen atoms are in 22.0 g of $\ce{CO2}$ (molar mass 44.01 g/mol)?
+a) 0.250 mol
+b) 0.500 mol
+*c) 1.00 mol
+d) 2.00 mol
+% $22.0/44.01 = 0.500$ mol of $\ce{CO2}$. Each molecule contains two oxygen atoms, so there is $1.00$ mol of O atoms. Stopping at 0.500 mol forgets the subscript.
+? How many molecules are in 9.01 g of $\ce{H2O}$ (molar mass 18.02 g/mol)?
+*a) $3.01 \times 10^{23}$
+b) $6.02 \times 10^{23}$
+c) $9.03 \times 10^{23}$
+d) $5.43 \times 10^{24}$
+% $9.01/18.02 = 0.500$ mol, and $0.500 \times 6.022 \times 10^{23} = 3.01 \times 10^{23}$ molecules. The value $9.03 \times 10^{23}$ is the number of atoms, not molecules.
+
+@topic 1.2 | Mass Spectra of Elements
+- The **mass spectrum** of an element has one peak for each **isotope**. A peak's position gives the isotope's mass, and its height gives the isotope's relative abundance.
+- Isotopes of an element have the same number of protons and different numbers of neutrons.
+- **Average atomic mass** is the abundance-weighted average of the isotope masses. It lies closest to the mass of the most abundant isotope.
+= $\text{average atomic mass} = \sum (\text{isotope mass} \times \text{fractional abundance})$ :: Weighted average
+! Do not take a simple average of the isotope masses. Convert each percent to a decimal and weight each mass.
+? An element has two isotopes: one of mass 35.0 amu with 75.0% abundance and one of mass 37.0 amu with 25.0% abundance. What is the average atomic mass?
+a) 35.0 amu
+*b) 35.5 amu
+c) 36.0 amu
+d) 36.5 amu
+% $35.0(0.750) + 37.0(0.250) = 26.25 + 9.25 = 35.5$ amu. The simple average, 36.0, ignores the abundances.
+? The mass spectrum of an element shows two peaks: one at 10 amu with 20% relative abundance and one at 11 amu with 80% relative abundance. Which element is it?
+a) Beryllium
+*b) Boron
+c) Carbon
+d) Neon
+% $10(0.20) + 11(0.80) = 10.8$ amu, which matches the average atomic mass of boron (10.81).
+
+@topic 1.3 | Elemental Composition of Pure Substances
+- A pure substance has a fixed composition. The **law of definite proportions** says a compound always contains the same elements in the same ratio by mass.
+- The **empirical formula** is the lowest whole-number ratio of atoms. The **molecular formula** is a whole-number multiple of it.
+- To find an empirical formula: treat percents as grams in a 100 g sample, convert to moles, divide by the smallest number of moles, and scale to whole numbers.
+= $\text{mass percent of element} = \frac{\text{mass of element in 1 mol of compound}}{\text{molar mass of compound}} \times 100$ :: Mass percent
+= $\text{multiple} = \frac{\text{molar mass}}{\text{empirical formula mass}}$ :: Molecular formula
+! Convert masses to moles before taking ratios. A ratio of grams is not a ratio of atoms.
+? A compound is 40.0% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. What is its empirical formula?
+a) $\ce{CHO2}$
+*b) $\ce{CH2O}$
+c) $\ce{C2H6O}$
+d) $\ce{CH4O}$
+% In 100 g: $40.0/12.01 = 3.33$ mol C, $6.7/1.008 = 6.6$ mol H, $53.3/16.00 = 3.33$ mol O. Dividing by 3.33 gives a ratio of 1 : 2 : 1.
+? A compound has the empirical formula $\ce{CH2}$ (14.03 g/mol) and a molar mass of 84.16 g/mol. What is its molecular formula?
+a) $\ce{C2H4}$
+b) $\ce{C3H6}$
+c) $\ce{C6H6}$
+*d) $\ce{C6H12}$
+% $84.16/14.03 = 6$, so the molecular formula is six empirical units: $\ce{C6H12}$.
+
+@topic 1.4 | Composition of Mixtures
+- A **mixture** contains two or more substances whose proportions can vary. A pure substance has one fixed composition.
+- **Elemental analysis** measures the mass percent of each element in a sample. Comparing the result with the percent calculated for the pure compound shows whether the sample is pure.
+- If the measured percent of an element is too low, the impurity contains a smaller percent of that element than the compound does (or none). If it is too high, the impurity contains a larger percent.
+= $\text{mass percent of component} = \frac{\text{mass of component}}{\text{total mass of mixture}} \times 100$ :: Mixture composition
+? Pure $\ce{NaCl}$ is 60.7% chlorine by mass. A sample labeled NaCl is found to be 58.0% chlorine by mass. Which impurity could account for the result?
+a) $\ce{LiCl}$, which is 83.6% Cl by mass
+b) $\ce{MgCl2}$, which is 74.5% Cl by mass
+*c) $\ce{KCl}$, which is 47.6% Cl by mass
+d) $\ce{AlCl3}$, which is 79.8% Cl by mass
+% The sample has less chlorine than pure NaCl, so the impurity must have a lower mass percent of chlorine than 60.7%. Only KCl does.
+? A 10.0 g mixture of sand and table salt is stirred into water and filtered. After drying, 2.5 g of sand remains on the filter paper. What is the mass percent of salt in the mixture?
+a) 25%
+b) 33%
+*c) 75%
+d) 80%
+% The salt dissolved and passed through the filter: $10.0 - 2.5 = 7.5$ g of salt, and $7.5/10.0 = 75\%$.
+
+@topic 1.5 | Atomic Structure and Electron Configuration
+- An atom has a dense nucleus of protons and neutrons surrounded by electrons. Electrons are held by the attraction between opposite charges.
+- **Coulomb's law**: the force between two charges grows with the size of the charges and shrinks as the distance between them grows.
+- Electrons fill subshells from lowest energy up (**Aufbau principle**): $1s$, $2s$, $2p$, $3s$, $3p$, $4s$, $3d$, $4p$. An $s$ subshell holds 2 electrons, $p$ holds 6, and $d$ holds 10.
+- **Core electrons** are in inner shells. **Valence electrons** are in the outermost occupied shell.
+- To write a cation's configuration, remove electrons from the highest shell first. Transition metals lose their $4s$ electrons before their $3d$ electrons.
+- **Ionization energy** is the energy needed to remove an electron from an atom or ion in the gas phase.
+= $F_{\text{coulombic}} \propto \frac{q_1 q_2}{r^2}$ :: Coulomb's law
+! $\ce{Fe^2+}$ is $[\text{Ar}]\,3d^6$. The two $4s$ electrons are removed, not two $3d$ electrons.
+? What is the ground-state electron configuration of $\ce{Fe^2+}$?
+a) $[\text{Ar}]\,4s^2\,3d^6$
+b) $[\text{Ar}]\,4s^2\,3d^4$
+c) $[\text{Ar}]\,4s^1\,3d^5$
+*d) $[\text{Ar}]\,3d^6$
+% Neutral iron is $[\text{Ar}]\,4s^2\,3d^6$. Forming the 2+ ion removes the two $4s$ electrons, which are in the highest occupied shell.
+? Which element has the ground-state electron configuration $1s^2\,2s^2\,2p^6\,3s^2\,3p^4$?
+a) Silicon
+b) Phosphorus
+*c) Sulfur
+d) Chlorine
+% The superscripts add to 16 electrons, so the neutral atom has 16 protons. That is sulfur.
+? According to Coulomb's law, which change increases the force of attraction between a nucleus and one of its electrons?
+a) Increasing the distance between the electron and the nucleus
+*b) Increasing the charge of the nucleus while the distance stays the same
+c) Decreasing the charge of the nucleus while the distance stays the same
+d) Adding more electrons between that electron and the nucleus
+% Force is proportional to the product of the charges and inversely proportional to the square of the distance. A larger nuclear charge at the same distance means a stronger attraction.
+
+@topic 1.6 | Photoelectron Spectroscopy
+- **Photoelectron spectroscopy (PES)** measures the energy needed to remove electrons from each subshell of an atom.
+- Each peak is one subshell. The peak's **position** is the binding energy: electrons closer to the nucleus have higher binding energy, so $1s$ is always highest.
+- The peak's **height** is proportional to the number of electrons in that subshell.
+- Reading the peak heights in order gives the electron configuration and identifies the element.
+- For the same subshell, an atom with more protons has a higher binding energy.
+! Height tells you how many electrons. Position tells you how strongly they are held. Check which direction the energy axis runs before reading a spectrum.
+? A photoelectron spectrum has five peaks. Listed from highest to lowest binding energy, their relative heights are 2, 2, 6, 2, and 3. Which element produced the spectrum?
+a) Aluminum
+b) Silicon
+*c) Phosphorus
+d) Sulfur
+% The peaks correspond to $1s^2\,2s^2\,2p^6\,3s^2\,3p^3$, a total of 15 electrons. The element with 15 protons is phosphorus.
+? In photoelectron spectra, the $1s$ peak of oxygen appears at a higher binding energy than the $1s$ peak of nitrogen. The best explanation is that
+a) oxygen has more electrons in its $1s$ subshell
+*b) oxygen has more protons, so its $1s$ electrons are attracted to the nucleus more strongly
+c) oxygen's $1s$ electrons are farther from the nucleus
+d) oxygen's $1s$ electrons are shielded more than nitrogen's
+% Both atoms have two $1s$ electrons at about the same distance. Oxygen's nucleus has a charge of 8+ instead of 7+, so by Coulomb's law the attraction is stronger.
+
+@topic 1.7 | Periodic Trends
+- Trends follow from Coulomb's law: the attraction depends on **effective nuclear charge** and on the distance of the valence electrons from the nucleus (the number of shells).
+- **Atomic radius** decreases across a period (more protons pulling on the same shell) and increases down a group (more shells).
+- **First ionization energy** increases across a period and decreases down a group. **Electronegativity** follows the same pattern; fluorine is highest.
+- **Ionic radius**: cations are smaller than their atoms and anions are larger. In an isoelectronic series, the ion with the most protons is the smallest.
+- **Successive ionization energies** rise steadily, then jump sharply when the first core electron is removed. The number of electrons removed before the jump is the number of valence electrons.
+- **Electron affinity** generally becomes more negative across a period.
+! Explain a trend with protons, shells, and attraction. Saying an atom "wants a full octet" or naming the trend is not an explanation.
+? Chlorine atoms are smaller than sodium atoms. The best explanation is that
+a) chlorine has more occupied electron shells than sodium
+b) chlorine has fewer electrons than sodium
+*c) chlorine has more protons attracting electrons in the same valence shell, so its effective nuclear charge is greater
+d) chlorine's valence electrons are shielded from the nucleus more than sodium's
+% Both atoms have valence electrons in the third shell with the same core shielding. Chlorine has 17 protons instead of 11, so its valence electrons are pulled in more strongly.
+? Which of the following ions has the smallest radius?
+a) $\ce{O^2-}$
+b) $\ce{F-}$
+c) $\ce{Na+}$
+*d) $\ce{Mg^2+}$
+% All four ions have 10 electrons. $\ce{Mg^2+}$ has the most protons (12), so it pulls the same electron cloud in the most tightly.
+? The first five ionization energies of an element, in kJ/mol, are 578, 1817, 2745, 11577, and 14842. Which element is it?
+a) Sodium
+b) Magnesium
+*c) Aluminum
+d) Silicon
+% The large jump comes between the third and fourth values, so three valence electrons are removed before a core electron. Aluminum has three valence electrons.
+? Which list ranks the elements from lowest to highest first ionization energy?
+a) $\ce{Li} < \ce{Na} < \ce{K}$
+*b) $\ce{K} < \ce{Na} < \ce{Li}$
+c) $\ce{Na} < \ce{K} < \ce{Li}$
+d) $\ce{Li} < \ce{K} < \ce{Na}$
+% Going down a group, the valence electron is in a higher shell, farther from the nucleus, and easier to remove. Potassium is lowest and lithium is highest.
+
+@topic 1.8 | Valence Electrons and Ionic Compounds
+- Elements in the same group have the same number of **valence electrons**, so they react in similar ways and form compounds with similar formulas, such as $\ce{NaCl}$ and $\ce{KCl}$.
+- Typical ion charges: group 1 forms 1+, group 2 forms 2+, group 13 forms 3+, group 15 forms 3−, group 16 forms 2−, group 17 forms 1−.
+- The formula of an ionic compound is the smallest whole-number ratio of ions that gives a total charge of zero.
+> $\ce{Al^3+}$ and $\ce{O^2-}$ need a total of 6+ and 6−, so the formula is $\ce{Al2O3}$.
+? What is the formula of the ionic compound formed from calcium and nitrogen?
+a) $\ce{CaN}$
+b) $\ce{Ca2N3}$
+*c) $\ce{Ca3N2}$
+d) $\ce{CaN2}$
+% Calcium (group 2) forms $\ce{Ca^2+}$ and nitrogen (group 15) forms $\ce{N^3-}$. Three 2+ ions balance two 3− ions.
+? An element M forms an oxide with the formula $\ce{M2O3}$. What is the most likely formula of its chloride?
+a) $\ce{MCl}$
+b) $\ce{MCl2}$
+*c) $\ce{MCl3}$
+d) $\ce{M2Cl3}$
+% In $\ce{M2O3}$, three $\ce{O^2-}$ ions carry 6−, so each M is 3+. With $\ce{Cl-}$, a 3+ ion needs three chloride ions.
+
+@unit chem-2 | Unit 2 | Compound Structure and Properties | 7–9% of exam
+
+@topic 2.1 | Types of Chemical Bonds
+- **Electronegativity** is an atom's ability to attract shared electrons. The difference in electronegativity between two bonded atoms sets the bond type.
+- **Nonpolar covalent**: electrons shared equally (identical atoms or very similar electronegativity). **Polar covalent**: electrons shared unequally, giving partial charges. **Ionic**: electrons transferred, usually between a metal and a nonmetal. **Metallic**: valence electrons delocalized among metal atoms.
+- The greater the electronegativity difference, the more polar the bond. The more electronegative atom carries the partial negative charge.
+- Bonding is a continuum. The properties of a substance, such as conductivity when melted, are the best evidence for its bond type.
+? Which bond is the most polar?
+a) C–H
+b) N–H
+c) O–H
+*d) F–H
+% Fluorine is the most electronegative element, so the F–H bond has the largest electronegativity difference of the four.
+? Which pair of elements is most likely to form an ionic bond?
+a) C and O
+*b) K and Br
+c) N and Cl
+d) S and O
+% Potassium is a metal with low electronegativity and bromine is a nonmetal with high electronegativity, so an electron is transferred. The other pairs are nonmetals that share electrons.
+? In a molecule of $\ce{HCl}$, the shared electrons are
+a) shared equally by hydrogen and chlorine
+*b) attracted more strongly to chlorine, giving chlorine a partial negative charge
+c) transferred completely to chlorine, forming separate ions
+d) attracted more strongly to hydrogen, giving hydrogen a partial negative charge
+% Chlorine is more electronegative than hydrogen, so the bond is polar covalent with the partial negative charge on chlorine. The electrons are still shared, not transferred.
+
+@topic 2.2 | Intramolecular Force and Potential Energy
+- A graph of potential energy versus the distance between two nuclei has a minimum. The distance at the minimum is the **bond length**, and the depth of the minimum is the **bond energy**, the energy needed to break the bond.
+- At shorter distances, repulsion raises the potential energy sharply. At large distances the atoms do not interact and the potential energy approaches zero.
+- Higher **bond order** means a shorter and stronger bond: triple < double < single in length.
+- For ions, Coulomb's law applies: attraction is stronger when the charges are larger and the ions are smaller (closer together).
+~ pe-curve
+! A stronger bond sits lower on the potential energy graph (a deeper well), not higher.
+? On a graph of potential energy versus internuclear distance for two hydrogen atoms, the bond length of $\ce{H2}$ is
+a) the distance at which the potential energy is zero
+*b) the distance at which the potential energy is at its minimum
+c) the distance at which repulsion between the nuclei is greatest
+d) the distance at which the atoms stop interacting
+% The molecule is most stable where attraction and repulsion balance, which is the bottom of the potential energy well.
+? Based on Coulomb's law, which ionic compound has the strongest attraction between its ions?
+a) $\ce{NaCl}$
+b) $\ce{KBr}$
+*c) $\ce{MgO}$
+d) $\ce{CaO}$
+% $\ce{MgO}$ and $\ce{CaO}$ have 2+ and 2− ions, which attract more strongly than 1+ and 1− ions. $\ce{Mg^2+}$ is smaller than $\ce{Ca^2+}$, so the ions in MgO are closer together.
+? Which carbon–carbon bond is the shortest and takes the most energy to break?
+a) The single bond in $\ce{C2H6}$
+b) The double bond in $\ce{C2H4}$
+*c) The triple bond in $\ce{C2H2}$
+d) All three have the same length and strength
+% More shared electron pairs between the same two nuclei pull them closer and hold them more strongly.
+
+@topic 2.3 | Structure of Ionic Solids
+- An ionic solid is a three-dimensional **lattice** of alternating cations and anions. The arrangement maximizes attraction between opposite charges and minimizes repulsion between like charges.
+- Ionic solids have high melting points and are hard but **brittle**.
+- They do not conduct electricity as solids because the ions are fixed in place. They conduct when melted or dissolved because the ions can move.
+- There are no separate molecules. The formula gives the ratio of ions.
+? Ionic solids are brittle because
+a) ionic bonds are weak
+b) their valence electrons are delocalized
+*c) shifting one layer of ions brings ions of like charge next to each other, and they repel
+d) the ions are held together only by London dispersion forces
+% When a layer slides, cations line up with cations and anions with anions. The repulsion splits the crystal.
+? A solid does not conduct electricity, but it conducts well after it is melted. The solid is most likely
+a) $\ce{Cu}$
+*b) $\ce{KBr}$
+c) $\ce{SiO2}$
+d) $\ce{C12H22O11}$
+% Melting frees the ions of an ionic solid to carry charge. Copper conducts as a solid, and neither silicon dioxide nor sucrose contains mobile ions.
+
+@topic 2.4 | Structure of Metals and Alloys
+- In a metal, positive metal ions sit in a lattice surrounded by a **sea of delocalized valence electrons**.
+- Mobile electrons explain electrical and thermal conductivity. Because the bonding is not directional, layers can slide without breaking the solid, so metals are **malleable** and **ductile**.
+- **Interstitial alloy**: small atoms fill the spaces between larger metal atoms, as carbon does in steel. The result is usually harder and less malleable.
+- **Substitutional alloy**: atoms of similar size replace some of the metal atoms, as zinc does in brass.
+! Use atomic radius to decide the alloy type: much smaller atoms give an interstitial alloy; similar-sized atoms give a substitutional alloy.
+? Steel is made by adding a small amount of carbon to iron. The carbon atoms fit into the spaces between the much larger iron atoms. Steel is best described as
+a) a substitutional alloy
+*b) an interstitial alloy
+c) an ionic compound
+d) a covalent network solid
+% The small carbon atoms occupy the holes (interstices) between iron atoms instead of replacing them.
+? Metals can be hammered into thin sheets without shattering because
+a) metal atoms are held together by strong directional covalent bonds
+b) metals have low melting points
+*c) delocalized electrons let layers of metal ions slide past one another while staying bonded
+d) ions of like charge repel when the layers shift
+% The electron sea holds the ions together in any arrangement, so sliding a layer does not break the bonding.
+
+@topic 2.5 | Lewis Diagrams
+- Count the total valence electrons, adding one for each negative charge and subtracting one for each positive charge.
+- Join the atoms with single bonds (least electronegative atom in the center, never hydrogen), complete the octets of the outer atoms, and place any remaining electrons on the central atom.
+- If the central atom lacks an octet, turn lone pairs on outer atoms into double or triple bonds.
+- Exceptions to the octet rule: hydrogen holds 2 electrons; boron and beryllium may have fewer than 8; elements in period 3 and below may hold more than 8.
+? How many valence electrons are shown in the Lewis diagram of the sulfate ion, $\ce{SO4^2-}$?
+a) 24
+b) 30
+*c) 32
+d) 34
+% Sulfur has 6, four oxygens have $4 \times 6 = 24$, and the 2− charge adds 2: $6 + 24 + 2 = 32$.
+? In the Lewis diagram of $\ce{SF4}$, how many lone pairs are on the sulfur atom?
+a) 0
+*b) 1
+c) 2
+d) 3
+% There are $6 + 4(7) = 34$ valence electrons. Four S–F bonds use 8 and the fluorine lone pairs use 24, leaving 2 electrons, one lone pair, on sulfur.
+
+@topic 2.6 | Resonance and Formal Charge
+- **Resonance** occurs when two or more valid Lewis diagrams differ only in where the electrons are placed. The real molecule is an average of them, called a resonance hybrid.
+- In a resonance hybrid the electrons are **delocalized**, and the bonds involved are identical, with lengths and strengths between those of single and double bonds.
+- **Formal charge** helps choose the best diagram. Prefer formal charges closest to zero, with any negative formal charge on the more electronegative atom. Formal charges add up to the overall charge.
+= $\text{formal charge} = \text{valence electrons} - \text{lone-pair electrons} - \tfrac{1}{2}(\text{bonding electrons})$ :: Formal charge
+! A molecule does not flip back and forth between resonance structures. It has one structure, the hybrid.
+? What is the formal charge on the nitrogen atom in the nitrate ion, $\ce{NO3-}$?
+a) −1
+b) 0
+*c) +1
+d) +2
+% Nitrogen forms four bonds (one double, two single) and has no lone pairs: $5 - 0 - \tfrac{1}{2}(8) = +1$.
+? The carbonate ion, $\ce{CO3^2-}$, has three resonance structures. Which statement describes the actual ion?
+a) It has one short C=O bond and two longer C–O bonds
+b) It switches rapidly among the three structures
+*c) All three carbon–oxygen bonds are identical, with a length between that of a single and a double bond
+d) All three carbon–oxygen bonds are double bonds
+% The electrons are delocalized over all three bonds, so each bond is the same, about one and one-third bonds.
+
+@topic 2.7 | VSEPR and Hybridization
+- **VSEPR**: electron domains around a central atom spread as far apart as possible. A domain is a lone pair or a bond; a double or triple bond counts as one domain.
+- **2 domains**: linear, 180°, $sp$. **3 domains**: trigonal planar, 120°, $sp^2$; with one lone pair the shape is bent. **4 domains**: tetrahedral, 109.5°, $sp^3$; one lone pair gives trigonal pyramidal (about 107°); two give bent (about 104.5°).
+- **5 domains**: trigonal bipyramidal (90° and 120°); lone pairs give seesaw, T-shaped, then linear. **6 domains**: octahedral (90°); lone pairs give square pyramidal, then square planar.
+- Lone pairs repel more strongly than bonding pairs, so they squeeze the bond angles.
+- A single bond is one **sigma (σ)** bond. A double bond is one σ and one **pi (π)** bond. A triple bond is one σ and two π bonds.
+- A molecule is **polar** when its bond dipoles do not cancel. Symmetric shapes with identical outer atoms, such as $\ce{CO2}$, $\ce{BF3}$, and $\ce{CCl4}$, are nonpolar.
+! Count domains on the central atom from the Lewis diagram first. Name the molecular shape from the positions of the atoms only, not the lone pairs.
+? What are the molecular geometry and approximate bond angle of $\ce{NH3}$?
+a) Trigonal planar, 120°
+*b) Trigonal pyramidal, about 107°
+c) Tetrahedral, 109.5°
+d) Bent, about 104.5°
+% Nitrogen has four electron domains: three bonds and one lone pair. The atoms form a trigonal pyramid, and the lone pair pushes the angle a little below 109.5°.
+? What is the hybridization of the carbon atom in $\ce{CO2}$?
+*a) $sp$
+b) $sp^2$
+c) $sp^3$
+d) The carbon atom is not hybridized
+% Carbon has two electron domains because each double bond counts as one. Two domains correspond to $sp$ hybridization and a linear shape.
+? Which molecule is nonpolar even though it contains polar bonds?
+a) $\ce{NH3}$
+b) $\ce{H2O}$
+c) $\ce{CH3Cl}$
+*d) $\ce{CCl4}$
+% $\ce{CCl4}$ is tetrahedral with four identical C–Cl bonds, so the bond dipoles cancel. The other molecules are asymmetric and have a net dipole.
+? How many sigma and pi bonds are in a molecule of $\ce{C2H2}$?
+a) 2 sigma and 3 pi
+*b) 3 sigma and 2 pi
+c) 4 sigma and 1 pi
+d) 5 sigma and 0 pi
+% The structure is H–C≡C–H. Two C–H bonds and one bond of the triple bond are sigma (3 total); the other two bonds of the triple bond are pi.
+? What is the molecular geometry of $\ce{XeF4}$?
+a) Tetrahedral
+b) Seesaw
+*c) Square planar
+d) Square pyramidal
+% Xenon has six electron domains: four bonds and two lone pairs. The lone pairs sit opposite each other, leaving the four fluorine atoms in a square plane.
+
+@unit chem-3 | Unit 3 | Properties of Substances and Mixtures | 18–22% of exam
+
+@topic 3.1 | Intermolecular and Interparticle Forces
+- **London dispersion forces** act between all particles. They come from temporary dipoles and grow stronger with more electrons (a more polarizable electron cloud) and with more surface contact between molecules.
+- **Dipole–dipole forces** act between polar molecules.
+- **Hydrogen bonding** is a strong dipole–dipole attraction: a hydrogen atom bonded to N, O, or F is attracted to a lone pair on N, O, or F in another molecule.
+- **Ion–dipole forces** act between ions and polar molecules, as when a salt dissolves in water.
+- Stronger intermolecular forces mean a higher boiling point, higher melting point, and lower vapor pressure.
+! Boiling a molecular substance separates molecules from each other. It does not break the covalent bonds inside the molecules.
+? All four compounds below are nonpolar. Which has the highest boiling point?
+a) $\ce{CH4}$
+b) $\ce{SiH4}$
+c) $\ce{GeH4}$
+*d) $\ce{SnH4}$
+% Nonpolar molecules have only London dispersion forces. $\ce{SnH4}$ has the most electrons and the most polarizable electron cloud, so its dispersion forces are strongest.
+? Water boils at 100 °C and hydrogen sulfide, $\ce{H2S}$, boils at −60 °C. The best explanation for the difference is that
+a) the covalent bonds in water are stronger than those in hydrogen sulfide
+b) water molecules have more electrons than hydrogen sulfide molecules
+*c) water molecules form hydrogen bonds with each other, and hydrogen sulfide molecules do not
+d) water has stronger London dispersion forces than hydrogen sulfide
+% Hydrogen bonded to oxygen can hydrogen-bond; hydrogen bonded to sulfur cannot. Hydrogen sulfide actually has more electrons, so its dispersion forces are stronger, yet water still boils far higher.
+? Pentane and 2,2-dimethylpropane both have the formula $\ce{C5H12}$. Pentane, a straight chain, boils at 36 °C. The compact, nearly spherical 2,2-dimethylpropane boils at 9.5 °C. The best explanation is that
+a) pentane molecules are polar
+b) pentane has more electrons
+c) pentane forms hydrogen bonds
+*d) the longer shape of pentane allows more surface contact between molecules, giving stronger London dispersion forces
+% Both molecules are nonpolar with the same number of electrons. The elongated molecule has more area in contact with its neighbors, so its dispersion forces are stronger.
+
+@topic 3.2 | Properties of Solids
+- **Ionic solids**: ions held by strong electrostatic attraction. High melting point, brittle, conduct only when melted or dissolved.
+- **Molecular solids**: separate molecules held by intermolecular forces. Low melting point, soft, do not conduct. Examples: ice, $\ce{I2}$, dry ice, sugar.
+- **Covalent network solids**: atoms joined by covalent bonds throughout the whole solid. Very high melting point and very hard. Examples: diamond, $\ce{SiO2}$, $\ce{SiC}$.
+- **Metallic solids**: metal ions in a sea of electrons. Conduct as solids and are malleable.
+- **Graphite** is a network solid made of sheets. Each carbon bonds to three others, and the leftover electrons are delocalized, so graphite conducts and its sheets slide.
+- **Crystalline** solids have an ordered, repeating arrangement. **Amorphous** solids do not.
+? A solid has a melting point above 1600 °C, is extremely hard, and does not conduct electricity as a solid or as a liquid. The solid is most likely
+a) ionic
+b) metallic
+c) molecular
+*d) covalent network
+% Very high melting point and hardness point to strong bonds throughout the solid. An ionic solid would conduct when melted and a metal would conduct as a solid, so it is a covalent network solid.
+? Solid iodine, $\ce{I2}$, turns to vapor on gentle heating. The best explanation is that
+a) the covalent bonds within $\ce{I2}$ molecules are weak
+*b) only weak London dispersion forces between $\ce{I2}$ molecules must be overcome
+c) iodine is an ionic solid with small ions
+d) iodine atoms are held in a sea of delocalized electrons
+% Iodine is a molecular solid. Changing phase separates whole molecules from each other, which requires overcoming only intermolecular forces.
+? Graphite conducts electricity and diamond does not. The best explanation is that
+a) graphite contains metal atoms
+b) graphite contains mobile ions
+*c) each carbon atom in graphite bonds to only three others, leaving delocalized electrons that can move through the sheets
+d) the covalent bonds in diamond are weaker than those in graphite
+% In diamond every valence electron is locked in a bond to one of four neighbors. In graphite one electron per carbon is delocalized across the sheet.
+
+@topic 3.3 | Solids, Liquids, and Gases
+- **Solid**: particles packed closely in fixed positions; they only vibrate. Fixed shape and volume.
+- **Liquid**: particles close together but able to move past one another. Fixed volume, takes the shape of its container.
+- **Gas**: particles far apart, moving constantly and randomly, with negligible attractions. Fills its container and is easily compressed.
+- The solid and liquid phases of a substance have similar molar volumes because the particles are in close contact in both.
+- The phase depends on the balance between intermolecular forces and the kinetic energy of the particles.
+? Why are the densities of a substance's solid and liquid phases similar, while its gas phase is far less dense?
+*a) Particles are in close contact in both the solid and the liquid but are far apart in the gas
+b) Particles in the gas phase have less mass
+c) Particles stop moving in the solid and liquid phases
+d) Covalent bonds inside the molecules are stronger in the solid and liquid phases
+% Density depends on how closely particles are packed. Solids and liquids are both condensed phases; in a gas most of the volume is empty space.
+? A particulate diagram shows particles that are close together, arranged without a regular pattern, and able to move past one another. The diagram represents
+a) a crystalline solid
+*b) a liquid
+c) a gas
+d) an amorphous solid
+% Close together but free to flow describes a liquid. In an amorphous solid the particles are also disordered, but they stay in fixed positions.
+
+@topic 3.4 | Ideal Gas Law
+- The ideal gas law relates pressure, volume, moles, and temperature. Temperature must be in **kelvin**.
+- With moles fixed, use the combined gas law. Pressure and volume are inversely related; volume and pressure are each directly related to kelvin temperature.
+- **Dalton's law**: the total pressure of a gas mixture is the sum of the partial pressures. Each partial pressure equals the gas's **mole fraction** times the total pressure.
+- At STP (273 K and 1 atm), one mole of an ideal gas occupies about 22.4 L.
+= $PV = nRT \qquad R = 0.08206\ \tfrac{\text{L·atm}}{\text{mol·K}}$ :: Ideal gas law
+= $\frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2}$ :: Combined gas law
+= $P_{\text{total}} = P_A + P_B + \cdots \qquad P_A = X_A P_{\text{total}}$ :: Dalton's law
+= $M = \frac{dRT}{P}$ :: Molar mass from density
+! Convert Celsius to kelvin before using any gas law: $K = {}^\circ\text{C} + 273$.
+? A 0.500 mol sample of an ideal gas occupies 12.3 L at 300. K. What is its pressure?
+a) 0.100 atm
+*b) 1.00 atm
+c) 2.00 atm
+d) 10.0 atm
+% $P = \frac{nRT}{V} = \frac{(0.500)(0.08206)(300.)}{12.3} = 1.00$ atm.
+? A container holds 2.0 mol of $\ce{N2}$, 1.0 mol of $\ce{O2}$, and 1.0 mol of Ar at a total pressure of 8.0 atm. What is the partial pressure of $\ce{N2}$?
+a) 2.0 atm
+*b) 4.0 atm
+c) 6.0 atm
+d) 8.0 atm
+% The mole fraction of $\ce{N2}$ is $2.0/4.0 = 0.50$, so its partial pressure is $0.50 \times 8.0 = 4.0$ atm.
+? A gas in a rigid, sealed container has a pressure of 1.0 atm at 27 °C. It is heated to 327 °C. What is the new pressure?
+a) 0.50 atm
+*b) 2.0 atm
+c) 6.0 atm
+d) 12 atm
+% Convert to kelvin: 300 K and 600 K. At constant volume, pressure is proportional to kelvin temperature, so the pressure doubles. Using Celsius gives the wrong answer of 12 atm.
+? A gas has a density of 1.25 g/L at 273 K and 1.00 atm. Which gas could it be?
+a) $\ce{He}$
+*b) $\ce{N2}$
+c) $\ce{O2}$
+d) $\ce{CO2}$
+% $M = \frac{dRT}{P} = \frac{(1.25)(0.08206)(273)}{1.00} = 28.0$ g/mol, the molar mass of $\ce{N2}$.
+
+@topic 3.5 | Kinetic Molecular Theory
+- Gas particles are in constant, random motion. An ideal gas has particles of negligible volume, with no attractions between them and perfectly elastic collisions.
+- Pressure comes from collisions of particles with the container walls.
+- The **average kinetic energy** of gas particles depends only on the kelvin temperature. All gases at the same temperature have the same average kinetic energy.
+- At the same temperature, lighter particles move faster on average.
+- A **Maxwell–Boltzmann distribution** shows the spread of particle speeds. Raising the temperature makes the curve broader and flatter and moves its peak to higher speed.
+= $KE_{\text{per molecule}} = \tfrac{1}{2}mv^2$ :: Kinetic energy
+? Separate flasks of He and Ar are at the same temperature. Which statement is correct?
+a) The Ar atoms have the greater average kinetic energy because they are heavier
+b) The He atoms have the greater average kinetic energy because they move faster
+*c) Both gases have the same average kinetic energy, and the He atoms have the greater average speed
+d) Both gases have the same average kinetic energy and the same average speed
+% Average kinetic energy depends only on temperature. Because $KE = \tfrac{1}{2}mv^2$, the lighter helium atoms must move faster to have the same kinetic energy.
+? When the temperature of a gas sample is increased, its Maxwell–Boltzmann distribution of molecular speeds
+a) becomes narrower and taller and shifts toward lower speeds
+b) keeps exactly the same shape but shifts toward higher speeds
+*c) becomes broader and flatter and shifts toward higher speeds
+d) does not change, because the number of molecules is constant
+% At higher temperature the average speed rises and the speeds spread out more. The area under the curve stays the same, so the peak is lower.
+
+@topic 3.6 | Deviation from Ideal Gas Law
+- Real gases deviate from ideal behavior most at **low temperature** and **high pressure**, when particles are slow and close together.
+- **Attractive forces** between particles make the measured pressure lower than the ideal prediction, because particles strike the walls with less force.
+- **Particle volume** matters at very high pressure. The particles take up part of the container, so the measured pressure is higher than the ideal prediction.
+- Gases behave most ideally at **high temperature** and **low pressure**. Small particles with weak attractions, such as He, come closest to ideal.
+? Under which conditions does a real gas behave most like an ideal gas?
+a) Low temperature and high pressure
+b) Low temperature and low pressure
+c) High temperature and high pressure
+*d) High temperature and low pressure
+% At high temperature the particles move too fast for attractions to matter, and at low pressure they are far apart, so their own volume is negligible.
+? At low temperature, the measured pressure of a sample of $\ce{NH3}$ gas is lower than the pressure predicted by the ideal gas law. The best explanation is that
+a) $\ce{NH3}$ molecules have no volume
+*b) attractive forces between $\ce{NH3}$ molecules reduce the force of their collisions with the container walls
+c) $\ce{NH3}$ molecules move faster than the ideal gas law predicts
+d) collisions between $\ce{NH3}$ molecules are perfectly elastic
+% Ammonia molecules attract each other strongly through hydrogen bonding. A molecule about to hit the wall is pulled back by its neighbors, which lowers the pressure.
+
+@topic 3.7 | Solutions and Mixtures
+- A **solution** is a homogeneous mixture: its composition is uniform throughout at the particle level. A **heterogeneous mixture** has regions with different compositions.
+- Solutions can be solids (alloys), liquids, or gases (air).
+- **Molarity** is moles of solute per liter of solution.
+- Diluting a solution adds solvent but leaves the moles of solute unchanged.
+= $M = \frac{\text{moles of solute}}{\text{liters of solution}}$ :: Molarity
+= $M_1 V_1 = M_2 V_2$ :: Dilution
+! Molarity uses liters of solution, not liters of solvent. Convert mL to L.
+? What mass of $\ce{NaOH}$ (molar mass 40.00 g/mol) is needed to prepare 250. mL of a 0.200 M solution?
+a) 0.0500 g
+*b) 2.00 g
+c) 8.00 g
+d) 32.0 g
+% Moles needed: $0.250\ \text{L} \times 0.200\ \text{mol/L} = 0.0500$ mol. Mass: $0.0500 \times 40.00 = 2.00$ g.
+? What volume of 6.0 M $\ce{HCl}$ is needed to prepare 300. mL of 0.50 M $\ce{HCl}$?
+a) 2.5 mL
+*b) 25 mL
+c) 100 mL
+d) 3600 mL
+% $M_1V_1 = M_2V_2$ gives $V_1 = \frac{(0.50)(300.)}{6.0} = 25$ mL.
+
+@topic 3.8 | Representations of Solutions
+- A particulate drawing of a solution should show the correct relative numbers of solute particles and how the solute and solvent particles interact.
+- Soluble ionic compounds separate into individual ions in water, in the ratio given by the formula. Molecular solutes such as sugar stay as whole molecules.
+- Water molecules orient around ions: the **oxygen** end (partial negative) points toward cations, and the **hydrogen** ends (partial positive) point toward anions. These are ion–dipole attractions.
+! Do not draw dissolved ionic compounds as molecules. $\ce{CaCl2}$(aq) is one $\ce{Ca^2+}$ ion and two separate $\ce{Cl-}$ ions, not $\ce{Cl2}$.
+? In an accurate particulate drawing of $\ce{NaCl}$ dissolved in water, the water molecules nearest a $\ce{Na+}$ ion are oriented with
+*a) their oxygen atoms pointing toward the ion
+b) their hydrogen atoms pointing toward the ion
+c) no particular orientation
+d) one hydrogen atom and the oxygen atom equally close to the ion
+% Oxygen is the partially negative end of a water molecule, so it is attracted to the positive sodium ion.
+? Which statement describes a 0.20 M solution of $\ce{CaCl2}$, a soluble ionic compound?
+a) $[\ce{Ca^2+}] = 0.20$ M and $[\ce{Cl-}] = 0.20$ M
+*b) $[\ce{Ca^2+}] = 0.20$ M and $[\ce{Cl-}] = 0.40$ M
+c) $[\ce{Ca^2+}] = 0.10$ M and $[\ce{Cl-}] = 0.20$ M
+d) $[\ce{Ca^2+}] = 0.20$ M and $[\ce{Cl2}] = 0.20$ M
+% Each formula unit releases one calcium ion and two chloride ions, so the chloride concentration is twice the calcium concentration.
+
+@topic 3.9 | Separation of Solutions and Mixtures
+- Separation methods use differences in intermolecular forces and physical properties.
+- **Filtration** separates an undissolved solid from a liquid. It cannot remove a dissolved solute.
+- **Evaporation** recovers a dissolved solid by removing the solvent.
+- **Distillation** separates liquids with different boiling points. The component with weaker intermolecular forces vaporizes first.
+- **Chromatography** separates components that are attracted differently to a **mobile phase** (the moving solvent) and a **stationary phase** (such as paper). A component attracted more to the mobile phase travels farther.
+? In paper chromatography, a mixture of dyes is separated using a nonpolar solvent as the mobile phase and polar paper as the stationary phase. The dye that travels farthest up the paper is the one that is
+a) most polar, because it is most attracted to the paper
+*b) least polar, because it is most attracted to the solvent
+c) made of the heaviest molecules
+d) present in the greatest amount
+% A less polar dye interacts weakly with the polar paper and dissolves well in the nonpolar solvent, so it moves with the solvent.
+? Two miscible liquids have boiling points of 56 °C and 118 °C. The best way to separate them is
+a) filtration
+b) paper chromatography
+*c) distillation
+d) evaporating the mixture to dryness
+% Distillation uses the difference in boiling points. The liquid that boils at 56 °C vaporizes first and is condensed and collected separately.
+
+@topic 3.10 | Solubility
+- Substances with similar intermolecular forces tend to dissolve in each other: "like dissolves like."
+- Ionic and polar solutes dissolve in polar solvents such as water. Nonpolar solutes dissolve in nonpolar solvents such as hexane.
+- A solute dissolves when solute–solvent attractions are about as strong as the solute–solute and solvent–solvent attractions they replace.
+- Molecules that can hydrogen-bond with water, such as small alcohols, are very soluble. A longer nonpolar carbon chain lowers solubility in water.
+? Which substance is most soluble in water?
+a) $\ce{CH4}$
+b) $\ce{CCl4}$
+c) $\ce{C6H14}$
+*d) $\ce{CH3OH}$
+% Methanol has an O–H group that hydrogen-bonds with water. The other three molecules are nonpolar.
+? Iodine, $\ce{I2}$, dissolves much better in hexane, $\ce{C6H14}$, than in water. The best explanation is that
+a) iodine reacts chemically with hexane
+b) iodine forms hydrogen bonds with hexane
+*c) iodine and hexane are both nonpolar, so the London dispersion forces between them are similar in strength to the forces in the pure substances
+d) water molecules are too small to surround iodine molecules
+% Mixing iodine with water would mean breaking strong hydrogen bonds between water molecules and replacing them with weaker attractions. Hexane and iodine interact through similar dispersion forces.
+
+@topic 3.11 | Spectroscopy and the Electromagnetic Spectrum
+- Different regions of the electromagnetic spectrum cause different changes in molecules and atoms.
+- **Microwave** radiation changes how molecules **rotate**.
+- **Infrared** radiation changes how bonds **vibrate**. It is used to identify the types of bonds in a molecule.
+- **Ultraviolet and visible** radiation move **electrons** between energy levels.
+- From lowest to highest photon energy: microwave, infrared, visible, ultraviolet.
+? Which pairing of radiation and molecular change is correct?
+a) Microwave radiation and electronic transitions
+*b) Infrared radiation and molecular vibrations
+c) Ultraviolet radiation and molecular rotations
+d) Visible light and changes in the nucleus
+% Infrared photons match the energy spacing of bond vibrations. Microwaves cause rotations, and ultraviolet and visible light cause electronic transitions.
+? A chemist wants to study the movement of electrons between energy levels in a dye molecule. Which region of the spectrum should be used?
+a) Microwave
+b) Infrared
+c) Radio
+*d) Ultraviolet and visible
+% Electronic transitions require more energy than rotations or vibrations. Ultraviolet and visible photons supply it.
+
+@topic 3.12 | Properties of Photons
+- Light has wave properties: wavelength ($\lambda$) and frequency ($\nu$) are inversely related through the speed of light.
+- Light also comes in packets of energy called **photons**. Higher frequency, or shorter wavelength, means more energy per photon.
+- An atom or molecule absorbs or emits a photon only when the photon's energy equals the difference between two of its energy levels.
+= $c = \lambda\nu \qquad c = 2.998 \times 10^{8}\ \text{m/s}$ :: Wave equation
+= $E = h\nu = \frac{hc}{\lambda} \qquad h = 6.626 \times 10^{-34}\ \text{J·s}$ :: Photon energy
+! Convert nanometers to meters before calculating: $1\ \text{nm} = 10^{-9}\ \text{m}$.
+? What is the frequency of light with a wavelength of 500. nm? ($c = 2.998 \times 10^{8}$ m/s)
+*a) $6.00 \times 10^{14}\ \text{s}^{-1}$
+b) $6.00 \times 10^{5}\ \text{s}^{-1}$
+c) $1.50 \times 10^{2}\ \text{s}^{-1}$
+d) $1.67 \times 10^{-15}\ \text{s}^{-1}$
+% $\nu = \frac{c}{\lambda} = \frac{2.998 \times 10^{8}}{5.00 \times 10^{-7}} = 6.00 \times 10^{14}\ \text{s}^{-1}$. Leaving the wavelength in nanometers gives $6.00 \times 10^{5}$.
+? What is the energy of one photon of light with a wavelength of 400. nm? ($h = 6.626 \times 10^{-34}$ J·s, $c = 2.998 \times 10^{8}$ m/s)
+a) $2.65 \times 10^{-40}$ J
+b) $4.97 \times 10^{-28}$ J
+c) $1.66 \times 10^{-27}$ J
+*d) $4.97 \times 10^{-19}$ J
+% $E = \frac{hc}{\lambda} = \frac{(6.626 \times 10^{-34})(2.998 \times 10^{8})}{4.00 \times 10^{-7}} = 4.97 \times 10^{-19}$ J.
+? An electron in an atom drops from a higher energy level to a lower energy level. Which statement is correct?
+a) A photon is absorbed, with energy equal to the energy of the higher level
+*b) A photon is emitted, with energy equal to the difference between the two levels
+c) A photon is emitted, with energy equal to the sum of the two levels
+d) No photon is involved unless the electron leaves the atom
+% The atom loses energy, and that energy leaves as a photon. Its energy equals the gap between the two levels, which fixes its frequency through $E = h\nu$.
+
+@topic 3.13 | Beer–Lambert Law
+- **Absorbance** is proportional to concentration. $\varepsilon$ is the molar absorptivity (how strongly the substance absorbs at that wavelength), $b$ is the path length, and $c$ is the concentration.
+- With the same substance, cuvette, and wavelength, absorbance and concentration are directly proportional. A graph of absorbance versus concentration for known solutions (a calibration curve) is a straight line used to find an unknown concentration.
+- Measure at the wavelength where the substance absorbs most strongly.
+- Common errors: a smudged cuvette scatters light and raises the absorbance reading; water left in the cuvette dilutes the sample and lowers it.
+= $A = \varepsilon b c$ :: Beer–Lambert law
+? A 0.10 M solution of a colored compound has an absorbance of 0.30. A second solution of the same compound, measured in the same cuvette at the same wavelength, has an absorbance of 0.75. What is its concentration?
+a) 0.025 M
+b) 0.040 M
+*c) 0.25 M
+d) 0.40 M
+% Absorbance is proportional to concentration: $c = 0.10 \times \frac{0.75}{0.30} = 0.25$ M.
+? A student rinses a cuvette with distilled water and fills it with a colored solution without drying it or rinsing it with the solution first. Compared with the true value, the measured absorbance will be
+a) higher, because water absorbs visible light strongly
+*b) lower, because the solution in the cuvette is slightly diluted
+c) the same, because absorbance does not depend on concentration
+d) the same, because the path length is unchanged
+% The leftover water lowers the concentration of the sample, and absorbance is proportional to concentration.

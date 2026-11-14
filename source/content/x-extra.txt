@@ -1,0 +1,693 @@
+@extend macro
+
+@topic 2.1
+? A farmer sells wheat to a miller for \$1. The miller sells flour to a baker for \$3. The baker sells bread to a consumer for \$6. How much do these transactions add to GDP?
+a) \$3
+*b) \$6
+c) \$9
+d) \$10
+% Only the final good counts, so GDP rises by \$6. The value added at each stage ($1 + 2 + 3$) gives the same total. Adding every sale (\$10) double counts the wheat and flour.
+
+@topic 2.3
+? A country has an adult population of 250 million, a labor force participation rate of 60%, and an unemployment rate of 6%. How many people are unemployed?
+a) 6 million
+*b) 9 million
+c) 15 million
+d) 141 million
+% The labor force is $0.60 \times 250 = 150$ million, and $0.06 \times 150 = 9$ million are unemployed. Taking 6% of the whole population gives 15 million, which is wrong.
+
+@topic 2.4
+? A worker earns a nominal wage of \$22 an hour when the CPI is 110. What is the worker's real wage in base-year dollars?
+*a) \$20.00
+b) \$22.00
+c) \$24.20
+d) \$32.00
+% Real wage $= \frac{22}{110} \times 100 = 20$. Multiplying by 1.10 instead of dividing gives \$24.20.
+
+@topic 2.6
+? Real GDP is \$500 billion and the GDP deflator is 120. What is nominal GDP?
+a) \$417 billion
+b) \$500 billion
+*c) \$600 billion
+d) \$620 billion
+% Nominal GDP $= \text{real GDP} \times \frac{\text{deflator}}{100} = 500 \times 1.20 = 600$. Dividing by 1.20 gives \$417 billion, which goes the wrong way.
+
+@topic 3.2
+? When disposable income rises from \$400 billion to \$500 billion, consumption rises from \$350 billion to \$430 billion. What is the expenditure multiplier?
+a) 1.25
+b) 4
+*c) 5
+d) 8
+% $\text{MPC} = \frac{430 - 350}{500 - 400} = 0.8$, so the multiplier is $\frac{1}{1 - 0.8} = 5$. The value 1.25 is $1/\text{MPC}$, a common slip.
+
+@topic 3.5
+? An economy's unemployment rate is 3% and its natural rate of unemployment is 5%. The economy has
+a) a recessionary gap, with real GDP below potential output
+*b) an inflationary gap, with real GDP above potential output
+c) no output gap, because unemployment is low
+d) a recessionary gap, with real GDP above potential output
+% Unemployment below the natural rate means the economy is producing more than its full-employment output, which is a positive (inflationary) gap.
+
+@topic 3.7
+? An economy in long-run equilibrium is hit by a sharp rise in oil prices, and the government takes no action. In the long run,
+a) aggregate demand shifts right until full employment returns at a higher price level
+*b) high unemployment lowers nominal wages, and short-run aggregate supply shifts back to the right until output returns to potential
+c) long-run aggregate supply shifts right to offset the higher costs
+d) the economy stays permanently below potential output
+% The supply shock creates a recessionary gap. Over time, falling nominal wages lower production costs, so SRAS shifts back and output returns to potential.
+
+@topic 3.8
+? An economy has an inflationary gap of \$120 billion and a marginal propensity to consume of 0.8. By how much should taxes be raised to close the gap?
+a) \$24 billion
+*b) \$30 billion
+c) \$96 billion
+d) \$120 billion
+% The tax multiplier has size $\frac{0.8}{0.2} = 4$, and $120/4 = 30$. The \$24 billion answer is the needed cut in government purchases, which uses the expenditure multiplier of 5.
+
+@extend chem
+
+@topic 1.3
+? What is the mass percent of nitrogen in ammonium nitrate, $\ce{NH4NO3}$ (molar mass 80.05 g/mol)? The molar mass of N is 14.01 g/mol.
+a) 17.5%
+*b) 35.0%
+c) 43.8%
+d) 60.0%
+% One formula unit contains two nitrogen atoms: $\frac{2(14.01)}{80.05} \times 100 = 35.0\%$. Counting only one nitrogen gives 17.5%.
+
+@topic 1.6
+? In the photoelectron spectrum of sodium, which peak has the lowest binding energy, and what is its relative height?
+a) The $1s$ peak, with a height of 2
+b) The $2p$ peak, with a height of 6
+*c) The $3s$ peak, with a height of 1
+d) The $3s$ peak, with a height of 2
+% Sodium is $1s^2\,2s^2\,2p^6\,3s^1$. The single $3s$ electron is farthest from the nucleus and easiest to remove, so its peak has the lowest binding energy and the smallest height.
+
+@topic 1.7
+? The first ionization energy of aluminum is lower than that of magnesium, even though aluminum has more protons. The best explanation is that
+a) aluminum has a larger atomic radius than magnesium
+*b) the electron removed from aluminum is in a $3p$ subshell, which is higher in energy and shielded by the $3s$ electrons
+c) magnesium has a half-filled subshell
+d) aluminum has fewer valence electrons than magnesium
+% Magnesium loses a $3s$ electron and aluminum loses a $3p$ electron. The $3p$ electron is held less tightly, so it takes less energy to remove.
+
+@topic 2.2
+? Sodium fluoride melts at a higher temperature than sodium chloride. The best explanation is that
+a) fluorine is more electronegative, so the bond in NaF is covalent
+*b) the fluoride ion is smaller than the chloride ion, so the ions in NaF are closer together and attract more strongly
+c) the fluoride ion has a larger charge than the chloride ion
+d) NaF has stronger London dispersion forces
+% Both compounds have 1+ and 1− ions. By Coulomb's law, the shorter distance between ions in NaF gives a stronger attraction.
+
+@topic 2.6
+? In the Lewis diagram of carbon monoxide, the atoms are joined by a triple bond and each atom has one lone pair. What are the formal charges on carbon and oxygen?
+a) 0 on carbon and 0 on oxygen
+*b) −1 on carbon and +1 on oxygen
+c) +1 on carbon and −1 on oxygen
+d) −2 on carbon and +2 on oxygen
+% Carbon: $4 - 2 - \tfrac{1}{2}(6) = -1$. Oxygen: $6 - 2 - \tfrac{1}{2}(6) = +1$. The formal charges add to zero, the charge of the molecule.
+
+@topic 2.7
+? What is the molecular geometry of $\ce{SF4}$?
+a) Tetrahedral
+*b) Seesaw
+c) Square planar
+d) Trigonal bipyramidal
+% Sulfur has five electron domains: four bonds and one lone pair. The electron geometry is trigonal bipyramidal, and with one position taken by the lone pair the atoms form a seesaw.
+? Which list ranks the molecules in order of increasing bond angle?
+a) $\ce{CH4} < \ce{NH3} < \ce{H2O}$
+b) $\ce{NH3} < \ce{H2O} < \ce{CH4}$
+*c) $\ce{H2O} < \ce{NH3} < \ce{CH4}$
+d) $\ce{H2O} < \ce{CH4} < \ce{NH3}$
+% All three have four electron domains. Lone pairs repel more than bonding pairs: water has two (about 104.5°), ammonia has one (about 107°), and methane has none (109.5°).
+
+@topic 3.1
+? Ethanol, $\ce{CH3CH2OH}$, boils at 78 °C. Dimethyl ether, $\ce{CH3OCH3}$, has the same molecular formula and boils at −24 °C. The best explanation is that
+a) ethanol has more electrons than dimethyl ether
+b) ethanol has stronger covalent bonds than dimethyl ether
+*c) ethanol molecules form hydrogen bonds with each other, and dimethyl ether molecules cannot
+d) dimethyl ether is nonpolar
+% Ethanol has a hydrogen bonded to oxygen. Dimethyl ether has no O–H bond, so its molecules attract each other only through weaker dipole–dipole and dispersion forces.
+? $\ce{Br2}$ and $\ce{ICl}$ have the same number of electrons. $\ce{Br2}$ boils at 59 °C and $\ce{ICl}$ boils at 97 °C. The best explanation is that
+a) $\ce{ICl}$ has stronger London dispersion forces because it has more electrons
+*b) $\ce{ICl}$ is polar, so it has dipole–dipole forces in addition to London dispersion forces
+c) $\ce{ICl}$ forms hydrogen bonds
+d) the bond in $\ce{ICl}$ is stronger than the bond in $\ce{Br2}$
+% With equal numbers of electrons the dispersion forces are similar. The extra attraction in ICl comes from its permanent dipole.
+
+@topic 3.4
+? A gas occupies 2.00 L at 300. K and 1.50 atm. It is compressed to 1.00 L and heated to 600. K. What is the new pressure?
+a) 0.375 atm
+b) 1.50 atm
+c) 3.00 atm
+*d) 6.00 atm
+% $P_2 = P_1 \times \frac{V_1}{V_2} \times \frac{T_2}{T_1} = 1.50 \times 2 \times 2 = 6.00$ atm. Halving the volume and doubling the kelvin temperature each double the pressure.
+? A gas is collected over water at a total pressure of 752 torr. The vapor pressure of water at that temperature is 24 torr. What is the partial pressure of the collected gas?
+a) 24 torr
+*b) 728 torr
+c) 752 torr
+d) 776 torr
+% By Dalton's law the total pressure is the sum of the partial pressures, so the dry gas has $752 - 24 = 728$ torr.
+
+@topic 3.6
+? Which gas deviates most from ideal behavior at high pressure and low temperature?
+a) $\ce{He}$
+b) $\ce{H2}$
+c) $\ce{N2}$
+*d) $\ce{SO2}$
+% Sulfur dioxide molecules are the largest and are polar, so they have the strongest attractions and take up the most space. Helium is closest to ideal.
+
+@topic 3.7
+? A student mixes 50.0 mL of 0.30 M $\ce{NaCl}$ with 50.0 mL of 0.10 M $\ce{CaCl2}$. What is the concentration of chloride ions in the mixture?
+a) 0.20 M
+*b) 0.25 M
+c) 0.40 M
+d) 0.50 M
+% Moles of chloride: $(0.0500)(0.30) + 2(0.0500)(0.10) = 0.015 + 0.010 = 0.025$ mol. Dividing by the total volume, 0.100 L, gives 0.25 M.
+
+@topic 3.12
+? What is the energy of one mole of photons with a wavelength of 500. nm? ($h = 6.626 \times 10^{-34}$ J·s, $c = 2.998 \times 10^{8}$ m/s, $N_A = 6.022 \times 10^{23}$ per mole)
+a) $3.97 \times 10^{-19}$ kJ
+b) $2.39$ kJ
+*c) $239$ kJ
+d) $2.39 \times 10^{5}$ kJ
+% One photon has $E = \frac{hc}{\lambda} = 3.97 \times 10^{-19}$ J. Multiplying by Avogadro's number gives $2.39 \times 10^{5}$ J, which is 239 kJ.
+
+@topic 3.13
+? A calibration line for a colored compound is $A = 4.0c$, with $c$ in mol/L. A sample is diluted to one-tenth of its original concentration, and the diluted sample has an absorbance of 0.50. What was the concentration of the original sample?
+a) 0.0125 M
+b) 0.125 M
+*c) 1.25 M
+d) 2.0 M
+% The diluted sample has $c = 0.50/4.0 = 0.125$ M. The original sample was ten times as concentrated, 1.25 M.
+
+@extend calc
+
+@topic 1.6
+? What is $\lim_{x \to 1}\dfrac{x^3 - 1}{x^2 - 1}$?
+a) $0$
+b) $1$
+*c) $\dfrac{3}{2}$
+d) The limit does not exist
+% Factor both: $\dfrac{(x - 1)(x^2 + x + 1)}{(x - 1)(x + 1)} = \dfrac{x^2 + x + 1}{x + 1}$, which approaches $\dfrac{3}{2}$.
+
+@topic 1.7
+? What is $\lim_{x \to 0}\dfrac{1 - \cos x}{x^2}$?
+a) $0$
+*b) $\dfrac{1}{2}$
+c) $1$
+d) The limit does not exist
+% Multiply top and bottom by $1 + \cos x$ to get $\dfrac{\sin^2 x}{x^2(1 + \cos x)} = \left(\dfrac{\sin x}{x}\right)^2 \cdot \dfrac{1}{1 + \cos x}$, which approaches $1 \cdot \dfrac{1}{2}$.
+
+@topic 1.11
+? Let $f(x) = ax^2$ for $x \le 2$ and $f(x) = 2x + a$ for $x > 2$. For what value of $a$ is $f$ continuous at $x = 2$?
+a) $1$
+*b) $\dfrac{4}{3}$
+c) $2$
+d) $4$
+% The two pieces must agree at $x = 2$: $4a = 4 + a$, so $3a = 4$ and $a = \dfrac{4}{3}$.
+
+@topic 1.14
+? What is $\lim_{x \to 3^-}\dfrac{x}{x^2 - 9}$?
+*a) $-\infty$
+b) $0$
+c) $\dfrac{1}{2}$
+d) $\infty$
+% Just to the left of 3 the numerator is close to 3 and $x^2 - 9$ is a small negative number, so the quotient decreases without bound.
+
+@topic 1.15
+? What is $\lim_{x \to \infty}\left(2x - \sqrt{4x^2 + 3x}\right)$?
+a) $-\infty$
+*b) $-\dfrac{3}{4}$
+c) $0$
+d) $\dfrac{3}{4}$
+% Multiply by the conjugate over itself: $\dfrac{4x^2 - (4x^2 + 3x)}{2x + \sqrt{4x^2 + 3x}} = \dfrac{-3x}{2x + \sqrt{4x^2 + 3x}}$. For large $x$ the denominator behaves like $4x$, so the limit is $-\dfrac{3}{4}$.
+? What are the horizontal asymptotes of the graph of $f(x) = \dfrac{3e^x + 2}{e^x - 1}$?
+a) $y = 3$ only
+b) $y = -2$ only
+*c) $y = -2$ and $y = 3$
+d) $y = 0$ and $y = 3$
+% As $x \to \infty$, $e^x$ dominates and $f(x)$ approaches 3. As $x \to -\infty$, $e^x$ approaches 0 and $f(x)$ approaches $\dfrac{2}{-1} = -2$. Both limits must be checked.
+
+@topic 1.16
+? A function $f$ has $f(1) = -2$ and $f(3) = 4$. Nothing else is known about $f$. Which statement is correct?
+a) By the Intermediate Value Theorem, $f(c) = 0$ for some $c$ in $(1, 3)$
+b) The function must be increasing on $[1, 3]$
+*c) No conclusion can be drawn about a zero, because $f$ is not known to be continuous on $[1, 3]$
+d) The function has exactly one zero in $(1, 3)$
+% The Intermediate Value Theorem applies only to functions that are continuous on the closed interval. A function with a jump could skip over zero.
+
+@topic 2.2
+? What is the slope of the line normal to the graph of $y = x^3$ at $x = 1$?
+a) $3$
+b) $\dfrac{1}{3}$
+*c) $-\dfrac{1}{3}$
+d) $-3$
+% The tangent slope is $3x^2 = 3$ at $x = 1$. A normal line is perpendicular to the tangent, so its slope is the negative reciprocal, $-\dfrac{1}{3}$.
+
+@topic 2.8
+? $\dfrac{d}{dx}\left[e^x\cos x\right] =$
+a) $-e^x\sin x$
+*b) $e^x(\cos x - \sin x)$
+c) $e^x(\cos x + \sin x)$
+d) $e^x\cos x$
+% Product rule: $e^x\cos x + e^x(-\sin x) = e^x(\cos x - \sin x)$.
+
+@topic 2.9
+? $\dfrac{d}{dx}\left[\dfrac{\ln x}{x}\right] =$
+a) $\dfrac{1}{x^2}$
+b) $\dfrac{\ln x - 1}{x^2}$
+*c) $\dfrac{1 - \ln x}{x^2}$
+d) $\dfrac{1}{x}$
+% Quotient rule: $\dfrac{\frac{1}{x} \cdot x - \ln x \cdot 1}{x^2} = \dfrac{1 - \ln x}{x^2}$. Reversing the order of the numerator gives the wrong sign.
+
+@topic 3.1
+? Let $h(x) = f(x^2)$. If $f'(2) = 5$ and $f'(4) = 3$, what is $h'(2)$?
+a) 3
+b) 6
+*c) 12
+d) 20
+% $h'(x) = f'(x^2) \cdot 2x$, so $h'(2) = f'(4) \cdot 4 = 3 \cdot 4 = 12$. The outer derivative is evaluated at $x^2 = 4$.
+? $\dfrac{d}{dx}\left[\sqrt{1 + e^{2x}}\right] =$
+a) $\dfrac{1}{2\sqrt{1 + e^{2x}}}$
+b) $\dfrac{e^{2x}}{2\sqrt{1 + e^{2x}}}$
+*c) $\dfrac{e^{2x}}{\sqrt{1 + e^{2x}}}$
+d) $\dfrac{2e^{2x}}{\sqrt{1 + e^{2x}}}$
+% There are three layers: $\dfrac{1}{2\sqrt{1 + e^{2x}}} \cdot e^{2x} \cdot 2 = \dfrac{e^{2x}}{\sqrt{1 + e^{2x}}}$.
+
+@topic 3.2
+? If $x^2y + y^3 = 10$, what is $\dfrac{dy}{dx}$ at the point $(1, 2)$?
+a) $-4$
+b) $-\dfrac{1}{3}$
+*c) $-\dfrac{4}{13}$
+d) $\dfrac{4}{13}$
+% Differentiate: $2xy + x^2\dfrac{dy}{dx} + 3y^2\dfrac{dy}{dx} = 0$, so $\dfrac{dy}{dx} = -\dfrac{2xy}{x^2 + 3y^2} = -\dfrac{4}{13}$ at $(1, 2)$. Leaving out the $x^2\dfrac{dy}{dx}$ term gives $-\dfrac{1}{3}$.
+
+@topic 3.3
+? Let $f(x) = e^x + x$ and let $g$ be the inverse of $f$. Given that $f(0) = 1$, what is $g'(1)$?
+a) $\dfrac{1}{e + 1}$
+*b) $\dfrac{1}{2}$
+c) $2$
+d) $e + 1$
+% $f'(x) = e^x + 1$, and $g'(1) = \dfrac{1}{f'(0)} = \dfrac{1}{2}$. Using $f'(1) = e + 1$ evaluates the derivative at the wrong input.
+
+@topic 3.4
+? $\dfrac{d}{dx}\left[\arcsin(x^2)\right] =$
+a) $\dfrac{1}{\sqrt{1 - x^4}}$
+b) $\dfrac{2x}{\sqrt{1 - x^2}}$
+*c) $\dfrac{2x}{\sqrt{1 - x^4}}$
+d) $\dfrac{2x}{1 + x^4}$
+% $\dfrac{1}{\sqrt{1 - (x^2)^2}} \cdot 2x = \dfrac{2x}{\sqrt{1 - x^4}}$. The inner function is squared inside the root, and the chain rule supplies the factor $2x$.
+
+@topic 3.6
+? If $f(x) = xe^x$, then $f''(x) =$
+a) $e^x$
+b) $(x + 1)e^x$
+*c) $(x + 2)e^x$
+d) $xe^x$
+% $f'(x) = e^x + xe^x = (x + 1)e^x$. Differentiating again gives $e^x + (x + 1)e^x = (x + 2)e^x$.
+
+@extend apush
+
+@topic 1.1
+- **Dates to anchor the period**: 1492 Columbus's first voyage; 1494 Treaty of Tordesillas; 1517 Protestant Reformation begins; 1521 fall of the Aztec capital, Tenochtitlan; 1565 St. Augustine founded; 1588 England defeats the Spanish Armada; 1607 Jamestown.
+- The defeat of the **Spanish Armada** weakened Spain's control of the Atlantic and opened the way for English colonization.
+- Before contact, Native societies were linked by long-distance trade networks and spoke hundreds of different languages.
+? The defeat of the Spanish Armada in 1588 mattered for North America because it
+a) ended Spanish rule in Mexico and Peru
+*b) weakened Spain's naval dominance and made English colonization easier
+c) gave France control of the Caribbean
+d) ended the rivalry between Catholics and Protestants
+% Spain kept its American empire, but England could now challenge it at sea and went on to plant its own colonies.
+? Which list places the events in the correct order, from earliest to latest?
+a) Founding of Jamestown, Treaty of Tordesillas, Columbus's first voyage, fall of the Aztec Empire
+*b) Columbus's first voyage, Treaty of Tordesillas, fall of the Aztec Empire, founding of Jamestown
+c) Treaty of Tordesillas, Columbus's first voyage, founding of Jamestown, fall of the Aztec Empire
+d) Columbus's first voyage, fall of the Aztec Empire, Treaty of Tordesillas, founding of Jamestown
+% The dates are 1492, 1494, 1521, and 1607.
+
+@topic 1.2
+- **Southwest**: Ancestral Puebloans built multistory adobe and cliff dwellings, as at Mesa Verde and Chaco Canyon, and the Hohokam dug irrigation canals.
+- **Mississippi Valley**: Cahokia, near present-day St. Louis, was a city of large earthen mounds with a population in the thousands, supported by maize farming and trade.
+- **Northeast**: the Iroquois Confederacy joined five nations, lived in longhouses, traced family lines through mothers, and grew the "Three Sisters" of maize, beans, and squash.
+- **Great Plains**: before horses arrived with the Spanish, Plains peoples hunted bison on foot, and many also farmed along rivers.
+- **Pacific coast**: the Chinook built cedar plank houses and relied on salmon. The Chumash of California lived in permanent villages and gathered acorns.
+? Cahokia is significant as evidence that, before European contact,
+a) Native peoples of North America did not practice agriculture
+*b) maize agriculture and trade supported large, complex settlements in the Mississippi River Valley
+c) Spanish missionaries had reached the Mississippi River
+d) Plains peoples used horses to hunt bison
+% Cahokia was a planned city with monumental mounds and thousands of residents, sustained by farming and far-reaching trade.
+? A society that lived in longhouses, traced kinship through women, and grew maize, beans, and squash was most likely located in
+a) the Great Basin
+b) the Pacific Northwest
+*c) the Northeast
+d) the Southwest
+% These are features of the Iroquois and their neighbors, who combined farming with hunting in permanent villages.
+? Which statement best explains why Native American societies differed so much from one another before 1492?
+a) They had migrated from different continents
+*b) They adapted their economies and settlement patterns to very different environments
+c) European traders had introduced different technologies to each region
+d) They were governed by rival empires
+% Climate and resources shaped whether a society farmed, fished, or moved with the seasons, and so shaped how it was organized.
+
+@topic 1.3
+- **Prince Henry the Navigator** sponsored Portuguese voyages. Bartolomeu Dias rounded the southern tip of Africa in 1488, and Vasco da Gama reached India in 1498.
+- The Portuguese built trading posts on the West African coast and grew sugar on Atlantic islands using enslaved Africans. That plantation model was later carried to the Americas.
+- Columbus sailed for **Ferdinand and Isabella** of Spain and landed in the Caribbean, believing he had reached Asia.
+- Later, **joint-stock companies** let English and Dutch investors pool money and share the risk of colonial ventures.
+? The Portuguese sugar plantations on Atlantic islands in the 1400s are significant because they
+a) ended Portuguese interest in reaching Asia
+*b) became a model for plantations worked by enslaved Africans in the Americas
+c) were worked mainly by Native American laborers
+d) were the first English colonies
+% The combination of a cash crop, large estates, and enslaved African labor was developed there and then transferred across the Atlantic.
+? Improvements such as the caravel, the compass, and the astrolabe mattered most because they
+a) allowed Europeans to defeat Native armies
+*b) made long ocean voyages out of sight of land more practical
+c) ended European dependence on Asian goods
+d) were invented by Columbus
+% Better ships and navigation tools let sailors travel farther, hold a course, and return, which made transatlantic exploration possible.
+
+@topic 1.4
+- **Sugar** became the most important plantation crop in the Americas and drove the demand for enslaved labor.
+- **Horses** spread north from Spanish settlements and later transformed hunting, travel, and warfare for Plains peoples.
+- **Silver** from mines such as Potosí flowed to Europe and Asia, expanded global trade, and contributed to rising prices in Europe.
+- In **Africa**, European demand for labor expanded the slave trade, strengthened some coastal states, and drained population from others.
+- In some regions the Native population fell by as much as 90 percent within a century of contact.
+? The spread of sugar cultivation in the Americas most directly increased
+a) the size of the Native American population
+*b) the demand for enslaved African labor
+c) Spanish interest in the fur trade
+d) trade between Native Americans and Asia
+% Sugar was very profitable and required a large, constant workforce. As the Native population collapsed, planters turned to enslaved Africans.
+? The introduction of the horse to North America had which long-term effect?
+a) It ended bison hunting on the Great Plains
+*b) It made Plains peoples more mobile and changed how they hunted and fought
+c) It led Native peoples of the Southwest to give up farming
+d) It prevented the spread of European diseases
+% Horses let Plains peoples follow bison herds over long distances and gave mounted groups a military advantage.
+? Silver from Spanish mines in the Americas contributed to
+a) a decline in trade between Europe and Asia
+*b) the growth of global trade and rising prices in Europe
+c) the end of the encomienda system
+d) the collapse of the Spanish monarchy in the 1500s
+% American silver paid for Asian goods and increased the supply of money in Europe, which pushed prices up.
+
+@topic 1.5
+- Holders of encomiendas were called **encomenderos**. In the Andes the Spanish also adapted the Inca labor draft to force Native men to work in silver mines.
+- The **New Laws of 1542** banned the enslavement of Native Americans and tried to phase out the encomienda. Colonists resisted, and enforcement was weak.
+- The encomienda was gradually replaced by other forced-labor systems and by large estates called **haciendas**.
+- Top to bottom, the casta ranks were **peninsulares** (born in Spain), **creoles** (Spaniards born in the Americas), people of mixed ancestry, and then Native Americans and Africans.
+- Most Spanish colonists were men, and marriage with Native and African women was common. The large mixed population set Spanish America apart from the later English colonies.
+? The New Laws of 1542 were an attempt by the Spanish crown to
+a) expand the encomienda system to new territories
+*b) limit the abuse of Native Americans by banning their enslavement and phasing out the encomienda
+c) end the importation of enslaved Africans
+d) grant Native Americans seats in colonial government
+% Reports of cruelty, including those of Las Casas, pushed the crown to act. Colonists resisted and the laws were only partly enforced.
+? In the Spanish casta system, the highest social rank was held by
+a) creoles, Spaniards born in the Americas
+b) mestizos
+*c) peninsulares, people born in Spain
+d) wealthy Native American nobles
+% People born in Spain held the top offices in church and government. American-born Spaniards ranked just below them.
+? Compared with the later English colonies, Spanish colonial society had
+a) far more European women among its settlers
+b) a stricter separation between colonists and Native peoples
+*c) more intermarriage, which produced a large population of mixed ancestry
+d) no system of forced labor
+% Few Spanish women migrated, so Spanish men often formed families with Native and African women. English colonists migrated as families and lived apart from Native peoples.
+
+@topic 1.6
+- Many Native societies held that the natural world was filled with spirits, and many gave women authority over farming and kinship. Europeans were Christian and patriarchal.
+- Early trade created mutual dependence. Europeans wanted furs, food, and knowledge of the land. Native peoples wanted metal tools, cloth, and firearms.
+- Native peoples and Africans often blended Christianity with their own beliefs, a process called **syncretism**.
+- In 1599 the Spanish under Juan de Oñate brutally crushed resistance at **Acoma Pueblo** in New Mexico.
+- Europeans justified conquest and slavery with claims of religious and cultural superiority.
+? Juan Ginés de Sepúlveda defended Spanish treatment of Native Americans by arguing that
+a) Native Americans had agreed to Spanish rule by treaty
+*b) Native Americans were naturally inferior and benefited from Spanish rule
+c) the pope had forbidden the conversion of Native Americans
+d) forced labor was needed only until African slaves arrived
+% Sepúlveda claimed some peoples were natural slaves. Las Casas rejected that view in the Valladolid debate.
+? When Native Americans blended Catholic teachings with their traditional religious practices, they were engaging in
+a) mercantilism
+b) the encomienda
+*c) syncretism
+d) nativism
+% Syncretism is the merging of beliefs from different traditions. It let people adopt parts of Christianity while keeping their own beliefs alive.
+? Europeans most commonly justified the subjugation of Native Americans and Africans by claiming that
+a) those peoples had no systems of government
+*b) European religion and culture were superior
+c) European populations were too small to do the work themselves
+d) Native Americans and Africans had invited European settlement
+% Belief systems built on religious and cultural superiority, and later on race, were used to defend conquest and forced labor.
+
+@topic 1.7
+- Chain of causes: rivalry and the search for wealth led to exploration; contact led to the Columbian Exchange; disease and conquest led to labor shortages; labor shortages led to the Atlantic slave trade.
+- Slavery based on race in the Americas grew out of Spanish and Portuguese plantation and mining labor in this period.
+? Which of the following was an immediate effect of contact between Europeans and Native Americans after 1492?
+a) The growth of capitalism in Europe
+*b) Deadly epidemics among Native populations
+c) The founding of English colonies
+d) The Protestant Reformation
+% Disease spread within years of contact. The growth of capitalism and English colonization were longer-term effects, and the Reformation had separate causes.
+? The collapse of the Native American population in Spanish colonies most directly caused
+a) the Spanish to abandon their mines and plantations
+*b) the expansion of the Atlantic slave trade
+c) an alliance between Spain and England
+d) the end of the Columbian Exchange
+% With fewer Native workers available, colonists looked to Africa for a new source of forced labor.
+
+@topic 2.1
+- **Dates to anchor the period**: 1607 Jamestown; 1619 House of Burgesses meets and the first enslaved Africans arrive in Virginia; 1620 Plymouth; 1630 Massachusetts Bay; 1675–1676 Metacom's War and Bacon's Rebellion; 1680 Pueblo Revolt; 1688 Glorious Revolution; 1692 Salem witch trials; 1730s–1740s First Great Awakening; 1739 Stono Rebellion; 1754 French and Indian War begins.
+- The population of the British mainland colonies grew from a few thousand to more than one million by 1750.
+? Which list places the events in the correct order, from earliest to latest?
+a) Pueblo Revolt, founding of Jamestown, Stono Rebellion, Bacon's Rebellion
+b) Founding of Jamestown, Stono Rebellion, Bacon's Rebellion, Pueblo Revolt
+*c) Founding of Jamestown, Bacon's Rebellion, Pueblo Revolt, Stono Rebellion
+d) Bacon's Rebellion, founding of Jamestown, Pueblo Revolt, Stono Rebellion
+% The dates are 1607, 1676, 1680, and 1739.
+? The rapid growth of the British colonial population by the mid-1700s most directly led to
+a) a decline in Atlantic trade
+*b) pressure to expand westward, which increased conflict with American Indians and with France
+c) the end of slavery in the northern colonies
+d) the closing of colonial assemblies
+% More colonists wanted land beyond the Appalachian Mountains, territory that American Indians lived on and France claimed.
+
+@topic 2.2
+- **Jamestown** was founded in 1607 by the Virginia Company, a joint-stock company. Most early settlers died of disease and hunger in the "starving time." John Rolfe's tobacco made the colony profitable.
+- The **headright system** gave 50 acres of land to anyone who paid for a settler's passage to Virginia, which rewarded planters who imported servants.
+- **New France**: Samuel de Champlain founded Quebec. French traders and Jesuit missionaries lived among American Indians and allied with the Huron and Algonquian peoples.
+- **New Netherland**: the Dutch West India Company ran the colony for trade and tolerated many religions to attract settlers.
+? The Virginia Company, which founded Jamestown, was a joint-stock company. This means that
+a) the English crown paid for the colony directly
+*b) investors pooled their money and shared the risks and profits of the venture
+c) the colony was owned by a single proprietor
+d) settlers were required to be members of the Church of England
+% Joint-stock companies spread the high cost and risk of colonization among many investors who hoped for a profit.
+? The headright system in Virginia
+a) gave American Indians title to their land
+*b) granted land to those who paid for the passage of new settlers
+c) freed indentured servants after one year
+d) required planters to grow food instead of tobacco
+% Each headright was worth 50 acres. Wealthy planters collected many headrights by importing servants, which concentrated land in their hands.
+? Jamestown survived as a colony mainly because
+a) gold was discovered nearby
+b) Spain provided supplies
+*c) tobacco gave it a profitable export crop
+d) its settlers were mostly farm families
+% Tobacco sold well in Europe and attracted investment and migrants. No gold was found, and the early settlers were mostly single men.
+
+@topic 2.3
+- **Plymouth** (1620) was founded by Separatist Pilgrims. In the **Mayflower Compact** they agreed to govern themselves by majority rule.
+- **Massachusetts Bay** (1630) was founded by Puritans who wanted to purify the Church of England. John Winthrop called the colony a "city upon a hill," a model for the world.
+- About 20,000 Puritans arrived in the 1630s. They valued literacy for reading the Bible and founded Harvard in 1636.
+- **Roger Williams** argued for separating church and state and founded Rhode Island. **Anne Hutchinson** challenged the ministers' authority and was banished. The **Fundamental Orders of Connecticut** (1639) set up a representative government.
+- **Maryland's Act of Toleration** (1649) protected the worship of all Christians.
+- **Pennsylvania** was William Penn's "holy experiment." Quakers believed in equality and pacifism and dealt more fairly with American Indians.
+- **Carolina** was settled partly by planters from Barbados who brought enslaved Africans and a harsh slave code. **Georgia** (1732) was founded by James Oglethorpe as a buffer against Spanish Florida and a refuge for debtors.
+? In the Mayflower Compact of 1620, the Pilgrims agreed to
+a) share all property in common permanently
+*b) form a government and obey laws made by the majority
+c) separate church and state
+d) grant voting rights to all adults
+% The compact was an early example of self-government based on the consent of the governed, though it applied only to the adult men who signed it.
+? Roger Williams was banished from Massachusetts Bay mainly because he
+a) supported the Church of England
+*b) argued that government should have no authority over religious belief
+c) traded weapons with American Indians
+d) opposed the founding of Harvard College
+% Williams called for the separation of church and state and criticized taking Native land without payment. He went on to found Rhode Island.
+? When John Winthrop described Massachusetts Bay as a "city upon a hill," he meant that the colony should
+a) be built on high ground for defense
+*b) serve as a model Christian society for others to follow
+c) tolerate all religions
+d) become the capital of New England
+% Puritans believed they had a covenant with God to build a godly community that the world would watch.
+? William Penn founded Pennsylvania as
+a) a royal colony to supply the navy with timber
+*b) a refuge for Quakers that offered religious toleration
+c) a buffer colony against Spanish Florida
+d) a trading post for the Dutch West India Company
+% Penn's colony welcomed many faiths and nationalities, which helped make the middle colonies the most diverse region.
+? Georgia was founded in 1732 mainly to
+a) grow tobacco for export
+b) provide a haven for Catholics
+*c) protect South Carolina from Spanish Florida and give debtors a new start
+d) convert American Indians to Christianity
+% James Oglethorpe and the other trustees planned a colony of small farmers that would guard the southern frontier.
+? Maryland's Act of Toleration of 1649
+a) established the Church of England in the colony
+b) abolished slavery
+*c) protected freedom of worship for Christians
+d) gave the vote to all free men
+% The act was meant to protect the colony's Catholic minority. It covered only Christians who accepted the Trinity.
+
+@topic 2.4
+- In one common pattern of **triangular trade**, New England ships carried rum to West Africa, enslaved Africans to the West Indies on the **Middle Passage**, and sugar and molasses back to New England.
+- The Navigation Acts also helped the colonies by protecting their shipping and guaranteeing markets, but colonists resented the limits and often smuggled.
+- The **Dominion of New England** (1686–1689) merged the New England colonies under a royal governor, Sir Edmund Andros, and ended their assemblies. It collapsed after the **Glorious Revolution** in England.
+- By the 1700s colonists were buying large amounts of British manufactured goods.
+? The Dominion of New England, created in 1686, was an attempt by the English crown to
+a) grant the colonies independence
+*b) tighten royal control by combining colonies under one appointed governor
+c) end the Navigation Acts
+d) protect the colonies from France
+% The Dominion removed elected assemblies and enforced trade laws. Colonists overthrew it when news of the Glorious Revolution arrived.
+? The Middle Passage refers to
+a) the overland trade route between New England and Virginia
+*b) the forced voyage of enslaved Africans across the Atlantic to the Americas
+c) the sea route from England to India
+d) the journey of indentured servants to the Chesapeake
+% It was the middle leg of the triangular trade. Captives were packed into ships under brutal conditions, and many died.
+? Colonists most often responded to the Navigation Acts by
+a) ending their trade with England
+b) declaring independence
+*c) smuggling goods to avoid the restrictions
+d) closing their ports to English ships
+% Enforcement was loose, so many merchants simply traded illegally with other nations and their colonies.
+
+@topic 2.5
+- **Virginia**: the Powhatan Confederacy first traded with Jamestown, then fought it. An attack in 1622 killed about a quarter of the colonists, and by 1646 the Powhatan had been defeated.
+- **Pequot War** (1636–1638): New England colonists and their Native allies nearly destroyed the Pequot.
+- **Bacon's Rebellion** (1676): Nathaniel Bacon led frontier farmers and former servants against Governor William Berkeley, who had refused to back attacks on American Indians. The rebels burned Jamestown.
+- The **Iroquois Confederacy** gained power by trading furs and playing the French and English against each other.
+- The Pueblo Revolt, led by **Popé**, was caused by forced labor, drought, and Spanish suppression of Pueblo religion.
+? Bacon's Rebellion began mainly because
+a) the governor of Virginia raised taxes on tobacco exports
+*b) frontier settlers wanted land and were angry that the governor would not support attacks on American Indians
+c) enslaved Africans demanded their freedom
+d) the king dissolved the House of Burgesses
+% Poor farmers and former servants on the frontier resented the wealthy planters who ran the colony and wanted Native land opened to them.
+? Which of the following was a cause of the Pueblo Revolt of 1680?
+a) English settlers moved into New Mexico
+*b) The Spanish demanded forced labor and suppressed Pueblo religious practices
+c) The Spanish refused to trade horses to the Pueblo
+d) The French armed the Pueblo against Spain
+% Decades of tribute, forced labor, and attacks on Pueblo religion, made worse by drought, led the Pueblo to unite against the Spanish.
+? In the Pequot War of 1636–1638,
+a) the Pequot drove the English out of Connecticut
+*b) New England colonists and their Native allies nearly destroyed the Pequot
+c) the Dutch and the English fought for control of New Netherland
+d) the Wampanoag leader Metacom was killed
+% The colonists and their Narragansett and Mohegan allies attacked the Pequot, most notably at their fort on the Mystic River.
+? During the 1600s and early 1700s, the Iroquois Confederacy strengthened its position by
+a) refusing all trade with Europeans
+*b) trading furs and using the rivalry between France and England to its advantage
+c) converting to Catholicism and joining New France
+d) moving west of the Mississippi River
+% By dealing with both empires, the Iroquois kept their independence and gained trade goods and influence over neighboring peoples.
+
+@topic 2.6
+- In **1619** about twenty enslaved Africans were brought to Virginia, the first recorded in the English mainland colonies.
+- As the supply of enslaved Africans rose and the supply of English servants fell in the late 1600s, slavery replaced servitude in the Chesapeake.
+- **Slave codes**, such as Virginia's of 1705, defined enslaved people as property and restricted their movement, assembly, and learning.
+- On Carolina rice plantations, enslaved people often worked under a task system and kept more African customs. The Gullah language and culture developed there.
+- **Spanish Florida** offered freedom to people who escaped from the English colonies, which encouraged the Stono rebels to march south.
+- Some **Quakers** were among the first colonists to condemn slavery.
+? Why did enslaved Africans make up a much larger share of the population in the West Indies than in New England?
+a) New England had banned slavery
+*b) Sugar plantations in the West Indies required very large labor forces, while New England's small farms did not
+c) The West Indies were closer to Africa
+d) New England colonists used Native American labor instead
+% Plantation crops grown for export, above all sugar, depended on huge numbers of workers. New England's economy of family farms and trade did not.
+? The Gullah language and culture of the Carolina coast are an example of
+a) the Anglicization of the colonies
+*b) enslaved Africans preserving and blending African traditions
+c) the influence of Spanish missionaries
+d) the effects of the First Great Awakening
+% Large numbers of enslaved Africans lived together on rice plantations with little contact with whites, which helped African languages and customs survive.
+? The participants in the Stono Rebellion of 1739 were trying to reach
+a) the Appalachian Mountains
+b) Pennsylvania
+*c) Spanish Florida, which promised freedom to people escaping slavery
+d) the port of Charleston
+% Spain offered freedom to people who fled the English colonies. The rebels marched south from the Stono River before the militia stopped them.
+? Which group included some of the earliest critics of slavery in the British colonies?
+a) Puritan ministers in Massachusetts
+b) Anglican planters in Virginia
+*c) Quakers in Pennsylvania
+d) Royal governors
+% Quaker beliefs in the equality of all people led some members to protest slavery as early as 1688.
+
+@topic 2.7
+- **Jonathan Edwards** preached "Sinners in the Hands of an Angry God." **George Whitefield** toured the colonies and drew huge crowds. Supporters of the revivals were called New Lights and opponents Old Lights.
+- The Great Awakening led to new colleges, including Princeton, and to the growth of Baptist and Presbyterian churches.
+- **Benjamin Franklin** published _Poor Richard's Almanack_, experimented with electricity, and promoted practical learning.
+- Colonial government: an appointed governor, a council, and an elected assembly. Assemblies controlled taxes and spending, the **power of the purse**. Voting was limited to white men who owned property.
+- Population roughly doubled every 25 years. **Germans** settled in Pennsylvania and **Scots-Irish** migrants settled the backcountry.
+- Colonial society had no hereditary nobility and offered white men more social mobility than Europe did. Married women had few legal rights.
+? Colonial assemblies gained influence over royal governors mainly through their
+a) command of the colonial militia
+*b) control of taxes and spending
+c) power to appoint judges
+d) right to veto acts of Parliament
+% The power of the purse let assemblies withhold money, including the governor's salary, to get their way.
+? One effect of the First Great Awakening was
+a) a decline in the number of Protestant denominations
+*b) the founding of new colleges and the growth of new denominations
+c) the establishment of a single colonial church
+d) the end of religious toleration in the middle colonies
+% Revivals split existing churches and built up Baptists and Presbyterians. New Light groups founded colleges such as Princeton to train ministers.
+? Scots-Irish immigrants in the 1700s most often settled
+a) in New England port towns
+b) on Caribbean sugar islands
+*c) in the backcountry along the Appalachian frontier
+d) in Spanish Florida
+% Good coastal land was already taken, so these migrants moved inland to the frontier of Pennsylvania, Virginia, and the Carolinas.
+? Which statement describes a similarity between the First Great Awakening and the Enlightenment?
+a) Both rejected religion in favor of science
+b) Both strengthened the authority of established churches
+*c) Both encouraged colonists to question traditional authority and think for themselves
+d) Both began in the American colonies
+% Revival preachers stressed individual religious experience and Enlightenment writers stressed individual reason. Each weakened automatic deference to authority.
+? Benjamin Franklin is best described as a colonial example of
+a) the New Light preachers of the Great Awakening
+*b) Enlightenment ideals of reason, science, and self-improvement
+c) the Puritan founders of Massachusetts Bay
+d) royal officials who enforced the Navigation Acts
+% Franklin's experiments, inventions, and writing on practical self-improvement reflected the Enlightenment's confidence in reason.
+
+@topic 2.8
+- **Spanish and English colonies**: Spanish colonies were tightly controlled by the crown and the Catholic Church and brought Native peoples into colonial society. English colonies were founded by companies and proprietors, governed themselves through assemblies, and pushed Native peoples out.
+- **Two revolts**: after the Pueblo Revolt the Spanish made lasting concessions. After Metacom's War the English made none, and Native power in southern New England was destroyed.
+- **Labor**: New England relied on family labor, the Chesapeake on indentured servants and then enslaved Africans, and the Carolina and West Indies plantations on enslaved Africans from the start.
+? Compared with English colonists, French colonists in North America generally
+a) took more land from American Indians for farming
+*b) had more cooperative relations with American Indians because they depended on them for the fur trade
+c) arrived in far larger numbers
+d) relied more heavily on enslaved African labor
+% The small French population needed Native partners as trappers, guides, and allies. English farmers wanted Native land.
+? A major difference between Spanish and English colonies in the 1600s was that
+a) only the Spanish used forced labor
+*b) Spanish colonies were more tightly controlled by the crown, while English colonies developed more self-government
+c) only the English tried to convert Native peoples to Christianity
+d) English colonies had larger Native populations living within them
+% Spain ruled through royal officials and the church. English colonies, founded by private groups and loosely supervised, created their own assemblies.
+? How did the outcome of the Pueblo Revolt differ from the outcome of Metacom's War?
+a) The Pueblo were destroyed, while Metacom's forces won independence
+*b) The Spanish later accommodated some Pueblo customs, while the English made no concessions after defeating Metacom
+c) Both ended with the permanent removal of Europeans
+d) Neither had any lasting effect on colonial policy
+% The Spanish needed the Pueblo as allies and laborers and eased their demands. The English victory in New England ended Native independence there.

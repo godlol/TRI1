@@ -1,0 +1,662 @@
+@course calc | AP Calculus AB | Calculus AB | Units 1–3
+
+@unit calc-1 | Unit 1 | Limits and Continuity | 10–12% of exam
+
+@topic 1.1 | Introducing Calculus: Can Change Occur at an Instant?
+- The **average rate of change** of $f$ on $[a, b]$ is the slope of the secant line through the two endpoints.
+- A rate of change at a single instant cannot be found with algebra alone, because the formula gives $\frac{0}{0}$. Calculus finds it as the value that the average rates approach as the interval shrinks.
+- That limiting value is the **instantaneous rate of change**, the slope of the tangent line.
+= $\frac{f(b) - f(a)}{b - a}$ :: Average rate of change
+? What is the average rate of change of $f(x) = x^2$ on the interval $[1, 3]$?
+a) 2
+*b) 4
+c) 6
+d) 8
+% $\dfrac{f(3) - f(1)}{3 - 1} = \dfrac{9 - 1}{2} = 4$.
+? The position of a particle is $s(t) = t^2$ meters at time $t$ seconds. Its average velocities on $[2, 2.1]$, $[2, 2.01]$, and $[2, 2.001]$ are 4.1, 4.01, and 4.001 meters per second. The instantaneous velocity at $t = 2$ is best estimated as
+a) 0 meters per second
+b) 2 meters per second
+*c) 4 meters per second
+d) 4.1 meters per second
+% As the interval shrinks toward $t = 2$, the average velocities approach 4. That limiting value is the instantaneous velocity.
+
+@topic 1.2 | Defining Limits and Using Limit Notation
+- $\lim_{x \to c} f(x) = L$ means that $f(x)$ gets as close to $L$ as we like when $x$ is close enough to $c$, with $x \ne c$.
+- A limit describes behavior _near_ $c$. The value $f(c)$ does not affect the limit and does not have to exist.
+- **One-sided limits**: $x \to c^-$ approaches from the left and $x \to c^+$ approaches from the right.
+- The two-sided limit exists only when both one-sided limits exist and are equal.
+= $\lim_{x \to c} f(x) = L \iff \lim_{x \to c^-} f(x) = L = \lim_{x \to c^+} f(x)$ :: Two-sided limit
+? If $\lim_{x \to 3^-} f(x) = 5$, $\lim_{x \to 3^+} f(x) = 5$, and $f(3) = 2$, what is $\lim_{x \to 3} f(x)$?
+a) 2
+b) 3.5
+*c) 5
+d) The limit does not exist
+% Both one-sided limits equal 5, so the limit is 5. The value $f(3) = 2$ has no effect on the limit.
+? Which statement must be true if $\lim_{x \to 2} f(x) = 7$?
+a) The value of $f(2)$ is 7
+b) The function $f$ is continuous at $x = 2$
+c) The value of $f(2)$ is undefined
+*d) The values of $f(x)$ are close to 7 when $x$ is close to, but not equal to, 2
+% A limit only describes the values of $f$ near $x = 2$. It says nothing about $f(2)$, which could be 7, another number, or undefined.
+
+@topic 1.3 | Estimating Limit Values from Graphs
+- To read a limit from a graph, follow the curve toward $x = c$ from each side and find the $y$-value it approaches. Ignore where the filled dot at $x = c$ is.
+- A limit does not exist when the two sides approach different values, when the function is unbounded near $c$, or when the function oscillates without settling on one value.
+- A graph gives an estimate. Its scale can hide behavior close to $c$.
+? The graph of $f$ is a smooth curve with an open circle at $(2, 3)$ and a filled dot at $(2, 5)$. The curve approaches the open circle from both sides. What is $\lim_{x \to 2} f(x)$?
+a) 2
+*b) 3
+c) 5
+d) The limit does not exist
+% The curve approaches a height of 3 from both sides, so the limit is 3. The filled dot shows $f(2) = 5$, which does not affect the limit.
+? The graph of $g$ approaches $y = 1$ as $x$ approaches 4 from the left and approaches $y = -2$ as $x$ approaches 4 from the right, and $g(4) = 1$. What is $\lim_{x \to 4} g(x)$?
+a) $1$
+b) $-2$
+c) $-0.5$
+*d) The limit does not exist
+% The one-sided limits are 1 and $-2$. Because they are different, the two-sided limit does not exist, even though $g(4)$ is defined.
+
+@topic 1.4 | Estimating Limit Values from Tables
+- Choose inputs that approach $c$ from both sides and watch what the outputs approach.
+- If the outputs from both sides close in on the same number, that number is the estimated limit. If the two sides close in on different numbers, the limit does not exist.
+- A table suggests a limit but cannot prove it.
+? Selected values of a function $f$ are $f(1.9) = 3.61$, $f(1.99) = 3.9601$, $f(1.999) = 3.996$, $f(2.001) = 4.004$, $f(2.01) = 4.0401$, and $f(2.1) = 4.41$. Based on these values, $\lim_{x \to 2} f(x)$ appears to be
+a) 2
+b) 3.61
+*c) 4
+d) 4.41
+% From both sides the outputs move closer and closer to 4 as $x$ moves closer to 2.
+? Selected values of a function $g$ are $g(0.9) = 2.9$, $g(0.99) = 2.99$, $g(0.999) = 2.999$, $g(1.001) = 5.001$, $g(1.01) = 5.01$, and $g(1.1) = 5.1$. Based on these values, $\lim_{x \to 1} g(x)$
+a) appears to be 3
+b) appears to be 4
+c) appears to be 5
+*d) does not appear to exist
+% From the left the outputs approach 3 and from the right they approach 5. Different one-sided limits mean the two-sided limit does not exist.
+
+@topic 1.5 | Determining Limits Using Algebraic Properties of Limits
+- When $\lim f(x)$ and $\lim g(x)$ both exist, the limit of a sum, difference, product, constant multiple, quotient, or power is found by applying that operation to the limits. For a quotient, the limit of the denominator must not be 0.
+- For a composition, $\lim_{x \to c} f(g(x)) = f\left(\lim_{x \to c} g(x)\right)$ when $f$ is continuous at that inner limit.
+- **Direct substitution** gives the limit whenever the function is continuous at $c$.
+= $\lim_{x \to c}[f(x) \pm g(x)] = \lim_{x \to c} f(x) \pm \lim_{x \to c} g(x)$ :: Sum and difference
+= $\lim_{x \to c}[f(x)\,g(x)] = \lim_{x \to c} f(x) \cdot \lim_{x \to c} g(x)$ :: Product
+= $\lim_{x \to c}\frac{f(x)}{g(x)} = \frac{\lim_{x \to c} f(x)}{\lim_{x \to c} g(x)}, \quad \lim_{x \to c} g(x) \ne 0$ :: Quotient
+? If $\lim_{x \to 2} f(x) = 3$ and $\lim_{x \to 2} g(x) = -4$, what is $\lim_{x \to 2}\left[3f(x) + (g(x))^2\right]$?
+a) $-7$
+b) $1$
+c) $19$
+*d) $25$
+% Apply the limit laws: $3(3) + (-4)^2 = 9 + 16 = 25$. Squaring $-4$ gives a positive 16.
+? What is $\lim_{x \to 2}\left(x^3 - 2x + 1\right)$?
+a) 3
+*b) 5
+c) 9
+d) 13
+% A polynomial is continuous everywhere, so substitute: $8 - 4 + 1 = 5$.
+
+@topic 1.6 | Determining Limits Using Algebraic Manipulation
+- When direct substitution gives $\frac{0}{0}$, the limit may still exist. Rewrite the expression, cancel the common factor, then substitute.
+- Tools: **factor** and cancel, multiply by the **conjugate** to clear a square root, or combine the pieces of a **complex fraction**.
+- Cancelling is allowed because a limit uses only values of $x$ near $c$, never $x = c$ itself.
+> $\lim_{x \to 3}\dfrac{x^2 - 9}{x - 3} = \lim_{x \to 3}\dfrac{(x - 3)(x + 3)}{x - 3} = \lim_{x \to 3}(x + 3) = 6$
+? What is $\lim_{x \to 5}\dfrac{x^2 - 25}{x - 5}$?
+a) 0
+b) 5
+*c) 10
+d) The limit does not exist
+% Factor: $\dfrac{(x - 5)(x + 5)}{x - 5} = x + 5$ for $x \ne 5$, and $x + 5$ approaches 10. The form $\frac{0}{0}$ means more work is needed, not that the limit fails to exist.
+? What is $\lim_{x \to 0}\dfrac{\sqrt{x + 4} - 2}{x}$?
+a) $0$
+*b) $\dfrac{1}{4}$
+c) $\dfrac{1}{2}$
+d) The limit does not exist
+% Multiply top and bottom by the conjugate $\sqrt{x + 4} + 2$. The numerator becomes $x$, which cancels, leaving $\dfrac{1}{\sqrt{x + 4} + 2}$, which approaches $\dfrac{1}{4}$.
+? What is $\lim_{x \to 0}\dfrac{\dfrac{1}{x + 2} - \dfrac{1}{2}}{x}$?
+*a) $-\dfrac{1}{4}$
+b) $0$
+c) $\dfrac{1}{4}$
+d) $\dfrac{1}{2}$
+% Combine the small fractions: $\dfrac{1}{x + 2} - \dfrac{1}{2} = \dfrac{-x}{2(x + 2)}$. Dividing by $x$ leaves $\dfrac{-1}{2(x + 2)}$, which approaches $-\dfrac{1}{4}$.
+
+@topic 1.7 | Selecting Procedures for Determining Limits
+- Start with direct substitution. A number is the answer. A nonzero number over 0 signals an infinite limit. The form $\frac{0}{0}$ means the expression must be rewritten.
+- For $\frac{0}{0}$: factor, use a conjugate, simplify a complex fraction, or use a known trigonometric limit.
+- From the first trigonometric limit below, $\lim_{x \to 0}\frac{\sin(ax)}{bx} = \frac{a}{b}$.
+= $\lim_{x \to 0}\frac{\sin x}{x} = 1$ :: Sine limit
+= $\lim_{x \to 0}\frac{1 - \cos x}{x} = 0$ :: Cosine limit
+? What is $\lim_{x \to 0}\dfrac{\sin(5x)}{2x}$?
+a) $0$
+b) $\dfrac{2}{5}$
+*c) $\dfrac{5}{2}$
+d) The limit does not exist
+% Rewrite as $\dfrac{5}{2} \cdot \dfrac{\sin(5x)}{5x}$. The second factor approaches 1, so the limit is $\dfrac{5}{2}$.
+? What is $\lim_{x \to 2}\dfrac{x^2 - 4}{x^2 + x - 6}$?
+*a) $\dfrac{4}{5}$
+b) $1$
+c) $\dfrac{4}{3}$
+d) The limit does not exist
+% Substitution gives $\frac{0}{0}$, so factor: $\dfrac{(x - 2)(x + 2)}{(x - 2)(x + 3)} = \dfrac{x + 2}{x + 3}$, which approaches $\dfrac{4}{5}$.
+
+@topic 1.8 | Determining Limits Using the Squeeze Theorem
+- **Squeeze theorem**: if $g(x) \le f(x) \le h(x)$ for all $x$ near $c$, and $g$ and $h$ have the same limit $L$ at $c$, then $\lim_{x \to c} f(x) = L$.
+- Use it when a function is trapped between two simpler functions. The bounds often come from $-1 \le \sin\theta \le 1$ or $-1 \le \cos\theta \le 1$.
+> Because $-x^2 \le x^2\sin\left(\frac{1}{x}\right) \le x^2$ and both $-x^2$ and $x^2$ approach 0, $\lim_{x \to 0} x^2\sin\left(\frac{1}{x}\right) = 0$.
+? If $4 - x^2 \le f(x) \le 4 + x^2$ for all $x$, what is $\lim_{x \to 0} f(x)$?
+a) 0
+*b) 4
+c) The limit does not exist
+d) The limit cannot be determined from this information
+% Both bounds approach 4 as $x$ approaches 0, so $f(x)$ is squeezed to 4.
+? What is $\lim_{x \to 0} x^2\cos\left(\dfrac{1}{x}\right)$?
+*a) $0$
+b) $1$
+c) $\infty$
+d) The limit does not exist because $\cos\left(\dfrac{1}{x}\right)$ oscillates
+% Since $-1 \le \cos\left(\frac{1}{x}\right) \le 1$, we have $-x^2 \le x^2\cos\left(\frac{1}{x}\right) \le x^2$. Both bounds approach 0, so the limit is 0 even though the cosine factor oscillates.
+
+@topic 1.9 | Connecting Multiple Representations of Limits
+- A limit can be studied with a graph, a table, or algebra. All three must agree.
+- Graphs and tables give estimates. Algebra confirms the exact value.
+- The same fact looks different in each form: a common factor that cancels in the formula is a hole in the graph and a missing entry in the table whose neighbors approach one value.
+? Let $f(x) = \dfrac{x^2 - 1}{x - 1}$. Which statement is true?
+a) The graph of $f$ has a vertical asymptote at $x = 1$
+*b) The graph of $f$ is the line $y = x + 1$ with a hole at $(1, 2)$, and the limit of $f(x)$ as $x$ approaches 1 is 2
+c) The value of $f(1)$ is 2
+d) The limit of $f(x)$ as $x$ approaches 1 does not exist because $f(1)$ is undefined
+% For $x \ne 1$, $f(x) = x + 1$. The function is undefined at $x = 1$, which is a hole, but nearby values approach 2.
+
+@topic 1.10 | Exploring Types of Discontinuities
+- **Removable** discontinuity: the limit exists, but $f(c)$ is undefined or differs from the limit. The graph has a hole.
+- **Jump** discontinuity: both one-sided limits exist but they are not equal.
+- **Infinite** discontinuity: at least one one-sided limit is infinite. The graph has a vertical asymptote.
+~ discontinuities
+?= What type of discontinuity does $f(x) = \dfrac{x^2 - 4}{x - 2}$ have at $x = 2$?
+*a) Removable
+b) Jump
+c) Infinite
+d) None; the function is continuous at that point
+% For $x \ne 2$, $f(x) = x + 2$, so the limit is 4. The function is simply undefined at $x = 2$, which is a hole.
+?= What type of discontinuity does $f(x) = \dfrac{|x|}{x}$ have at $x = 0$?
+a) Removable
+*b) Jump
+c) Infinite
+d) None; the function is continuous at that point
+% For $x < 0$ the function equals $-1$, and for $x > 0$ it equals 1. The one-sided limits exist but differ.
+?= What type of discontinuity does $f(x) = \dfrac{1}{(x - 3)^2}$ have at $x = 3$?
+a) Removable
+b) Jump
+*c) Infinite
+d) None; the function is continuous at that point
+% As $x$ approaches 3, the denominator approaches 0 through positive values and $f(x)$ grows without bound. The line $x = 3$ is a vertical asymptote.
+
+@topic 1.11 | Defining Continuity at a Point
+- A function $f$ is **continuous at** $x = c$ when three conditions hold: $f(c)$ is defined, $\lim_{x \to c} f(x)$ exists, and the limit equals $f(c)$.
+- To justify continuity on the exam, show that the left-hand limit, the right-hand limit, and the function value are all equal.
+= $\lim_{x \to c^-} f(x) = \lim_{x \to c^+} f(x) = f(c)$ :: Continuity at a point
+? Let $f(x) = x^2 + 1$ for $x < 2$ and $f(x) = kx - 1$ for $x \ge 2$. For what value of $k$ is $f$ continuous at $x = 2$?
+a) 2
+*b) 3
+c) 5
+d) 6
+% The left-hand limit is $2^2 + 1 = 5$. The right-hand value is $2k - 1$. Setting $2k - 1 = 5$ gives $k = 3$.
+? Let $f(x) = \dfrac{x^2 - 9}{x - 3}$ for $x \ne 3$ and $f(3) = 5$. Is $f$ continuous at $x = 3$?
+a) Yes, because $f(3)$ is defined
+b) Yes, because the limit of $f(x)$ as $x$ approaches 3 exists
+*c) No, because the limit of $f(x)$ as $x$ approaches 3 is 6, which does not equal $f(3)$
+d) No, because the limit of $f(x)$ as $x$ approaches 3 does not exist
+% The limit is $3 + 3 = 6$ but $f(3) = 5$. The first two conditions hold and the third fails.
+
+@topic 1.12 | Confirming Continuity over an Interval
+- A function is continuous on an interval when it is continuous at every point of the interval. At a closed endpoint, only the one-sided limit from inside the interval is used.
+- Polynomial, rational, power, exponential, logarithmic, and trigonometric functions are continuous at every point of their domains.
+- Sums, differences, products, quotients (where the denominator is not 0), and compositions of continuous functions are continuous.
+? On which interval is $f(x) = \dfrac{x + 1}{x^2 - 4}$ continuous?
+a) $[-3, 0]$
+*b) $(-2, 2)$
+c) $[0, 3]$
+d) $(-\infty, \infty)$
+% A rational function is continuous wherever its denominator is not 0. Here the denominator is 0 at $x = -2$ and $x = 2$, and only $(-2, 2)$ avoids both.
+? The function $f(x) = \ln(x - 3)$ is continuous on
+a) $(-\infty, \infty)$
+b) $[3, \infty)$
+*c) $(3, \infty)$
+d) $(0, \infty)$
+% A logarithm is defined and continuous where its input is positive: $x - 3 > 0$, so $x > 3$. At $x = 3$ the function is undefined.
+
+@topic 1.13 | Removing Discontinuities
+- A removable discontinuity at $x = c$ is removed by defining or redefining $f(c)$ to equal $\lim_{x \to c} f(x)$.
+- Jump and infinite discontinuities cannot be removed, because the two-sided limit does not exist.
+- For a piecewise function with an unknown constant, set the limit equal to the function value and solve.
+? Let $f(x) = \dfrac{x^2 - 5x + 6}{x - 2}$ for $x \ne 2$. What value of $f(2)$ makes $f$ continuous at $x = 2$?
+*a) $-1$
+b) $0$
+c) $1$
+d) $2$
+% Factor: $\dfrac{(x - 2)(x - 3)}{x - 2} = x - 3$ for $x \ne 2$, which approaches $-1$. Define $f(2) = -1$.
+? Let $f(x) = \dfrac{\sin(3x)}{x}$ for $x \ne 0$ and $f(0) = k$. For what value of $k$ is $f$ continuous at $x = 0$?
+a) $0$
+b) $\dfrac{1}{3}$
+c) $1$
+*d) $3$
+% $\lim_{x \to 0}\dfrac{\sin(3x)}{x} = 3 \cdot \lim_{x \to 0}\dfrac{\sin(3x)}{3x} = 3$, so $k$ must be 3.
+
+@topic 1.14 | Connecting Infinite Limits and Vertical Asymptotes
+- If $f(x)$ increases or decreases without bound as $x$ approaches $c$ from either side, we write the limit as $\infty$ or $-\infty$, and the line $x = c$ is a **vertical asymptote**.
+- For a rational function, look where the denominator is 0. A factor that cancels with the numerator gives a hole. A factor that does not cancel gives a vertical asymptote.
+- Find the sign of an infinite limit by checking the signs of the numerator and denominator just to the left or right of $c$.
+! Writing a limit as $\infty$ describes how the function behaves. Strictly speaking, such a limit does not exist.
+? What is $\lim_{x \to 2^+}\dfrac{x + 1}{x - 2}$?
+a) $-\infty$
+b) $0$
+c) $3$
+*d) $\infty$
+% Just to the right of 2, the numerator is close to 3 and the denominator is a small positive number, so the quotient grows without bound in the positive direction.
+? Which lines are vertical asymptotes of the graph of $f(x) = \dfrac{x^2 - 1}{x^2 - x - 2}$?
+*a) $x = 2$ only
+b) $x = -1$ only
+c) $x = -1$ and $x = 2$
+d) $x = -1$ and $x = 1$
+% Factor: $\dfrac{(x - 1)(x + 1)}{(x - 2)(x + 1)}$. The factor $x + 1$ cancels, so $x = -1$ is a hole. The factor $x - 2$ remains, so $x = 2$ is the only vertical asymptote.
+
+@topic 1.15 | Connecting Limits at Infinity and Horizontal Asymptotes
+- If $f(x)$ approaches $L$ as $x \to \infty$ or as $x \to -\infty$, the line $y = L$ is a **horizontal asymptote**. A graph can have two different horizontal asymptotes, and it can cross one.
+- For rational functions, compare degrees. Smaller degree on top: the limit is 0. Equal degrees: the limit is the ratio of the leading coefficients. Larger degree on top: there is no horizontal asymptote.
+- Growth rates as $x \to \infty$: logarithms grow more slowly than powers of $x$, and powers of $x$ grow more slowly than exponential functions.
+= $\lim_{x \to \infty}\frac{x^n}{e^x} = 0 \qquad \lim_{x \to \infty}\frac{\ln x}{x} = 0$ :: Growth rates
+! For $x \to -\infty$, remember that $\sqrt{x^2} = |x| = -x$.
+? What is $\lim_{x \to \infty}\dfrac{3x^2 - 5x}{2x^2 + 7}$?
+a) $-\dfrac{5}{7}$
+b) $0$
+*c) $\dfrac{3}{2}$
+d) $\infty$
+% The degrees are equal, so the limit is the ratio of the leading coefficients, $\dfrac{3}{2}$.
+? What is $\lim_{x \to -\infty}\dfrac{\sqrt{4x^2 + 1}}{x - 3}$?
+a) $-4$
+*b) $-2$
+c) $2$
+d) $4$
+% For large negative $x$, $\sqrt{4x^2 + 1}$ behaves like $2|x| = -2x$, and the denominator behaves like $x$. The ratio approaches $-2$.
+? What is $\lim_{x \to \infty}\dfrac{x^3}{e^x}$?
+*a) $0$
+b) $1$
+c) $3$
+d) $\infty$
+% Exponential functions grow faster than any power of $x$, so the denominator dominates and the quotient approaches 0.
+
+@topic 1.16 | Working with the Intermediate Value Theorem (IVT)
+- **Intermediate Value Theorem**: if $f$ is continuous on $[a, b]$ and $d$ is any number between $f(a)$ and $f(b)$, then there is at least one number $c$ in $(a, b)$ with $f(c) = d$.
+- The theorem guarantees that such a $c$ exists. It does not say where it is or how many there are.
+- State that $f$ is continuous on the closed interval before using the theorem. Without continuity, it gives no conclusion.
+- A sign change in a continuous function guarantees a zero between the two points.
+? A function $f$ is continuous on $[1, 5]$ with $f(1) = -3$ and $f(5) = 7$. Which statement must be true?
+a) There is a number $c$ in $(1, 5)$ with $f(c) = 8$
+*b) There is a number $c$ in $(1, 5)$ with $f(c) = 0$
+c) The function $f$ is increasing on $[1, 5]$
+d) The function $f$ has exactly one zero in $(1, 5)$
+% Zero lies between $-3$ and 7, so the theorem guarantees at least one $c$ with $f(c) = 0$. It does not guarantee values outside that range, or that there is only one zero.
+? A continuous function $f$ has the values $f(0) = 3$, $f(2) = -1$, $f(4) = 2$, and $f(6) = 5$. What is the least number of zeros $f$ must have on $[0, 6]$?
+a) 0
+b) 1
+*c) 2
+d) 3
+% The sign changes between $x = 0$ and $x = 2$ and again between $x = 2$ and $x = 4$. Each sign change guarantees at least one zero.
+
+@unit calc-2 | Unit 2 | Differentiation: Definition and Fundamental Properties | 10–12% of exam
+
+@topic 2.1 | Defining Average and Instantaneous Rates of Change at a Point
+- The **difference quotient** $\frac{f(a + h) - f(a)}{h}$ is the average rate of change of $f$ on $[a, a + h]$, the slope of a secant line.
+- The **instantaneous rate of change** at $x = a$ is the limit of the difference quotient as $h \to 0$. It is the slope of the tangent line and is written $f'(a)$.
+= $f'(a) = \lim_{h \to 0}\frac{f(a + h) - f(a)}{h}$ :: Limit definition
+= $f'(a) = \lim_{x \to a}\frac{f(x) - f(a)}{x - a}$ :: Alternate form
+! A limit that matches one of these forms is a derivative in disguise. Identify $f$ and $a$, then use derivative rules instead of algebra.
+? What is $\lim_{h \to 0}\dfrac{(3 + h)^2 - 9}{h}$?
+a) 0
+b) 3
+*c) 6
+d) 9
+% This is the limit definition of $f'(3)$ for $f(x) = x^2$. Since $f'(x) = 2x$, the value is 6. Expanding gives $\dfrac{6h + h^2}{h} = 6 + h$, which also approaches 6.
+? What is $\lim_{x \to 2}\dfrac{x^3 - 8}{x - 2}$?
+a) 0
+b) 4
+c) 8
+*d) 12
+% This is the alternate form of $f'(2)$ for $f(x) = x^3$. Since $f'(x) = 3x^2$, the value is $3(2)^2 = 12$.
+
+@topic 2.2 | Defining the Derivative of a Function and Using Derivative Notation
+- The **derivative** of $f$ is the function $f'$ whose value at each $x$ is the slope of the line tangent to the graph of $f$ at $x$.
+- Notation: $f'(x)$, $y'$, $\frac{dy}{dx}$, and $\frac{d}{dx}[f(x)]$ all mean the derivative. Its value at $x = a$ is written $f'(a)$ or $\left.\frac{dy}{dx}\right|_{x = a}$.
+- The **tangent line** at $x = a$ passes through the point $(a, f(a))$ with slope $f'(a)$.
+= $f'(x) = \lim_{h \to 0}\frac{f(x + h) - f(x)}{h}$ :: Derivative function
+= $y - f(a) = f'(a)(x - a)$ :: Tangent line
+? The function $f(x) = x^2 - 3x$ has derivative $f'(x) = 2x - 3$. What is an equation of the line tangent to the graph of $f$ at $x = 2$?
+a) $y = x - 2$
+*b) $y = x - 4$
+c) $y = -x$
+d) $y = 2x - 6$
+% The point is $(2, f(2)) = (2, -2)$ and the slope is $f'(2) = 1$. So $y + 2 = 1(x - 2)$, which simplifies to $y = x - 4$.
+? Which expression is the derivative of $f(x) = \sqrt{x}$ at $x = 4$?
+a) $\lim_{h \to 4}\dfrac{\sqrt{h} - 2}{h}$
+b) $\lim_{h \to 0}\dfrac{\sqrt{4 + h} - 4}{h}$
+*c) $\lim_{h \to 0}\dfrac{\sqrt{4 + h} - 2}{h}$
+d) $\dfrac{\sqrt{4 + h} - 2}{h}$
+% The definition is $\lim_{h \to 0}\dfrac{f(4 + h) - f(4)}{h}$ with $f(4) = 2$. Without the limit, the expression is only an average rate of change.
+
+@topic 2.3 | Estimating Derivatives of a Function at a Point
+- From a **table**, estimate $f'(a)$ with the average rate of change over the shortest interval that contains $a$, preferably one with $a$ in the middle.
+- From a **graph**, estimate the slope of the tangent line at the point.
+- A derivative has **units**: the units of $f$ divided by the units of $x$. Interpret it as a rate at one instant.
+? The temperature of a liquid is $T(t)$ degrees Fahrenheit at time $t$ minutes. Selected values are $T(2) = 50$, $T(4) = 58$, and $T(6) = 62$. Using the average rate of change on $[2, 6]$, what is the estimate of $T'(4)$?
+a) 2
+*b) 3
+c) 4
+d) 12
+% $\dfrac{T(6) - T(2)}{6 - 2} = \dfrac{62 - 50}{4} = 3$ degrees Fahrenheit per minute.
+? The temperature of a liquid is $T(t)$ degrees Fahrenheit at time $t$ minutes. Which is the best interpretation of $T'(4) = 3$?
+a) At time 4 minutes, the temperature is 3 degrees Fahrenheit
+b) During the first 4 minutes, the temperature rises by 3 degrees Fahrenheit
+*c) At time 4 minutes, the temperature is increasing at a rate of 3 degrees Fahrenheit per minute
+d) The average temperature during the first 4 minutes is 3 degrees Fahrenheit
+% A derivative is an instantaneous rate of change. Its units are the units of $T$ per unit of $t$.
+
+@topic 2.4 | Connecting Differentiability and Continuity: Determining When Derivatives Do and Do Not Exist
+- If $f$ is differentiable at $x = a$, then $f$ is continuous at $x = a$.
+- The converse is false. A function can be continuous at a point and still not be differentiable there.
+- A function is **not differentiable** where it has a discontinuity, a **corner** (the slopes from the left and right differ), a **cusp**, or a **vertical tangent**.
+- For a piecewise function to be differentiable where its pieces meet, the pieces must have the same value there and the same slope there.
+? At $x = 2$, the function $f(x) = |x - 2|$ is
+a) neither continuous nor differentiable
+*b) continuous but not differentiable
+c) differentiable but not continuous
+d) both continuous and differentiable
+% The graph has no break at $x = 2$, so $f$ is continuous. It has a corner there: the slope is $-1$ on the left and 1 on the right, so the derivative does not exist.
+? Let $f(x) = x^2$ for $x \le 1$ and $f(x) = ax + b$ for $x > 1$. For which values of $a$ and $b$ is $f$ differentiable at $x = 1$?
+a) $a = 1$ and $b = 0$
+b) $a = 2$ and $b = 1$
+c) $a = 2$ and $b = 0$
+*d) $a = 2$ and $b = -1$
+% The slopes must match: the derivative of $x^2$ at 1 is 2, so $a = 2$. The values must match: $1 = a + b$, so $b = -1$.
+? If $f$ is differentiable at $x = 3$, which statement must be true?
+*a) $f$ is continuous at $x = 3$
+b) $f'(3) = 0$
+c) $f(3) = 0$
+d) $f$ has a maximum or minimum at $x = 3$
+% Differentiability at a point always implies continuity at that point. Nothing forces the derivative or the function value to be 0.
+
+@topic 2.5 | Applying the Power Rule
+- The power rule works for every real exponent $n$: positive, negative, or fractional.
+- Rewrite before differentiating: $\sqrt{x} = x^{1/2}$, $\frac{1}{x^n} = x^{-n}$, and $\sqrt[3]{x^2} = x^{2/3}$.
+= $\frac{d}{dx}\left[x^n\right] = nx^{n - 1}$ :: Power rule
+? If $f(x) = \dfrac{1}{x^3}$, then $f'(x) =$
+*a) $-\dfrac{3}{x^4}$
+b) $-\dfrac{3}{x^2}$
+c) $\dfrac{3}{x^4}$
+d) $-\dfrac{1}{3x^2}$
+% Rewrite as $x^{-3}$. The power rule gives $-3x^{-4} = -\dfrac{3}{x^4}$. Subtracting 1 from $-3$ gives $-4$, not $-2$.
+? If $f(x) = \sqrt[3]{x^2}$, what is $f'(8)$?
+a) $\dfrac{1}{6}$
+*b) $\dfrac{1}{3}$
+c) $\dfrac{2}{3}$
+d) $\dfrac{4}{3}$
+% Rewrite as $x^{2/3}$, so $f'(x) = \dfrac{2}{3}x^{-1/3}$. At $x = 8$: $\dfrac{2}{3} \cdot \dfrac{1}{2} = \dfrac{1}{3}$.
+
+@topic 2.6 | Derivative Rules: Constant, Sum, Difference, and Constant Multiple
+- Differentiate a polynomial one term at a time.
+- The graph of $f$ has a horizontal tangent line wherever $f'(x) = 0$.
+= $\frac{d}{dx}[c] = 0$ :: Constant
+= $\frac{d}{dx}[c\,f(x)] = c\,f'(x)$ :: Constant multiple
+= $\frac{d}{dx}[f(x) \pm g(x)] = f'(x) \pm g'(x)$ :: Sum and difference
+? If $f(x) = 4x^3 - 6x^2 + 7x - 9$, then $f'(x) =$
+a) $4x^2 - 6x + 7$
+b) $12x^3 - 12x^2 + 7x$
+c) $12x^2 - 6x + 7$
+*d) $12x^2 - 12x + 7$
+% Term by term: $4(3x^2) - 6(2x) + 7 - 0 = 12x^2 - 12x + 7$.
+? At which values of $x$ does the graph of $f(x) = x^3 - 3x$ have a horizontal tangent line?
+a) $x = 0$ only
+b) $x = 1$ only
+*c) $x = -1$ and $x = 1$
+d) $x = -\sqrt{3}$ and $x = \sqrt{3}$
+% Set $f'(x) = 3x^2 - 3 = 0$, which gives $x^2 = 1$. The values $\pm\sqrt{3}$ are zeros of $f$, not of $f'$.
+
+@topic 2.7 | Derivatives of $\cos x$, $\sin x$, $e^x$, and $\ln x$
+- These four derivatives must be memorized.
+= $\frac{d}{dx}[\sin x] = \cos x$ :: Sine
+= $\frac{d}{dx}[\cos x] = -\sin x$ :: Cosine
+= $\frac{d}{dx}\left[e^x\right] = e^x$ :: Exponential
+= $\frac{d}{dx}[\ln x] = \frac{1}{x}$ :: Natural log
+! The derivative of cosine is negative sine. The function $e^x$ is its own derivative; the power rule does not apply to it.
+? If $f(x) = 3\sin x - 2\cos x$, then $f'(x) =$
+a) $3\cos x - 2\sin x$
+*b) $3\cos x + 2\sin x$
+c) $-3\cos x + 2\sin x$
+d) $-3\cos x - 2\sin x$
+% The derivative of $3\sin x$ is $3\cos x$. The derivative of $-2\cos x$ is $-2(-\sin x) = 2\sin x$.
+? If $f(x) = 2e^x + \ln x$, what is $f'(1)$?
+a) $2$
+b) $2e$
+c) $e + 1$
+*d) $2e + 1$
+% $f'(x) = 2e^x + \dfrac{1}{x}$, so $f'(1) = 2e + 1$.
+? What is $\lim_{h \to 0}\dfrac{\ln(e + h) - 1}{h}$?
+a) $e$
+b) $1$
+*c) $\dfrac{1}{e}$
+d) $0$
+% Because $\ln e = 1$, this is the limit definition of the derivative of $\ln x$ at $x = e$. That derivative is $\dfrac{1}{x}$, which equals $\dfrac{1}{e}$.
+
+@topic 2.8 | The Product Rule
+- The derivative of a product is not the product of the derivatives.
+- Each factor takes a turn being differentiated while the other is left alone.
+= $\frac{d}{dx}[f(x)\,g(x)] = f'(x)\,g(x) + f(x)\,g'(x)$ :: Product rule
+? $\dfrac{d}{dx}\left[x^2\sin x\right] =$
+*a) $2x\sin x + x^2\cos x$
+b) $2x\sin x - x^2\cos x$
+c) $2x\cos x$
+d) $x^2\cos x$
+% Product rule: $(2x)(\sin x) + (x^2)(\cos x)$. Multiplying the two derivatives to get $2x\cos x$ is the classic mistake.
+? Let $h(x) = f(x)\,g(x)$. If $f(2) = 3$, $f'(2) = -1$, $g(2) = 4$, and $g'(2) = 5$, what is $h'(2)$?
+a) $-5$
+b) $7$
+*c) $11$
+d) $19$
+% $h'(2) = f'(2)\,g(2) + f(2)\,g'(2) = (-1)(4) + (3)(5) = 11$.
+
+@topic 2.9 | The Quotient Rule
+- The order in the numerator matters because of the subtraction: the derivative of the top times the bottom comes first.
+= $\frac{d}{dx}\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)\,g(x) - f(x)\,g'(x)}{[g(x)]^2}$ :: Quotient rule
+? $\dfrac{d}{dx}\left[\dfrac{2x + 1}{x - 3}\right] =$
+a) $2$
+*b) $-\dfrac{7}{(x - 3)^2}$
+c) $\dfrac{7}{(x - 3)^2}$
+d) $\dfrac{4x - 5}{(x - 3)^2}$
+% $\dfrac{2(x - 3) - (2x + 1)(1)}{(x - 3)^2} = \dfrac{2x - 6 - 2x - 1}{(x - 3)^2} = -\dfrac{7}{(x - 3)^2}$.
+? Let $h(x) = \dfrac{f(x)}{g(x)}$. If $f(2) = 3$, $f'(2) = -1$, $g(2) = 4$, and $g'(2) = 5$, what is $h'(2)$?
+*a) $-\dfrac{19}{16}$
+b) $-\dfrac{1}{5}$
+c) $\dfrac{11}{16}$
+d) $\dfrac{19}{16}$
+% $h'(2) = \dfrac{f'(2)\,g(2) - f(2)\,g'(2)}{[g(2)]^2} = \dfrac{(-1)(4) - (3)(5)}{16} = -\dfrac{19}{16}$.
+
+@topic 2.10 | Finding the Derivatives of Tangent, Cotangent, Secant, and/or Cosecant Functions
+- Each rule comes from rewriting the function with sine and cosine and applying the quotient rule.
+- The derivatives of the three functions that start with "co" (cosine, cotangent, cosecant) are negative.
+= $\frac{d}{dx}[\tan x] = \sec^2 x$ :: Tangent
+= $\frac{d}{dx}[\cot x] = -\csc^2 x$ :: Cotangent
+= $\frac{d}{dx}[\sec x] = \sec x\tan x$ :: Secant
+= $\frac{d}{dx}[\csc x] = -\csc x\cot x$ :: Cosecant
+? If $f(x) = \tan x$, what is $f'\left(\dfrac{\pi}{4}\right)$?
+a) $\dfrac{1}{2}$
+b) $1$
+c) $\sqrt{2}$
+*d) $2$
+% $f'(x) = \sec^2 x$. Since $\sec\dfrac{\pi}{4} = \sqrt{2}$, the value is $(\sqrt{2})^2 = 2$.
+? If $f(x) = \sec x$, what is $f'\left(\dfrac{\pi}{3}\right)$?
+*a) $2\sqrt{3}$
+b) $2$
+c) $\sqrt{3}$
+d) $\dfrac{\sqrt{3}}{2}$
+% $f'(x) = \sec x\tan x$. At $\dfrac{\pi}{3}$, $\sec x = 2$ and $\tan x = \sqrt{3}$, so the value is $2\sqrt{3}$.
+? $\dfrac{d}{dx}[\csc x] =$
+a) $\csc x\cot x$
+b) $-\csc^2 x$
+*c) $-\csc x\cot x$
+d) $\sec x\tan x$
+% The derivative of cosecant is $-\csc x\cot x$. The expression $-\csc^2 x$ is the derivative of cotangent.
+
+@unit calc-3 | Unit 3 | Differentiation: Composite, Implicit, and Inverse Functions | 9–13% of exam
+
+@topic 3.1 | The Chain Rule
+- Use the chain rule for a function inside another function. Differentiate the outer function, leave the inner function unchanged inside it, then multiply by the derivative of the inner function.
+- With more than two layers, keep multiplying by the derivative of each inner layer.
+- Common forms: $\frac{d}{dx}[u^n] = nu^{n-1}u'$, $\frac{d}{dx}[e^u] = e^u u'$, $\frac{d}{dx}[\ln u] = \frac{u'}{u}$, and $\frac{d}{dx}[\sin u] = (\cos u)\,u'$.
+= $\frac{d}{dx}[f(g(x))] = f'(g(x)) \cdot g'(x)$ :: Chain rule
+= $\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx}$ :: Leibniz form
+= $\frac{d}{dx}\left[a^x\right] = a^x\ln a \qquad \frac{d}{dx}[\log_a x] = \frac{1}{x\ln a}$ :: Other bases
+! The most common error is forgetting to multiply by the derivative of the inside function.
+? $\dfrac{d}{dx}\left[(3x^2 + 1)^4\right] =$
+a) $4(3x^2 + 1)^3$
+*b) $24x(3x^2 + 1)^3$
+c) $12x(3x^2 + 1)^3$
+d) $4(6x)^3$
+% Outer derivative: $4(3x^2 + 1)^3$. Inner derivative: $6x$. Their product is $24x(3x^2 + 1)^3$.
+? Let $h(x) = f(g(x))$. If $g(1) = 3$, $g'(1) = 2$, $f'(1) = 7$, and $f'(3) = 5$, what is $h'(1)$?
+*a) 10
+b) 14
+c) 15
+d) 35
+% $h'(1) = f'(g(1)) \cdot g'(1) = f'(3) \cdot 2 = 5 \cdot 2 = 10$. The outer derivative is evaluated at $g(1) = 3$, not at 1.
+? $\dfrac{d}{dx}[\ln(\cos x)] =$
+a) $\dfrac{1}{\cos x}$
+b) $\tan x$
+*c) $-\tan x$
+d) $-\sin x\,\ln(\cos x)$
+% $\dfrac{1}{\cos x} \cdot (-\sin x) = -\dfrac{\sin x}{\cos x} = -\tan x$.
+? If $f(x) = e^{x^2}$, then $f'(x) =$
+a) $e^{x^2}$
+b) $x^2e^{x^2 - 1}$
+c) $2xe^{2x}$
+*d) $2xe^{x^2}$
+% The exponential stays the same and is multiplied by the derivative of its exponent: $e^{x^2} \cdot 2x$.
+? $\dfrac{d}{dx}\left[2^x\right] =$
+*a) $2^x\ln 2$
+b) $2^x$
+c) $x\,2^{x - 1}$
+d) $\dfrac{2^x}{\ln 2}$
+% For an exponential with base $a$, the derivative is $a^x\ln a$. The power rule does not apply because the variable is in the exponent.
+
+@topic 3.2 | Implicit Differentiation
+- Use implicit differentiation when an equation relates $x$ and $y$ and is not solved for $y$.
+- Differentiate both sides with respect to $x$. Whenever you differentiate a term that contains $y$, multiply by $\frac{dy}{dx}$. Use the product rule on terms such as $xy$.
+- Collect the terms that contain $\frac{dy}{dx}$ and solve for it.
+= $\frac{d}{dx}\left[y^n\right] = ny^{n - 1}\,\frac{dy}{dx}$ :: Chain rule on y
+> For $x^2 + y^2 = 25$: differentiating gives $2x + 2y\dfrac{dy}{dx} = 0$, so $\dfrac{dy}{dx} = -\dfrac{x}{y}$.
+? If $x^2 + y^2 = 25$, what is $\dfrac{dy}{dx}$ at the point $(4, -3)$?
+a) $-\dfrac{4}{3}$
+b) $-\dfrac{3}{4}$
+c) $\dfrac{3}{4}$
+*d) $\dfrac{4}{3}$
+% $\dfrac{dy}{dx} = -\dfrac{x}{y} = -\dfrac{4}{-3} = \dfrac{4}{3}$.
+? If $x^2 + xy + y^2 = 7$, what is $\dfrac{dy}{dx}$ at the point $(1, 2)$?
+a) $-1$
+*b) $-\dfrac{4}{5}$
+c) $-\dfrac{2}{5}$
+d) $\dfrac{4}{5}$
+% Differentiate: $2x + y + x\dfrac{dy}{dx} + 2y\dfrac{dy}{dx} = 0$, so $\dfrac{dy}{dx} = -\dfrac{2x + y}{x + 2y} = -\dfrac{4}{5}$ at $(1, 2)$. The term $xy$ needs the product rule.
+? If $x^3 + y^3 = 6xy$, then $\dfrac{dy}{dx} =$
+a) $-\dfrac{x^2}{y^2}$
+b) $\dfrac{x^2 - 2y}{y^2 - 2x}$
+*c) $\dfrac{2y - x^2}{y^2 - 2x}$
+d) $\dfrac{2y - x^2}{y^2}$
+% Differentiate: $3x^2 + 3y^2\dfrac{dy}{dx} = 6y + 6x\dfrac{dy}{dx}$. Then $\dfrac{dy}{dx}(3y^2 - 6x) = 6y - 3x^2$, which simplifies to $\dfrac{2y - x^2}{y^2 - 2x}$.
+
+@topic 3.3 | Differentiating Inverse Functions
+- If $g$ is the inverse of $f$, their graphs are reflections of each other across the line $y = x$, so their slopes at matching points are reciprocals.
+- If $f(a) = b$, then $g(b) = a$ and $g'(b) = \frac{1}{f'(a)}$.
+= $\left(f^{-1}\right)'(x) = \frac{1}{f'\left(f^{-1}(x)\right)}$ :: Inverse function rule
+! Evaluate $f'$ at the input $a$ for which $f(a) = b$, not at $b$.
+? Let $f(x) = x^3 + x$ and let $g$ be the inverse of $f$. Given that $f(1) = 2$, what is $g'(2)$?
+a) $\dfrac{1}{13}$
+*b) $\dfrac{1}{4}$
+c) $4$
+d) $13$
+% $f'(x) = 3x^2 + 1$, and $g'(2) = \dfrac{1}{f'(1)} = \dfrac{1}{4}$. Using $f'(2) = 13$ is the common mistake.
+? A differentiable function $f$ has $f(3) = 5$, $f'(3) = 2$, $f(5) = 9$, and $f'(5) = 7$. If $g$ is the inverse of $f$, what is $g'(5)$?
+a) $7$
+b) $2$
+*c) $\dfrac{1}{2}$
+d) $\dfrac{1}{7}$
+% Because $f(3) = 5$, we have $g(5) = 3$, and $g'(5) = \dfrac{1}{f'(3)} = \dfrac{1}{2}$.
+
+@topic 3.4 | Differentiating Inverse Trigonometric Functions
+- The notation $\sin^{-1}x$ means $\arcsin x$, the inverse function. It does not mean $\frac{1}{\sin x}$.
+- With an inner function $u$, multiply by $u'$. For example, $\frac{d}{dx}[\arctan u] = \frac{u'}{1 + u^2}$.
+- The derivatives of $\arccos x$, $\text{arccot}\,x$, and $\text{arccsc}\,x$ are the negatives of the derivatives of $\arcsin x$, $\arctan x$, and $\text{arcsec}\,x$.
+= $\frac{d}{dx}[\arcsin x] = \frac{1}{\sqrt{1 - x^2}}$ :: Arcsine
+= $\frac{d}{dx}[\arccos x] = -\frac{1}{\sqrt{1 - x^2}}$ :: Arccosine
+= $\frac{d}{dx}[\arctan x] = \frac{1}{1 + x^2}$ :: Arctangent
+= $\frac{d}{dx}[\text{arcsec}\,x] = \frac{1}{|x|\sqrt{x^2 - 1}}$ :: Arcsecant
+? $\dfrac{d}{dx}[\arctan(3x)] =$
+a) $\dfrac{3}{\sqrt{1 - 9x^2}}$
+b) $\dfrac{1}{1 + 9x^2}$
+c) $\dfrac{3}{1 + 3x^2}$
+*d) $\dfrac{3}{1 + 9x^2}$
+% $\dfrac{1}{1 + (3x)^2} \cdot 3 = \dfrac{3}{1 + 9x^2}$. The whole inner function is squared, and the chain rule supplies the factor of 3.
+? If $f(x) = \arcsin x$, what is $f'\left(\dfrac{1}{2}\right)$?
+a) $\dfrac{\pi}{6}$
+b) $\dfrac{\sqrt{3}}{2}$
+*c) $\dfrac{2}{\sqrt{3}}$
+d) $\dfrac{4}{3}$
+% $f'(x) = \dfrac{1}{\sqrt{1 - x^2}}$, so $f'\left(\dfrac{1}{2}\right) = \dfrac{1}{\sqrt{3/4}} = \dfrac{2}{\sqrt{3}}$. The value $\dfrac{\pi}{6}$ is $f\left(\dfrac{1}{2}\right)$, not the derivative.
+
+@topic 3.5 | Selecting Procedures for Calculating Derivatives
+- Look at the overall structure first. A sum or difference: differentiate each term. A product: product rule. A quotient: quotient rule. A function inside a function: chain rule. An equation not solved for $y$: implicit differentiation.
+- Many problems need two rules at once. Work from the outside in.
+- Simplify first when it helps: $\ln(x^3) = 3\ln x$ and $\frac{x^2 + 1}{x} = x + x^{-1}$.
+? $\dfrac{d}{dx}\left[x^2e^{3x}\right] =$
+*a) $2xe^{3x} + 3x^2e^{3x}$
+b) $2xe^{3x} + x^2e^{3x}$
+c) $6xe^{3x}$
+d) $2x + 3e^{3x}$
+% Product rule with the chain rule on $e^{3x}$: $(2x)(e^{3x}) + (x^2)(3e^{3x})$.
+? If $f(x) = \sin^2(3x)$, then $f'(x) =$
+a) $2\sin(3x)$
+b) $2\sin(3x)\cos(3x)$
+c) $6\cos(3x)$
+*d) $6\sin(3x)\cos(3x)$
+% There are three layers: square, sine, and $3x$. The derivative is $2\sin(3x) \cdot \cos(3x) \cdot 3$.
+? If $f(x) = \ln\left(\sqrt{x}\right)$, then $f'(x) =$
+a) $\dfrac{1}{\sqrt{x}}$
+*b) $\dfrac{1}{2x}$
+c) $\dfrac{1}{2\sqrt{x}}$
+d) $\dfrac{2}{x}$
+% Simplify first: $\ln\left(\sqrt{x}\right) = \dfrac{1}{2}\ln x$, so $f'(x) = \dfrac{1}{2x}$. The chain rule gives the same result: $\dfrac{1}{\sqrt{x}} \cdot \dfrac{1}{2\sqrt{x}}$.
+
+@topic 3.6 | Calculating Higher-Order Derivatives
+- The **second derivative** $f''$ is the derivative of $f'$. It measures how the rate of change is itself changing. Differentiating again gives $f'''$, and the $n$th derivative is written $f^{(n)}$.
+- Notation: $f''(x)$, $y''$, and $\frac{d^2y}{dx^2}$.
+- For motion along a line, velocity is the derivative of position and acceleration is the derivative of velocity.
+- For an implicit equation, differentiate $\frac{dy}{dx}$ again and substitute the expression already found for $\frac{dy}{dx}$.
+= $a(t) = v'(t) = s''(t)$ :: Acceleration
+? If $f(x) = x^4 - 2x^3 + x$, what is $f''(2)$?
+a) 9
+b) 12
+*c) 24
+d) 48
+% $f'(x) = 4x^3 - 6x^2 + 1$ and $f''(x) = 12x^2 - 12x$, so $f''(2) = 48 - 24 = 24$. The value 9 is $f'(2)$.
+? If $y = \sin(2x)$, then $\dfrac{d^2y}{dx^2} =$
+*a) $-4\sin(2x)$
+b) $-2\sin(2x)$
+c) $4\cos(2x)$
+d) $-\sin(2x)$
+% $\dfrac{dy}{dx} = 2\cos(2x)$. Differentiating again gives $2 \cdot (-\sin(2x)) \cdot 2 = -4\sin(2x)$. The chain rule applies both times.
+? If $x^2 + y^2 = 25$, what is $\dfrac{d^2y}{dx^2}$ at the point $(3, 4)$?
+a) $-\dfrac{3}{4}$
+b) $-\dfrac{1}{4}$
+c) $\dfrac{25}{64}$
+*d) $-\dfrac{25}{64}$
+% $\dfrac{dy}{dx} = -\dfrac{x}{y}$. Differentiating with the quotient rule and substituting gives $\dfrac{d^2y}{dx^2} = -\dfrac{x^2 + y^2}{y^3} = -\dfrac{25}{y^3}$, which is $-\dfrac{25}{64}$ at $y = 4$.
+? The position of a particle is $s(t) = t^3 - 6t^2$. What is its acceleration at $t = 1$?
+a) $-9$
+*b) $-6$
+c) $-5$
+d) $6$
+% $v(t) = 3t^2 - 12t$ and $a(t) = 6t - 12$, so $a(1) = -6$. The value $-9$ is the velocity at $t = 1$.

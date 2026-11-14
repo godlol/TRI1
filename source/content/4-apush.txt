@@ -1,0 +1,369 @@
+@course apush | AP United States History | US History | Units 1–2
+
+@unit apush-1 | Unit 1 | Period 1: 1491–1607 | 4–6% of exam
+
+@topic 1.1 | Contextualizing Period 1
+- In 1491 the Americas were home to millions of people living in diverse, complex societies shaped by their environments. They had no contact with Europe or Africa.
+- Changes in Europe set up exploration: stronger **centralized monarchies** (Spain completed its unification in 1492), demand for **Asian trade goods** and a sea route to reach them, the **Renaissance** and new maritime technology, and religious rivalry sharpened by the **Protestant Reformation** (1517).
+- Portugal's voyages along the West African coast opened new trade, including a trade in enslaved people.
+- **Columbus's voyage in 1492** began lasting contact among Europeans, Native Americans, and Africans. The period ends in 1607 with **Jamestown**, the first permanent English settlement.
+! Contextualization means describing the broader setting of a development: what was already happening, and why it matters for what came next.
+? Which development in Europe most directly encouraged voyages of exploration across the Atlantic in the late 1400s?
+a) The spread of Enlightenment ideas about natural rights
+*b) The search for a sea route to the trade goods of Asia
+c) The start of the Industrial Revolution
+d) A decline in religious rivalry among European states
+% European monarchs and merchants wanted direct access to Asian spices and luxury goods. The Enlightenment and the Industrial Revolution came centuries later, and religious rivalry was growing, not declining.
+? Which statement best describes North America on the eve of European contact in 1491?
+a) It was largely uninhabited wilderness
+b) It was united under a single empire
+*c) It was home to many diverse societies that had adapted to their environments
+d) Its peoples all lived as nomadic hunters
+% Native societies varied widely, from irrigated farming towns in the Southwest to fishing villages in the Northwest and farming villages in the East.
+
+@topic 1.2 | Native American Societies Before European Contact
+- Native peoples adapted to and transformed their environments, which produced very different societies in different regions.
+- **Maize cultivation** spread north from present-day Mexico. In the **Southwest** it supported settled communities, irrigation, and social diversification (Pueblo peoples).
+- In the **Great Basin** and on the western **Great Plains**, dry land and scarce resources led to largely **mobile** lifestyles based on hunting and gathering.
+- In the **Northeast**, the **Mississippi River Valley**, and along the **Atlantic seaboard**, societies mixed farming with hunting and gathering and built permanent villages. Examples: the Iroquois (Haudenosaunee) and the Mississippian city of Cahokia.
+- In the **Northwest** and present-day **California**, peoples lived by hunting, gathering, and fishing; rich ocean resources supported settled communities such as those of the Chinook.
+! Tie each region to its environment. The exam asks how geography shaped a society's economy and settlement pattern.
+? The spread of maize cultivation from present-day Mexico into the American Southwest most directly led to
+a) a mobile lifestyle based on following bison herds
+*b) settled communities, irrigation systems, and more complex societies
+c) dependence on ocean fishing and whaling
+d) the decline of trade among Native groups
+% A reliable crop let people stay in one place, build irrigation works, and support larger populations with more specialized roles.
+? Native peoples of the Great Basin and the western Great Plains largely developed mobile lifestyles because
+a) their religious beliefs prohibited farming
+b) they depended on ocean fishing along the coast
+*c) the dry environment made it hard to support permanent farming settlements
+d) maize farming required them to change fields every season
+% In arid regions with scattered resources, moving with the seasons to hunt and gather was the most dependable way to live.
+? Before European contact, societies in the Pacific Northwest and present-day California generally
+a) built large irrigation networks to grow maize
+b) followed bison herds across open grasslands
+c) built large earthen-mound cities along the Mississippi River
+*d) lived in settled communities supported by hunting, gathering, and fishing
+% Abundant ocean and river resources, especially fish, allowed permanent settlements without large-scale farming.
+
+@topic 1.3 | European Exploration in the Americas
+- European states explored for wealth, power, and religion: new sources of gold and trade, an edge over rival kingdoms, and converts to Christianity.
+- **Portugal** led early, sailing around Africa to reach Asia. **Spain** backed Columbus's westward voyage in 1492.
+- The **Treaty of Tordesillas** (1494) divided newly claimed lands between Spain and Portugal.
+- New technology made long voyages possible: the caravel, the compass, the astrolabe, and better maps.
+- France and England began exploring later, looking for a northwest passage to Asia.
+? The Treaty of Tordesillas (1494)
+a) ended the war between Spain and the Aztec Empire
+*b) divided newly claimed lands outside Europe between Spain and Portugal
+c) granted England the right to colonize North America
+d) ended the trade in enslaved Africans to Spanish colonies
+% The treaty drew a north–south line in the Atlantic. Spain claimed lands to the west of it and Portugal claimed lands to the east, which is why Brazil became Portuguese.
+? Which of the following best explains why European monarchs paid for voyages of exploration in the fifteenth and sixteenth centuries?
+a) They wanted to relieve overcrowding in their cities
+b) They hoped to spread democratic government
+*c) They sought new sources of wealth, an advantage over rival states, and converts to Christianity
+d) They wanted to end their trade with Asia
+% Economic and military competition among European states, together with the wish to spread Christianity, drove exploration.
+
+@topic 1.4 | Columbian Exchange, Spanish Exploration, and Conquest
+- The **Columbian Exchange** was the transfer of plants, animals, people, and diseases between the Eastern and Western Hemispheres after 1492.
+- To the Americas: horses, cattle, pigs, wheat, sugar cane, and diseases such as **smallpox** and measles. Epidemics killed a large share of the Native population.
+- To Europe, Africa, and Asia: **maize, potatoes**, tomatoes, cacao, and tobacco. The new food crops supported population growth.
+- Gold and silver from the Americas and expanded trade helped Europe shift from **feudalism toward capitalism**.
+- Spanish conquistadors toppled the **Aztec** Empire (Cortés, 1519–1521) and the **Inca** Empire (Pizarro, 1530s), helped by disease, steel weapons, horses, and Native allies.
+? Which effect of the Columbian Exchange had the most devastating immediate impact on the native peoples of the Americas?
+a) The introduction of horses
+b) The introduction of wheat and sugar cane
+*c) The spread of epidemic diseases such as smallpox
+d) The export of maize and potatoes to Europe
+% Native Americans had no immunity to European diseases. Epidemics caused a catastrophic population decline.
+? Which of the following moved from the Americas to Europe as part of the Columbian Exchange?
+a) Horses and cattle
+b) Wheat and sugar cane
+c) Smallpox and measles
+*d) Maize and potatoes
+% Maize and potatoes were American crops that became staples in Europe. Horses, cattle, wheat, sugar cane, and the listed diseases traveled in the other direction.
+? The Columbian Exchange contributed to which change in Europe?
+a) A sharp decline in population
+*b) Population growth and a shift from feudalism toward capitalism
+c) The end of rivalry among European monarchies
+d) A return to an economy based on barter
+% New food crops improved nutrition and raised population, while American gold and silver and growing trade encouraged commercial, profit-seeking economies.
+
+@topic 1.5 | Labor, Slavery, and Caste in the Spanish Colonial System
+- Under the **encomienda system**, the Spanish crown granted colonists the right to demand labor and tribute from Native Americans in a given area, in return for supposedly protecting and Christianizing them. In practice it meant forced labor in fields and mines.
+- As disease and overwork reduced the Native population, and as the crown tried to limit abuses (the **New Laws of 1542**), the Spanish turned increasingly to **enslaved Africans** for plantation and mining labor.
+- The Spanish developed a **casta system** that ranked people by racial ancestry: Europeans born in Spain at the top, then American-born Spaniards, then people of mixed ancestry such as **mestizos** (Spanish and Native American), with Native Americans and Africans at the bottom.
+? Under the encomienda system, Spanish colonists were granted
+a) ownership of enslaved Africans purchased from Portugal
+*b) the right to demand labor and tribute from Native Americans living in a specific area
+c) land in exchange for paying the passage of indentured servants
+d) seats in a colonial legislature
+% The encomienda was a grant of Native labor and tribute, not of land. Land given for paying a servant's passage describes the English headright system.
+? Which of the following best explains why the Spanish increasingly imported enslaved Africans to their American colonies during the 1500s?
+a) Spanish law had always forbidden forcing Native Americans to work
+*b) Epidemic disease and brutal working conditions had sharply reduced the Native American labor force
+c) Spanish settlers refused to live near Native Americans
+d) Portugal required Spain to buy enslaved people under the Treaty of Tordesillas
+% With the Native population collapsing, colonists looked to the Atlantic slave trade for workers on plantations and in mines.
+? In the Spanish colonial casta system, a person's social status was based mainly on
+a) wealth earned through trade
+b) military rank
+*c) racial ancestry
+d) length of residence in the colony
+% The casta system defined a hierarchy of categories based on a person's mix of European, Native American, and African ancestry.
+
+@topic 1.6 | Cultural Interactions Between Europeans, Native Americans, and Africans
+- Europeans and Native Americans held different views on religion, gender roles, family, **land use**, and power. Europeans treated land as private property; many Native societies treated it as a shared resource.
+- Contact brought misunderstanding and conflict, and also exchange: each side adopted useful goods and knowledge from the other.
+- Native peoples defended their sovereignty, economies, and beliefs through both **diplomacy** and **military resistance**.
+- Spaniards debated how Native Americans should be treated. **Bartolomé de las Casas** condemned Spanish cruelty and argued that Native Americans were fully human. **Juan Ginés de Sepúlveda** argued that they were naturally inferior and that conquest was justified. The two argued their cases in the **Valladolid debate** (1550–1551).
+- Europeans developed belief systems that justified the subjugation of Africans and Native Americans.
+? Bartolomé de las Casas argued that
+a) Native Americans were naturally suited to slavery
+*b) Native Americans were fully human and Spanish abuses against them should end
+c) Spain should abandon its American colonies entirely
+d) Native Americans should be removed to make room for Spanish farmers
+% Las Casas, a Dominican friar, documented Spanish cruelty and pressed the crown for reform. The view that Native Americans were natural slaves was Sepúlveda's.
+? Which of the following was a major difference between European and Native American worldviews at the time of contact?
+*a) Europeans generally viewed land as property that individuals could own and sell, while many Native societies viewed land as a shared resource
+b) Europeans practiced organized religion, while Native Americans had no religious beliefs
+c) Native Americans traded with other groups, while Europeans did not
+d) Europeans lived in permanent settlements, while all Native societies were nomadic
+% Different ideas about land ownership caused repeated conflict. The other choices are false generalizations: Native societies had religions, and many lived in permanent settlements.
+
+@topic 1.7 | Causation in Period 1
+- **Causes of exploration**: competition among European states, the search for wealth and trade routes, religious zeal, and new technology.
+- **Effects in the Americas**: the Columbian Exchange, epidemic disease and population collapse, Spanish conquest, forced-labor systems, and the growth of the Atlantic slave trade.
+- **Effects in Europe**: new crops and population growth, new wealth, the growth of capitalism, and sharper rivalry as other states sought their own colonies.
+! For causation questions, separate immediate effects from long-term effects, and be ready to say which cause mattered most and why.
+? The wealth Spain gained from its American empire in the 1500s most directly caused
+a) other European powers to give up overseas exploration
+*b) rival powers such as England, France, and the Netherlands to seek colonies of their own
+c) Spain to free its Native American laborers
+d) the end of the Atlantic slave trade
+% Spain's gold and silver showed rival states what an empire could bring, and they moved to claim territory and trade in the Americas.
+? Which factor contributed most to the rapid Spanish conquest of the Aztec and Inca empires?
+a) Spanish soldiers greatly outnumbered Native armies
+*b) Epidemic disease weakened Native societies, and the Spanish used steel weapons, horses, and alliances with rival Native groups
+c) The Aztec and Inca peoples welcomed Spanish rule
+d) English and French armies assisted the Spanish
+% The Spanish were few in number. Disease, military technology, and Native allies who resented Aztec and Inca rule made the conquests possible.
+
+@unit apush-2 | Unit 2 | Period 2: 1607–1754 | 6–8% of exam
+
+@topic 2.1 | Contextualizing Period 2
+- Spain, France, the Netherlands, and England built colonies in North America with different goals, methods, and relations with Native peoples.
+- The British colonies grew quickly through migration and natural increase. They developed distinct regional economies, tied themselves to Atlantic trade, and came to rely on enslaved labor.
+- Colonists built habits of **self-government** while Britain enforced its rules loosely.
+- The period runs from the founding of **Jamestown** (1607) to the start of the **French and Indian War** (1754).
+? Period 2 runs from 1607 to 1754. These dates mark
+a) Columbus's first voyage and the founding of Jamestown
+*b) the founding of Jamestown and the start of the French and Indian War
+c) the founding of Plymouth and the Declaration of Independence
+d) the Pueblo Revolt and the First Great Awakening
+% Jamestown (1607) was the first permanent English settlement. The French and Indian War (1754) began the imperial crisis that opens Period 3.
+? Which statement best describes European colonization of North America in the seventeenth century?
+a) All of the European powers followed the same model of colonization
+*b) Spain, France, the Netherlands, and England pursued different goals and built different kinds of colonies
+c) Only England established lasting settlements
+d) The European powers avoided competition by dividing the continent by treaty
+% Each power's goals, the number of its settlers, and the environment it entered produced a different colonial pattern.
+
+@topic 2.2 | European Colonization
+- **Spanish**: sought wealth and converts. They built missions and forts, subjugated Native peoples, and brought them into colonial society. Settlements included St. Augustine (1565) and Santa Fe (1610).
+- **French**: few settlers. They relied on the **fur trade**, alliances, and intermarriage with American Indians. Quebec was founded in 1608.
+- **Dutch**: few settlers and a commercial focus. New Netherland was a trading colony centered on New Amsterdam; England seized it in 1664 and renamed it New York.
+- **English**: large numbers of men and women migrated, seeking land, economic opportunity, and religious freedom. They farmed, took land from Native peoples, and lived apart from them.
+? French colonization of North America in the 1600s was characterized mainly by
+a) large farming settlements that pushed Native peoples off the land
+*b) relatively few settlers, fur-trade alliances, and intermarriage with American Indians
+c) plantations worked by enslaved Africans
+d) the encomienda system
+% The French came in small numbers and depended on Native partners for furs, so they built trade and diplomatic ties.
+? Compared with Spanish and French colonists, English colonists in North America were more likely to
+a) intermarry with American Indians
+b) focus mainly on the fur trade
+*c) arrive in large numbers, including families, and take land for farming
+d) convert American Indians through a system of missions
+% English colonies attracted many migrants who wanted farmland. They settled on land taken from Native peoples and generally lived separately from them.
+? The Dutch colony of New Netherland was founded primarily
+a) as a refuge for persecuted Catholics
+b) to convert American Indians to Protestant Christianity
+*c) as a commercial venture based on trade, especially in furs
+d) to grow tobacco with enslaved labor
+% The Dutch West India Company ran the colony for profit from trade.
+? Spanish colonization in North America, in places such as New Mexico and Florida, relied heavily on
+a) joint-stock companies and family farms
+*b) missions and forts intended to convert and control Native peoples
+c) fur-trading posts with few permanent residents
+d) town meetings open to all settlers
+% Spain used Catholic missions backed by soldiers to convert Native peoples and bring them under Spanish rule.
+
+@topic 2.3 | The Regions of British Colonies
+- **Chesapeake** (Virginia, Maryland) and North Carolina: **tobacco**, a labor-intensive cash crop. Workers were at first mostly male **indentured servants**, later **enslaved Africans**. The **House of Burgesses** (1619) was the first elected assembly in the English colonies. Maryland was founded as a refuge for Catholics.
+- **New England**: settled by **Puritans** who came as families. Small towns, family farms, and a mixed economy of farming, fishing, shipbuilding, and trade. **Town meetings** gave local self-government. Dissenters such as **Roger Williams** and **Anne Hutchinson** were banished; Williams founded Rhode Island.
+- **Middle colonies** (New York, New Jersey, Pennsylvania, Delaware): exported **grain**. The most ethnically and religiously **diverse** region. William Penn founded Pennsylvania as a Quaker colony that practiced religious toleration.
+- **Southern Atlantic coast and British West Indies**: long growing seasons and plantations growing staple crops such as **rice** and **sugar**. Enslaved Africans were often the majority of the population.
+- Distance and loose British oversight let colonies create self-governing institutions that were unusually democratic for the time. In the South, elite planters dominated the assemblies.
+! Know each region's economy, labor system, and settlers. Comparison questions about the regions are common.
+? Which description best fits the New England colonies in the 1600s?
+a) Scattered plantations growing tobacco with indentured labor
+b) A diverse population exporting wheat through large port cities
+*c) Close-knit towns settled largely by Puritan families, with a mixed economy of farming, fishing, and trade
+d) Large rice plantations where enslaved Africans were the majority
+% Puritans migrated as families and organized life around towns and churches. Rocky soil and a short growing season led to a mixed economy.
+? The economy of the Chesapeake colonies in the 1600s depended on
+a) fishing and shipbuilding
+*b) tobacco grown first by indentured servants and later by enslaved Africans
+c) wheat exported to Europe
+d) the fur trade with American Indians
+% Tobacco was profitable and required many workers. Planters first used English indentured servants and shifted to enslaved Africans late in the century.
+? The middle colonies were distinctive for their
+a) Puritan religious uniformity
+b) dependence on sugar plantations
+*c) ethnic and religious diversity and their exports of grain
+d) lack of port cities
+% Fertile land produced wheat and other cereal crops for export, and the region drew a wide range of European migrants.
+? In which region did enslaved Africans make up a majority of the population by the early 1700s?
+a) New England
+b) The middle colonies
+c) The Chesapeake
+*d) South Carolina and the British West Indies
+% Rice and sugar plantations depended on very large enslaved workforces. Enslaved people were a minority in the other regions.
+? The Virginia House of Burgesses, first convened in 1619, is significant as
+a) the first colonial court to try accused witches
+*b) the first elected representative assembly in the English colonies
+c) the governing council of the Massachusetts Bay Colony
+d) a trading company chartered by Parliament
+% It began a tradition of representative self-government in the colonies, although only property-owning men could take part.
+
+@topic 2.4 | Transatlantic Trade
+- An **Atlantic economy** linked Europe, Africa, and the Americas through the exchange of goods, enslaved Africans and American Indians, and ideas. The pattern is often called the **triangular trade**.
+- **Mercantilism** held that colonies exist to enrich the home country: they supply raw materials and buy its manufactured goods.
+- The **Navigation Acts** (beginning in 1651) required trade to be carried on English or colonial ships and required certain colonial goods, such as tobacco and sugar, to be sent only to England.
+- Enforcement was loose and smuggling was common. This period of light British oversight is called **salutary neglect**.
+- Trade with Europeans brought new goods into American Indian communities and spread epidemic diseases.
+? According to mercantilist theory, colonies existed primarily to
+a) develop their own manufacturing to compete with the home country
+*b) supply raw materials to the home country and buy its manufactured goods
+c) trade freely with all nations
+d) serve as places to send political dissenters
+% Mercantilists measured national power by wealth and a favorable balance of trade, and they saw colonies as a way to increase both.
+? The Navigation Acts required that
+a) colonists pay a direct tax on printed materials
+*b) certain colonial products be shipped only to England and trade be carried on English or colonial ships
+c) colonists house British soldiers in their homes
+d) the colonies stop importing enslaved Africans
+% The acts put mercantilism into law by steering colonial trade through England. A tax on printed materials describes the later Stamp Act.
+? The British policy later called salutary neglect had which effect?
+a) It ended colonial smuggling
+*b) It let colonists grow used to governing themselves with little interference
+c) It closed the colonial assemblies
+d) It cut the colonies off from Atlantic trade
+% Because Britain enforced its trade laws loosely for decades, colonists came to expect a large degree of self-rule.
+
+@topic 2.5 | Interactions Between American Indians and Europeans
+- Relations mixed **accommodation** and **conflict**. European powers allied with and armed American Indian groups, who in turn used those alliances against Native rivals.
+- British colonists fought American Indians over land, resources, and boundaries. In **Metacom's War** (King Philip's War, 1675–1676), the Wampanoag leader Metacom and his allies attacked New England towns; their defeat broke Native power in southern New England.
+- In the **Pueblo Revolt** (1680), Pueblo peoples drove the Spanish out of New Mexico for more than a decade. After returning, the Spanish accommodated some aspects of Pueblo culture.
+- Trade in furs and guns changed Native economies and intensified warfare among Native groups.
+? The Pueblo Revolt of 1680 resulted in
+a) the permanent end of Spanish presence in New Mexico
+*b) the Spanish being driven out for more than a decade and later accommodating some Pueblo customs
+c) the immediate conversion of all Pueblo peoples to Catholicism
+d) an alliance between the Pueblo and the English
+% The revolt was the most successful Native uprising against colonizers in the period. When the Spanish returned in the 1690s, they eased some of their demands.
+? Metacom's War (King Philip's War) of 1675–1676 was caused mainly by
+a) French attempts to seize Boston
+*b) English colonists' continued expansion onto Native lands in New England
+c) a dispute over the fur trade in New Netherland
+d) Spanish missionary activity
+% Growing English settlement took Native land and threatened Native independence, and Metacom led an alliance to resist it.
+? American Indian groups often formed alliances with European powers in order to
+a) adopt European forms of government
+*b) gain trade goods such as firearms and an advantage over rival Native groups
+c) help Europeans end the fur trade
+d) give up their land in exchange for citizenship
+% Native leaders pursued their own interests and used European partners for trade and for strength against their enemies.
+
+@topic 2.6 | Slavery in the British Colonies
+- All British colonies took part in the **Atlantic slave trade**, driven by abundant land, European demand for colonial goods, and a shortage of indentured servants.
+- New England held relatively few enslaved people. The Chesapeake and the southern Atlantic coast held many. The great majority of enslaved Africans were sent to the **West Indies**.
+- **Bacon's Rebellion** (1676) showed Chesapeake planters the danger of a large class of discontented former servants and sped the shift to enslaved African labor.
+- **Chattel slavery** treated people as property. Laws made slavery hereditary through the mother and created a strict racial system that banned interracial relationships.
+- Enslaved people resisted **overtly**, as in the **Stono Rebellion** (South Carolina, 1739), and **covertly**, by working slowly, breaking tools, running away, and preserving family ties, culture, and religion.
+? Which development most directly encouraged Chesapeake planters to shift from indentured servants to enslaved Africans in the late 1600s?
+a) The Stono Rebellion
+*b) Bacon's Rebellion, which exposed the danger posed by discontented former servants
+c) The First Great Awakening
+d) The Navigation Acts
+% After former servants joined the revolt of 1676, planters preferred a permanently enslaved workforce to servants who would later demand land. Fewer servants were also arriving from England.
+? South Carolina's response to the Stono Rebellion of 1739 was to
+a) begin the gradual emancipation of enslaved people
+b) grant enslaved people the right to testify in court
+*c) pass a harsher slave code restricting enslaved people's movement, assembly, and education
+d) replace enslaved workers with indentured servants
+% The colony tightened control after the uprising rather than loosening it.
+? Which of the following is an example of covert resistance to slavery?
+a) The Stono Rebellion
+b) An armed uprising in New York City
+*c) Working slowly, breaking tools, and preserving African cultural and family traditions
+d) Escaping to Spanish Florida
+% Covert resistance is hidden and everyday. Rebellions and escapes are open, or overt, resistance.
+? In the British colonies, slavery became hereditary because colonial laws
+a) required all Africans to be baptized
+*b) made the children of enslaved mothers enslaved for life
+c) freed enslaved people after seven years of service
+d) banned the Atlantic slave trade
+% Laws such as Virginia's 1662 statute defined a child's status by the mother's status, which made slavery permanent and inherited.
+
+@topic 2.7 | Colonial Society and Culture
+- The **First Great Awakening** (1730s–1740s) was a wave of Protestant revivals led by preachers such as **Jonathan Edwards** and **George Whitefield**. It stressed emotional, personal faith, split churches, and encouraged people to question established authority. It was a shared experience across the colonies.
+- The **Enlightenment** stressed reason and natural rights. **John Locke** argued that people have natural rights and that government rests on the consent of the governed. Benjamin Franklin embodied Enlightenment thinking in the colonies.
+- **Anglicization**: the colonies became more like Britain in their political institutions, law, trade, print culture, and Protestant religion.
+- The **Zenger trial** (1735) was an early victory for freedom of the press.
+- Colonists' resistance to imperial control drew on their experience of self-government, ideas of liberty, the Enlightenment, religious independence, and a belief that the imperial system was corrupt.
+? The First Great Awakening of the 1730s and 1740s
+a) strengthened the authority of established ministers and churches
+*b) spread emotional evangelical religion and led many colonists to question traditional authority
+c) was limited to the New England colonies
+d) rejected Christianity in favor of reason
+% Revival preachers urged a personal conversion experience. Congregations split, new denominations grew, and people grew used to challenging those in authority.
+? John Locke, an Enlightenment thinker who influenced many colonists, argued that
+a) monarchs rule by divine right
+*b) people have natural rights and government rests on the consent of the governed
+c) colonies should be governed by the church
+d) each person's salvation is predestined
+% Locke's ideas about natural rights and consent later shaped the colonists' arguments against British rule.
+? The trial of John Peter Zenger in 1735 is remembered as an early step toward
+a) religious toleration
+*b) freedom of the press
+c) the abolition of slavery
+d) colonial independence
+% Zenger, a New York printer, was acquitted of libel after his lawyer argued that he had printed the truth about the governor.
+? During the early 1700s the British colonies experienced Anglicization, meaning that
+*a) colonial political institutions, law, commerce, and culture became more like those of Britain
+b) colonists rejected British consumer goods
+c) the Church of England became the established church in every colony
+d) Parliament replaced the colonial assemblies
+% Growing trade, a shared print culture, and English political models drew the colonies closer to British ways, even as they governed themselves.
+
+@topic 2.8 | Comparison in Period 2
+- **Chesapeake versus New England**: the Chesapeake was settled for profit, mostly by young single men, on scattered tobacco farms, with high death rates and a growing reliance on enslaved labor. New England was settled for religious reasons by families in towns, with a mixed economy and longer lives.
+- **Empires**: the Spanish converted and subjugated Native peoples; the French and Dutch traded and allied with them; the English came in large numbers and displaced them.
+- **Similarities among the British colonies**: an English political heritage, elected assemblies, a Protestant majority, participation in Atlantic trade, and conflict with American Indians over land.
+! A strong comparison names a specific similarity or difference and explains the reason for it, such as environment, settlers' goals, or the labor system.
+? A major difference between the Chesapeake and New England colonies in the 1600s was that
+a) New England depended on enslaved labor and the Chesapeake did not
+*b) New England was settled mainly by families in towns, while the Chesapeake drew mostly young single men to scattered tobacco farms
+c) the Chesapeake was founded for religious reasons and New England for profit
+d) only the Chesapeake had representative assemblies
+% Different goals produced different societies: religious communities of families in New England, and a profit-driven tobacco economy in the Chesapeake.
+? By the mid-1700s, which feature did all of the British mainland colonies share?
+a) An economy based on a single cash crop
+b) A population in which enslaved people were the majority
+*c) Elected assemblies and a tradition of self-government
+d) An established Puritan church
+% Every colony had a representative assembly. Economies, religions, and the share of enslaved people varied widely by region.

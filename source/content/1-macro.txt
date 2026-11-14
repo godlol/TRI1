@@ -1,0 +1,543 @@
+@course macro | AP Macroeconomics | Macro | Units 1–3
+
+@unit macro-1 | Unit 1 | Basic Economic Concepts | 5–10% of exam
+
+@topic 1.1 | Scarcity
+- **Scarcity** exists because wants are unlimited and resources are limited. Every society has to choose how to use its resources, and every choice involves a **trade-off**.
+- The **factors of production** are land (natural resources), labor, capital (tools, machines, buildings, and the skills called human capital), and entrepreneurship.
+- In economics, **capital** means goods used to produce other goods. It does not mean money.
+- **Positive** statements describe what is and can be tested with data. **Normative** statements say what ought to be and rest on value judgments.
+! Scarcity is not the same as a shortage. A shortage happens at a particular price and can end; scarcity is permanent.
+? The basic economic problem of scarcity exists because
+a) governments set prices below equilibrium
+*b) resources are limited while human wants are unlimited
+c) some countries have fewer natural resources than others
+d) money is not evenly distributed
+% Scarcity applies to every society, rich or poor, because no amount of resources can satisfy every want. It forces choices.
+? Which of the following is a capital resource in the economic sense?
+a) The money a bakery keeps in its bank account
+b) The shares of stock owned by the bakery's founder
+*c) The ovens a bakery uses to bake bread
+d) The wheat growing in a farmer's field
+% Capital is a produced good used to make other goods and services. Money and stock are financial assets, and crops in the field are a natural (land) resource.
+
+@topic 1.2 | Opportunity Cost and the Production Possibilities Curve (PPC)
+- **Opportunity cost** is the value of the next best alternative given up when a choice is made.
+- The **production possibilities curve** shows the maximum combinations of two goods an economy can produce with its resources and technology fully and efficiently used.
+- Points **on** the curve are efficient. Points **inside** it are inefficient, as when workers are unemployed in a recession. Points **outside** it are unattainable with current resources.
+- A curve that is **bowed outward** shows increasing opportunity cost, because resources are not equally suited to both goods. A **straight-line** PPC shows constant opportunity cost.
+- The curve shifts **outward** with more or better resources or improved technology. That shift is economic growth. Producing more capital goods today shifts the curve out faster in the future.
+= $\text{opportunity cost of one unit of X} = \frac{\text{units of Y given up}}{\text{units of X gained}}$ :: Opportunity cost on a PPC
+! A fall in unemployment moves the economy from inside the curve toward the curve. It does not shift the curve.
+? An economy can produce either 100 tractors and 0 tons of corn, or 80 tractors and 60 tons of corn. Moving from the first combination to the second, the opportunity cost of one ton of corn is
+a) 3 tractors
+*b) $\frac{1}{3}$ of a tractor
+c) 20 tractors
+d) 60 tractors
+% The economy gives up 20 tractors to gain 60 tons of corn, so each ton of corn costs $20/60 = \frac{1}{3}$ of a tractor. Three tractors is upside down: it is the corn gained per tractor given up.
+? During a recession with high unemployment, an economy is operating
+a) on its production possibilities curve
+b) outside its production possibilities curve
+*c) inside its production possibilities curve
+d) on a production possibilities curve that has shifted inward
+% Unemployed resources mean the economy produces less than it could. The curve itself, which shows what is possible, has not moved.
+? A production possibilities curve that is bowed outward from the origin shows that
+a) resources are perfectly adaptable between the two goods
+*b) the opportunity cost of a good rises as more of it is produced
+c) the opportunity cost of a good stays constant
+d) the economy is producing inefficiently
+% As production shifts toward one good, resources less suited to it must be used, so each extra unit costs more of the other good.
+? Two countries start with identical production possibilities curves for consumer goods and capital goods. Country A chooses a point with more capital goods than Country B. Over time, compared with Country B's curve, Country A's curve will most likely
+a) shift inward
+b) stay the same
+*c) shift outward by more
+d) become a straight line
+% Capital goods add to an economy's productive capacity. Producing more of them now means faster economic growth later.
+
+@topic 1.3 | Comparative Advantage and Gains from Trade
+- A producer has an **absolute advantage** when it can make more of a good with the same resources, or make a unit with fewer resources.
+- A producer has a **comparative advantage** when it has the lower **opportunity cost** of making a good.
+- One producer can have an absolute advantage in both goods, but not a comparative advantage in both.
+- Each side should **specialize** in the good in which it has a comparative advantage and trade for the other.
+- Trade benefits both sides when the **terms of trade** fall between the two producers' opportunity costs.
+= $\text{output data: cost of 1 X} = \frac{\text{maximum Y}}{\text{maximum X}}$ :: Output problems
+= $\text{input data: cost of 1 X} = \frac{\text{hours for 1 X}}{\text{hours for 1 Y}}$ :: Input problems
+! Check whether a table gives outputs (how much can be made) or inputs (hours needed per unit). With input data, the smaller number is the absolute advantage.
+? In one day, Alpha can produce 30 tons of wheat or 10 bolts of cloth. Beta can produce 20 tons of wheat or 20 bolts of cloth. Which statement is correct?
+a) Alpha has the comparative advantage in cloth
+*b) Beta has the comparative advantage in cloth
+c) Alpha has the comparative advantage in both goods
+d) Neither country can gain from trade
+% One bolt of cloth costs Alpha $30/10 = 3$ tons of wheat and costs Beta $20/20 = 1$ ton of wheat. Beta gives up less, so Beta has the comparative advantage in cloth and Alpha has it in wheat.
+? In one day, Alpha can produce 30 tons of wheat or 10 bolts of cloth. Beta can produce 20 tons of wheat or 20 bolts of cloth. Which terms of trade would benefit both countries?
+a) 1 bolt of cloth for 0.5 ton of wheat
+*b) 1 bolt of cloth for 2 tons of wheat
+c) 1 bolt of cloth for 3.5 tons of wheat
+d) 1 bolt of cloth for 4 tons of wheat
+% The price of cloth must lie between the two opportunity costs, 1 ton of wheat (Beta) and 3 tons of wheat (Alpha). Only 2 tons falls in that range.
+? A worker in Country X needs 2 hours to make a shirt and 4 hours to make a chair. A worker in Country Y needs 3 hours to make a shirt and 12 hours to make a chair. Which statement is correct?
+a) Country X has the absolute advantage and the comparative advantage in both goods
+*b) Country X has the absolute advantage in both goods, and Country Y has the comparative advantage in shirts
+c) Country Y has the absolute advantage in both goods, and Country X has the comparative advantage in shirts
+d) Country X has the absolute advantage in both goods, and Country Y has the comparative advantage in chairs
+% X needs fewer hours for each good, so it has both absolute advantages. A chair costs X $4/2 = 2$ shirts and costs Y $12/3 = 4$ shirts, so X has the comparative advantage in chairs and Y has it in shirts.
+? A country has an absolute advantage in producing both of two goods. According to the theory of comparative advantage, the country
+a) cannot gain from trade
+b) should produce both goods and export both
+*c) can still gain by specializing in the good for which its opportunity cost is lower
+d) should import both goods
+% Gains from trade depend on differences in opportunity cost, not on who is better at everything. The other country always has the comparative advantage in one of the goods.
+
+@topic 1.4 | Demand
+- The **law of demand**: when the price of a good rises, the quantity demanded falls, all else equal. The demand curve slopes downward.
+- A change in the good's own price causes a **movement along** the curve, called a change in quantity demanded.
+- A **change in demand** shifts the whole curve. The shifters are tastes, income, prices of related goods, expectations, and the number of buyers.
+- **Normal goods**: demand rises when income rises. **Inferior goods**: demand falls when income rises.
+- **Substitutes**: a higher price for one raises demand for the other. **Complements**: a higher price for one lowers demand for the other.
+! A change in the good's own price never shifts its demand curve.
+? The price of coffee rises sharply. As a result, the demand curve for tea, a substitute for coffee, will
+a) shift to the left
+*b) shift to the right
+c) not move, but the quantity of tea demanded will fall
+d) become vertical
+% When coffee becomes more expensive, some buyers switch to tea at every tea price. That is an increase in the demand for tea.
+? Consumer incomes rise, and the demand for instant noodles falls. Instant noodles are
+a) a normal good
+*b) an inferior good
+c) a complement
+d) a capital good
+% Demand for an inferior good moves in the opposite direction from income. Demand for a normal good moves in the same direction.
+? Which of the following causes a movement along the demand curve for gasoline instead of a shift of the curve?
+a) A rise in consumer incomes
+b) A fall in the price of cars
+c) An expectation that gasoline prices will rise next month
+*d) A fall in the price of gasoline
+% Only a change in the good's own price changes the quantity demanded along a fixed curve. The other three events change demand itself.
+
+@topic 1.5 | Supply
+- The **law of supply**: when the price of a good rises, the quantity supplied rises, all else equal. The supply curve slopes upward.
+- A change in the good's own price causes a **movement along** the supply curve.
+- A **change in supply** shifts the whole curve. The shifters are input prices, technology, taxes and subsidies, prices of other goods the firm could produce, producer expectations, and the number of sellers.
+- Lower costs or better technology shift supply **right**. Higher costs or new taxes shift it **left**.
+? The wages of workers who assemble bicycles rise. In the market for bicycles,
+a) demand shifts to the left
+b) supply shifts to the right
+*c) supply shifts to the left
+d) there is a movement down along the supply curve
+% Higher input prices raise the cost of production, so firms supply fewer bicycles at every price.
+? A new technology lowers the cost of producing solar panels. In the market for solar panels,
+a) demand shifts to the right
+*b) supply shifts to the right
+c) supply shifts to the left
+d) the quantity supplied rises because of a movement along the supply curve
+% Lower production costs let firms supply more at every price, which is a rightward shift of supply.
+
+@topic 1.6 | Market Equilibrium, Disequilibrium, and Changes in Equilibrium
+- **Equilibrium** is the price at which quantity demanded equals quantity supplied.
+- Above the equilibrium price there is a **surplus** (quantity supplied is greater), which pushes the price down. Below it there is a **shortage** (quantity demanded is greater), which pushes the price up.
+- **One curve shifts**: demand up raises price and quantity; demand down lowers both; supply up lowers price and raises quantity; supply down raises price and lowers quantity.
+- **Both curves shift**: one of price or quantity is certain and the other is **indeterminate** without knowing the sizes of the shifts.
+> Demand and supply both increase. Each shift raises quantity, so quantity rises. The demand shift raises price and the supply shift lowers it, so the change in price is indeterminate.
+! For a double shift, work out each shift separately, then combine. Where the two effects agree the result is certain; where they conflict it is indeterminate.
+? In a market, quantity demanded is $Q_d = 100 - 2P$ and quantity supplied is $Q_s = 20 + 2P$. What are the equilibrium price and quantity?
+a) $P = 10$ and $Q = 80$
+*b) $P = 20$ and $Q = 60$
+c) $P = 30$ and $Q = 40$
+d) $P = 40$ and $Q = 20$
+% Set $100 - 2P = 20 + 2P$, which gives $P = 20$. Then $Q = 100 - 2(20) = 60$.
+? In a market, quantity demanded is $Q_d = 100 - 2P$ and quantity supplied is $Q_s = 20 + 2P$. If the price is 30, the market has
+a) a shortage of 40 units
+b) a shortage of 20 units
+c) a surplus of 20 units
+*d) a surplus of 40 units
+% At $P = 30$, $Q_d = 40$ and $Q_s = 80$. Quantity supplied exceeds quantity demanded by 40 units, a surplus, and the price will fall.
+? In the market for electric cars, consumer incomes rise (electric cars are a normal good) and battery costs fall at the same time. What happens to the equilibrium price and quantity?
+a) Price rises and quantity rises
+b) Price falls and quantity rises
+*c) The change in price is indeterminate and quantity rises
+d) Price rises and the change in quantity is indeterminate
+% Demand shifts right and supply shifts right. Both raise quantity. Demand pushes price up and supply pushes it down, so the price change depends on which shift is larger.
+? The demand for a good increases while its supply decreases. What happens to the equilibrium price and quantity?
+a) Price rises and quantity rises
+b) Price falls and the change in quantity is indeterminate
+c) The change in price is indeterminate and quantity falls
+*d) Price rises and the change in quantity is indeterminate
+% Both shifts raise the price. The demand increase raises quantity and the supply decrease lowers it, so the change in quantity is indeterminate.
+
+@unit macro-2 | Unit 2 | Economic Indicators and the Business Cycle | 12–17% of exam
+
+@topic 2.1 | The Circular Flow and GDP
+- The **circular flow** model links households and firms through two markets. In the **product market**, households buy goods and services from firms. In the **factor market**, firms pay households wages, rent, interest, and profit for labor, land, capital, and entrepreneurship.
+- Government, the financial sector, and the foreign sector add **leakages** (taxes, saving, imports) and **injections** (government purchases, investment, exports).
+- **GDP** is the market value of all _final_ goods and services produced _within a country's borders_ in a given period, usually one year.
+- Three approaches give the same total: **expenditures** ($C + I + G + X_n$), **income** (wages + rent + interest + profit), and **value added** (the sum of the value added at each stage of production).
+- **Investment** ($I$) is business spending on capital goods, new construction (including new homes), and changes in inventories. **Government purchases** ($G$) exclude transfer payments.
+- Not counted: intermediate goods, used goods, purely financial transactions such as stocks and bonds, transfer payments, unpaid household work, and illegal or unreported activity.
+= $\text{GDP} = C + I + G + (X - M)$ :: Expenditures approach
+! Buying shares of stock is not investment in the GDP sense. Imports are subtracted because they were already counted inside $C$, $I$, or $G$ but were not produced domestically.
+? Which of the following is counted in United States GDP for the current year?
+a) A family in Texas buys a three-year-old used car from a neighbor
+b) A retiree receives a Social Security check
+*c) A Japanese-owned factory in Ohio produces cars that are sold to American consumers
+d) An investor buys 100 shares of stock in a United States company
+% GDP counts final goods produced inside the country's borders, no matter who owns the firm. Used goods, transfer payments, and stock purchases involve no new production.
+? An economy reports the following for one year, in billions: consumption \$700, gross private investment \$150, government purchases \$250, transfer payments \$100, exports \$80, imports \$110. What is GDP?
+*a) \$1,070 billion
+b) \$1,130 billion
+c) \$1,170 billion
+d) \$1,290 billion
+% $700 + 150 + 250 + (80 - 110) = 1{,}070$. Transfer payments are left out and imports are subtracted. Adding the \$100 billion of transfers gives the wrong answer of \$1,170 billion.
+
+@topic 2.2 | Limitations of GDP
+- GDP measures output, not well-being. It leaves out **nonmarket activity** (household production, volunteer work), the **underground economy**, leisure time, and environmental damage.
+- GDP says nothing about how income is **distributed** or what kinds of goods are produced.
+- GDP can rise because of bad events, such as cleanup spending after a disaster.
+- **GDP per capita** (GDP divided by population) is a better, though still imperfect, indicator of the standard of living than total GDP.
+! When paid work is replaced by unpaid work (or the reverse), measured GDP changes even though the amount of production does not.
+? Which of the following is a limitation of GDP as a measure of a nation's economic well-being?
+a) It counts intermediate goods twice
+b) It includes transfer payments
+c) It excludes spending by government
+*d) It leaves out unpaid household production and the value of leisure
+% GDP counts only market transactions, so unpaid work and leisure are missed. The other statements are false: GDP avoids double counting, excludes transfers, and includes government purchases.
+? A homeowner who paid a landscaping company \$2,000 a year begins doing the same yard work personally. All else equal, what happens?
+a) Measured GDP rises because household production is counted at market value
+*b) Measured GDP falls even though the same work is still being done
+c) Measured GDP is unchanged because the work is still performed
+d) Measured GDP falls only if the homeowner buys fewer tools
+% The paid service was a market transaction and counted in GDP. The homeowner's own labor is nonmarket production, which GDP does not count.
+
+@topic 2.3 | Unemployment
+- The **labor force** is everyone 16 or older who is employed or unemployed. To count as **unemployed**, a person must have no job, be available for work, and have actively looked for work in the past four weeks.
+- People not in the labor force include full-time students, retirees, stay-at-home parents, and **discouraged workers** who have stopped looking.
+- **Frictional** unemployment: people between jobs or entering the labor force. **Structural**: skills or locations do not match available jobs, often because of technology or shifts in demand. **Cyclical**: caused by a recession.
+- The **natural rate of unemployment** is frictional plus structural unemployment. It is the unemployment rate when the economy produces full-employment output, so cyclical unemployment is zero. It can change slowly over time.
+- The official rate can understate joblessness because it ignores discouraged workers and counts part-time workers who want full-time work as employed.
+= $\text{Labor force} = \text{employed} + \text{unemployed}$ :: Labor force
+= $\text{Unemployment rate} = \frac{\text{unemployed}}{\text{labor force}} \times 100$ :: Unemployment rate
+= $\text{LFPR} = \frac{\text{labor force}}{\text{working-age population}} \times 100$ :: Participation rate
+! Divide the number of unemployed by the labor force, never by the whole population. Full employment does not mean zero unemployment.
+? In a country, the working-age population is 200 million. Of these, 114 million are employed and 6 million are unemployed and actively looking for work. What are the unemployment rate and the labor force participation rate?
+a) 3% and 60%
+*b) 5% and 60%
+c) 5% and 57%
+d) 5.3% and 60%
+% The labor force is $114 + 6 = 120$ million. Unemployment rate $= 6/120 = 5\%$ and participation rate $= 120/200 = 60\%$. Dividing by the population or by the number employed gives the wrong rates.
+? A coal miner loses her job when the mine closes permanently because power plants have switched to natural gas. Her skills do not match the jobs that are available. This is an example of
+a) frictional unemployment
+b) cyclical unemployment
+*c) structural unemployment
+d) seasonal unemployment
+% Structural unemployment comes from a lasting mismatch between workers' skills and the jobs available, here caused by a permanent shift in demand. Cyclical unemployment would end when a recession ends.
+? During a long recession, many unemployed workers give up searching for jobs. All else equal, how does this affect the official statistics?
+a) The unemployment rate rises and the labor force participation rate rises
+b) The unemployment rate rises and the labor force participation rate falls
+c) The unemployment rate falls and the labor force participation rate rises
+*d) The unemployment rate falls and the labor force participation rate falls
+% Discouraged workers are no longer counted as unemployed or as part of the labor force, so both rates fall. This is one reason the official rate can understate joblessness.
+
+@topic 2.4 | Price Indices and Inflation
+- The **consumer price index (CPI)** compares the cost of a fixed market basket of goods and services with its cost in a base year. The base-year CPI is 100.
+- **Inflation** is a sustained rise in the overall price level. **Deflation** is a falling price level. **Disinflation** is a falling inflation rate while prices still rise.
+- **Real** values are adjusted for price changes; **nominal** values are not. Percent change in real income is about the percent change in nominal income minus the inflation rate.
+- The CPI tends to overstate inflation because of **substitution bias** (the basket is fixed even when consumers switch to cheaper goods), new products, and unmeasured quality improvements.
+= $\text{CPI} = \frac{\text{cost of basket in current year}}{\text{cost of basket in base year}} \times 100$ :: CPI
+= $\text{Inflation rate} = \frac{\text{CPI}_{\text{new}} - \text{CPI}_{\text{old}}}{\text{CPI}_{\text{old}}} \times 100$ :: Inflation rate
+= $\text{Real value} = \frac{\text{nominal value}}{\text{price index}} \times 100$ :: Deflating
+! The inflation rate is a percent change, not the change in index points. Always divide by the earlier CPI.
+? The consumer price index was 120 last year and is 126 this year. What is the inflation rate?
+a) 4.8%
+*b) 5%
+c) 6%
+d) 26%
+% $(126 - 120)/120 = 0.05$, or 5%. The 6 is only the change in index points, and dividing by 126 instead of 120 gives 4.8%.
+? The annual inflation rate falls from 6% to 3%. Which statement is correct?
+a) The price level is falling, which is deflation
+b) The purchasing power of money is increasing
+*c) The price level is still rising but more slowly, which is disinflation
+d) Real GDP must be decreasing
+% A positive inflation rate means prices are still rising. A lower but positive rate is disinflation. Deflation requires a negative inflation rate.
+? A worker's nominal income rises by 3% in a year when the CPI rises by 5%. The worker's real income
+a) rises by about 8%
+b) rises by about 2%
+*c) falls by about 2%
+d) falls by about 8%
+% Percent change in real income is about nominal change minus inflation: $3 - 5 = -2$. The paycheck is larger but buys less.
+? The CPI is based on a fixed basket of goods. When the price of beef rises and many consumers switch to chicken, the CPI tends to
+*a) overstate the increase in the cost of living
+b) understate the increase in the cost of living
+c) measure the increase in the cost of living exactly
+d) show deflation
+% This is substitution bias. The fixed basket keeps the old amount of beef even though consumers avoided part of the price increase by switching.
+
+@topic 2.5 | Costs of Inflation
+- **Unexpected inflation** arbitrarily redistributes wealth. **Borrowers** with fixed-rate loans gain because they repay with dollars that buy less. **Lenders**, savers earning fixed interest, people on fixed incomes, and holders of cash lose.
+- Unexpected deflation or disinflation does the reverse: lenders gain and borrowers lose.
+- If inflation is correctly **anticipated**, lenders build it into nominal interest rates and workers into wage contracts, so little wealth is redistributed.
+- Inflation also erodes the purchasing power of money and creates uncertainty that discourages long-term contracts and investment.
+= $\text{Real interest rate} \approx \text{nominal interest rate} - \text{inflation rate}$ :: Real interest rate
+? Inflation turns out to be much higher than anyone expected. Who benefits?
+a) A bank that made fixed-rate loans
+b) A retiree living on a fixed monthly pension
+c) A household holding its savings in cash
+*d) A homeowner repaying a fixed-rate mortgage
+% The borrower repays with dollars worth less than expected. The bank, the retiree, and the cash holder all receive or hold dollars that have lost purchasing power.
+? A bank makes a one-year loan at a fixed nominal interest rate of 6%, expecting 2% inflation. Actual inflation is 5%. What real interest rate does the bank earn, and who gains from the surprise?
+a) 4%; the bank gains
+*b) 1%; the borrower gains
+c) 11%; the bank gains
+d) 3%; the borrower gains
+% Real rate $= 6 - 5 = 1\%$, well below the 4% the bank expected. Unexpected inflation transfers wealth from lenders to borrowers.
+
+@topic 2.6 | Real v. Nominal GDP
+- **Nominal GDP** values this year's output at this year's prices. It can rise because of more output, higher prices, or both.
+- **Real GDP** values this year's output at base-year prices, so it changes only when output changes. Economic growth is measured with real GDP.
+- The **GDP deflator** is a price index for all goods and services in GDP. In the base year, nominal GDP equals real GDP and the deflator is 100.
+- Percent change in nominal GDP is about the percent change in real GDP plus the inflation rate.
+= $\text{Nominal GDP} = \sum (\text{current prices} \times \text{current quantities})$ :: Nominal GDP
+= $\text{Real GDP} = \sum (\text{base-year prices} \times \text{current quantities})$ :: Real GDP
+= $\text{GDP deflator} = \frac{\text{nominal GDP}}{\text{real GDP}} \times 100$ :: GDP deflator
+? An economy produces only apples and books. In 2020, the base year, it produced 100 apples at \$1 each and 50 books at \$10 each. In 2025 it produced 120 apples at \$2 each and 60 books at \$12 each. What is real GDP in 2025?
+a) \$600
+*b) \$720
+c) \$800
+d) \$960
+% Real GDP values 2025 quantities at base-year prices: $120(1) + 60(10) = 720$. The \$960 figure is nominal GDP for 2025, and \$600 is GDP in 2020.
+? Nominal GDP is \$960 billion and real GDP is \$720 billion. What is the GDP deflator, to the nearest whole number?
+a) 33
+b) 75
+*c) 133
+d) 240
+% $\frac{960}{720} \times 100 \approx 133$. Dividing real by nominal gives 75, which is upside down.
+? Nominal GDP grows by 6% while the GDP deflator rises by 2%. Real GDP
+a) grows by about 8%
+b) grows by about 3%
+c) falls by about 4%
+*d) grows by about 4%
+% Percent change in real GDP is about nominal growth minus inflation: $6 - 2 = 4$.
+
+@topic 2.7 | Business Cycles
+- The **business cycle** is the fluctuation of real GDP around its long-run growth trend. Phases: **expansion** and **recession** (contraction). Turning points: **peak** and **trough**.
+- **Potential output**, also called full-employment output, is real GDP when unemployment equals the natural rate.
+- The **output gap** is actual output minus potential output. A **negative (recessionary) gap** means output is below potential and unemployment is above the natural rate. A **positive (inflationary) gap** means output is above potential and unemployment is below the natural rate.
+- In a recession, real GDP falls and cyclical unemployment rises. Near a peak, unemployment is low and inflation pressure is high.
+= $\text{Output gap} = \text{actual real GDP} - \text{potential real GDP}$ :: Output gap
+~ business-cycle
+? Starting from a peak, which sequence lists the phases and turning points of the business cycle in order?
+a) Expansion, trough, recession, peak
+b) Trough, recession, expansion, peak
+*c) Recession, trough, expansion, peak
+d) Recession, expansion, trough, peak
+% After a peak, output falls (recession) until it reaches the trough, then rises (expansion) to the next peak.
+? An economy's actual real GDP is below its potential output. Which statement must be true?
+*a) The unemployment rate is above the natural rate
+b) The unemployment rate is below the natural rate
+c) Cyclical unemployment is zero
+d) The economy has a positive output gap
+% Output below potential is a negative (recessionary) gap. Some workers are cyclically unemployed, so the unemployment rate is above the natural rate.
+
+@unit macro-3 | Unit 3 | National Income and Price Determination | 17–27% of exam
+
+@topic 3.1 | Aggregate Demand (AD)
+- **Aggregate demand** shows the total real GDP demanded by households, firms, government, and the rest of the world at each price level.
+- AD slopes downward for three reasons. **Real wealth effect**: a lower price level raises the purchasing power of money and assets, so consumption rises. **Interest rate effect**: a lower price level lowers interest rates, so investment rises. **Exchange rate effect**: a lower price level makes domestic goods cheaper relative to foreign goods, so net exports rise.
+- A change in the price level causes a **movement along** AD. A change in $C$, $I$, $G$, or $X_n$ at every price level **shifts** AD.
+- AD shifts right when consumer or business confidence rises, wealth rises, taxes fall, government purchases rise, interest rates fall for reasons other than the price level, trading partners' incomes rise, or the domestic currency depreciates.
+! A change in the price level never shifts AD. It only moves the economy along the curve.
+? Which of the following helps explain why the aggregate demand curve slopes downward?
+a) As the price level falls, firms earn higher profits and produce more
+*b) As the price level falls, interest rates fall and investment spending rises
+c) As the price level falls, consumers switch from one domestic good to a cheaper domestic good
+d) As the price level falls, nominal wages fall and employment rises
+% This is the interest rate effect. The other two reasons are the real wealth effect and the exchange rate effect. Switching between goods is a microeconomic idea that does not apply when all prices fall together.
+? Which of the following shifts the aggregate demand curve to the right?
+a) A decrease in the domestic price level
+b) An increase in personal income taxes
+c) An appreciation of the domestic currency
+*d) An increase in the incomes of the country's trading partners
+% Richer trading partners buy more exports, which raises net exports and shifts AD right. A lower price level is a movement along AD; higher taxes and a stronger currency shift AD left.
+
+@topic 3.2 | Multipliers
+- The **marginal propensity to consume (MPC)** is the fraction of each extra dollar of disposable income that is spent. The **marginal propensity to save (MPS)** is the fraction saved.
+- An initial change in spending sets off rounds of further spending, so GDP changes by a multiple of the initial change. The **expenditure multiplier** applies to autonomous changes in $C$, $I$, $G$, or $X_n$.
+- The **tax multiplier** is smaller in size because households save part of any tax cut before spending the rest. Its sign is negative: taxes and GDP move in opposite directions. Transfer payments use the same size multiplier with a positive sign.
+- Equal increases in government purchases and taxes raise GDP by the amount of the increase (**balanced-budget multiplier** of 1).
+- A larger MPC means larger multipliers.
+= $\text{MPC} = \frac{\Delta C}{\Delta Y_d} \qquad \text{MPC} + \text{MPS} = 1$ :: MPC and MPS
+= $\text{Expenditure multiplier} = \frac{1}{1 - \text{MPC}} = \frac{1}{\text{MPS}}$ :: Expenditure multiplier
+= $\text{Tax multiplier} = -\frac{\text{MPC}}{\text{MPS}}$ :: Tax multiplier
+= $\Delta \text{GDP} = \text{multiplier} \times \text{initial change}$ :: Total effect
+> With MPC = 0.9, the expenditure multiplier is $1/0.1 = 10$ and the tax multiplier is $-0.9/0.1 = -9$. A \$10 billion rise in government purchases raises GDP by up to \$100 billion; a \$10 billion tax cut raises it by up to \$90 billion.
+? The marginal propensity to consume is 0.8. If government purchases rise by \$50 billion, the maximum increase in real GDP is
+a) \$40 billion
+b) \$62.5 billion
+c) \$200 billion
+*d) \$250 billion
+% The expenditure multiplier is $1/(1 - 0.8) = 5$, and $5 \times 50 = 250$. The \$200 billion answer uses the tax multiplier of 4 by mistake.
+? The marginal propensity to consume is 0.75. If taxes are cut by \$40 billion, the maximum increase in real GDP is
+a) \$30 billion
+b) \$53.3 billion
+*c) \$120 billion
+d) \$160 billion
+% The tax multiplier has size $\text{MPC}/\text{MPS} = 0.75/0.25 = 3$, and $3 \times 40 = 120$. The \$160 billion answer uses the expenditure multiplier of 4.
+? The marginal propensity to save is 0.25. Government purchases and taxes both increase by \$20 billion. Real GDP will
+a) not change
+*b) increase by \$20 billion
+c) increase by \$60 billion
+d) increase by \$80 billion
+% Spending effect: $4 \times 20 = +80$. Tax effect: $-3 \times 20 = -60$. Net change is $+20$, the balanced-budget multiplier of 1 at work.
+
+@topic 3.3 | Short-Run Aggregate Supply (SRAS)
+- **Short-run aggregate supply** shows the total real GDP firms produce at each price level while some input prices are fixed.
+- SRAS slopes upward because **nominal wages and other input prices are sticky** in the short run. When the price level rises and costs do not, profit per unit rises and firms produce more.
+- Moving along SRAS involves a short-run trade-off: higher output and lower unemployment come with a higher price level.
+- SRAS shifts when production costs change at every price level: input prices (wages, oil, raw materials), productivity, business taxes, subsidies, regulation, and expected inflation. Higher costs shift SRAS **left**; lower costs shift it **right**.
+! A change in the price level is a movement along SRAS, not a shift.
+? The short-run aggregate supply curve slopes upward because
+a) all prices and wages adjust immediately to changes in the price level
+b) potential output increases whenever the price level rises
+*c) nominal wages and other input prices are slow to adjust, so a higher price level raises profits and output
+d) consumers buy more when the price level is higher
+% Sticky input prices are the key. If wages adjusted at once, profits would not rise with the price level and firms would have no reason to produce more.
+? A sharp increase in world oil prices will most likely cause
+a) aggregate demand to shift right
+b) short-run aggregate supply to shift right
+*c) short-run aggregate supply to shift left
+d) a movement up along a fixed short-run aggregate supply curve
+% Oil is an input for most production. Higher input costs reduce output at every price level, which is a leftward shift of SRAS (a negative supply shock).
+
+@topic 3.4 | Long-Run Aggregate Supply (LRAS)
+- In the long run all wages and prices are fully flexible, so output returns to **full-employment (potential) output** whatever the price level. The **LRAS** curve is vertical at potential output.
+- LRAS matches the production possibilities curve: it shifts right when the economy's productive capacity grows.
+- LRAS shifts with the quantity and quality of **resources** (labor, physical capital, natural resources), **human capital**, and **technology**. A rightward shift is economic growth.
+- Changes in the price level or in aggregate demand do not shift LRAS.
+! Anything that raises potential output, such as better technology, shifts both LRAS and SRAS to the right.
+? The long-run aggregate supply curve is vertical because, in the long run,
+*a) wages and prices are fully flexible, so output depends on resources and technology rather than on the price level
+b) the money supply is fixed
+c) aggregate demand does not change
+d) nominal wages are fixed by contracts
+% Once all prices and wages adjust, a higher price level no longer raises profits, so output stays at potential. Fixed wages describe the short run.
+? Which of the following shifts the long-run aggregate supply curve to the right?
+a) An increase in the money supply
+b) A decrease in the price level
+c) An increase in government transfer payments
+*d) An increase in the stock of physical capital
+% More capital raises the economy's productive capacity. The other choices affect aggregate demand or are movements along a curve.
+
+@topic 3.5 | Equilibrium in the AD–AS Model
+- **Short-run equilibrium** is where AD crosses SRAS. It sets the price level and real GDP.
+- **Long-run equilibrium** is where AD, SRAS, and LRAS all cross. Output equals potential and unemployment equals the natural rate.
+- **Recessionary (negative output) gap**: short-run equilibrium output is below potential, to the left of LRAS. Unemployment is above the natural rate.
+- **Inflationary (positive output) gap**: short-run equilibrium output is above potential, to the right of LRAS. Unemployment is below the natural rate.
+~ adas-gaps
+! On a graph, label the vertical axis "price level" and the horizontal axis "real GDP". Full-employment output is where LRAS meets the horizontal axis.
+? Aggregate demand and short-run aggregate supply intersect at a level of real GDP below full-employment output. The economy has
+a) an inflationary gap, with unemployment below the natural rate
+b) an inflationary gap, with unemployment above the natural rate
+c) a recessionary gap, with unemployment below the natural rate
+*d) a recessionary gap, with unemployment above the natural rate
+% Output below potential is a recessionary gap. Fewer workers are needed, so unemployment is above the natural rate.
+? When an economy is in long-run equilibrium, the unemployment rate is
+a) zero
+*b) equal to the natural rate of unemployment
+c) equal to the cyclical rate of unemployment
+d) below the natural rate of unemployment
+% In long-run equilibrium output equals potential, so cyclical unemployment is zero. Frictional and structural unemployment remain, and together they make up the natural rate.
+
+@topic 3.6 | Changes in the AD–AS Model in the Short Run
+- **AD shifts right** (positive demand shock): price level rises, real GDP rises, unemployment falls. Inflation from this source is **demand-pull inflation**.
+- **AD shifts left** (negative demand shock): price level falls, real GDP falls, unemployment rises.
+- **SRAS shifts left** (negative supply shock): price level rises, real GDP falls, unemployment rises. This is **cost-push inflation**, also called **stagflation**.
+- **SRAS shifts right** (positive supply shock): price level falls, real GDP rises, unemployment falls.
+! A demand shock moves the price level and output in the same direction. A supply shock moves them in opposite directions.
+? Consumer confidence falls sharply. In the short run, what happens to the price level, real GDP, and unemployment?
+a) The price level rises, real GDP falls, and unemployment rises
+*b) The price level falls, real GDP falls, and unemployment rises
+c) The price level falls, real GDP rises, and unemployment falls
+d) The price level rises, real GDP rises, and unemployment falls
+% Lower confidence reduces consumption, shifting AD left along SRAS. Both the price level and output fall, and unemployment rises.
+? Stagflation, a rising price level together with falling real GDP, is caused by
+a) a rightward shift of aggregate demand
+b) a leftward shift of aggregate demand
+c) a rightward shift of short-run aggregate supply
+*d) a leftward shift of short-run aggregate supply
+% Only a leftward shift of SRAS raises the price level while lowering output. A leftward AD shift lowers both.
+? An economy is at full employment when business investment surges. In the short run the result is
+*a) demand-pull inflation and an inflationary gap
+b) cost-push inflation and a recessionary gap
+c) deflation and a recessionary gap
+d) no change in real GDP, because output is already at potential
+% Investment is part of AD, so AD shifts right. In the short run output rises above potential and the price level rises. Output returns to potential only in the long run.
+
+@topic 3.7 | Long-Run Self-Adjustment
+- With no policy action, flexible wages and prices move the economy back to potential output. The adjustment happens through shifts of **SRAS**.
+- **Recessionary gap**: high unemployment pushes nominal wages down over time. Lower costs shift SRAS right until output returns to potential at a lower price level.
+- **Inflationary gap**: a tight labor market pushes nominal wages up. Higher costs shift SRAS left until output returns to potential at a higher price level.
+- In the long run a shift in AD changes only the price level. Real GDP returns to potential and unemployment returns to the natural rate.
+- A shift of LRAS changes potential output itself and represents long-run growth or decline.
+! Self-adjustment works through wages and SRAS. AD does not shift by itself to close a gap.
+? An economy is in a recessionary gap and the government takes no action. How does the economy return to full employment in the long run?
+a) Aggregate demand shifts right as consumers gain confidence
+b) Nominal wages rise, shifting short-run aggregate supply to the left
+*c) Nominal wages fall, shifting short-run aggregate supply to the right
+d) Long-run aggregate supply shifts left to meet the lower level of output
+% High unemployment eventually lowers nominal wages. Lower production costs shift SRAS right, raising output back to potential and lowering the price level.
+? An economy starts in long-run equilibrium. Aggregate demand then increases and no policy action is taken. Compared with the original equilibrium, the new long-run equilibrium has
+a) a higher price level and higher real GDP
+b) the same price level and higher real GDP
+c) a lower price level and the same real GDP
+*d) a higher price level and the same real GDP
+% The inflationary gap raises nominal wages, which shifts SRAS left until output is back at potential. Only the price level ends up higher.
+
+@topic 3.8 | Fiscal Policy
+- **Fiscal policy** is the use of government purchases, taxes, and transfer payments to influence aggregate demand.
+- **Expansionary** policy fights a recessionary gap: raise government purchases, cut taxes, or raise transfers. AD shifts right, so real GDP and the price level rise and unemployment falls. The budget moves toward deficit.
+- **Contractionary** policy fights an inflationary gap: cut government purchases, raise taxes, or cut transfers. AD shifts left, so real GDP and the price level fall. The budget moves toward surplus.
+- Government purchases affect AD **directly**. Taxes and transfers work **indirectly** through disposable income and consumption, so a dollar of spending has a larger effect than a dollar of tax change.
+- Discretionary policy has **lags**: time to recognize the problem, to pass legislation, and for the change to take effect.
+= $\text{Required } \Delta G = \frac{\text{output gap}}{\text{expenditure multiplier}}$ :: Sizing a spending change
+= $\text{Required } \Delta T = \frac{\text{output gap}}{\text{size of tax multiplier}}$ :: Sizing a tax change
+? An economy has an inflationary gap. Which fiscal policy action is appropriate?
+a) Increase government purchases
+b) Decrease income taxes
+*c) Increase income taxes
+d) Increase transfer payments
+% An inflationary gap calls for contractionary policy. Higher taxes reduce disposable income and consumption, shifting AD left. The other choices are expansionary.
+? An economy has a recessionary gap of \$200 billion and a marginal propensity to consume of 0.75. What is the minimum increase in government purchases that closes the gap?
+*a) \$50 billion
+b) \$66.7 billion
+c) \$150 billion
+d) \$200 billion
+% The expenditure multiplier is $1/0.25 = 4$, and $200/4 = 50$. A tax cut would have to be larger, $200/3 \approx 66.7$, because the tax multiplier is smaller.
+? Compared with a \$10 billion increase in government purchases, a \$10 billion tax cut shifts aggregate demand to the right by
+a) the same amount, because both put \$10 billion into the economy
+b) more, because households spend more efficiently than government
+*c) less, because households save part of the tax cut
+d) nothing, because tax cuts affect only aggregate supply
+% Government purchases enter AD directly and in full. Households spend only the MPC share of a tax cut, so the first round of spending is smaller.
+? Which of the following is a reason discretionary fiscal policy may be poorly timed?
+a) Tax changes have no effect on consumption
+*b) It takes time to recognize the problem, pass legislation, and carry out the change
+c) Automatic stabilizers cancel out all discretionary policy
+d) Government purchases are not part of aggregate demand
+% These recognition, decision, and implementation lags mean a policy may take effect after the economy has already changed.
+
+@topic 3.9 | Automatic Stabilizers
+- **Automatic stabilizers** are taxes and transfer programs that change with the business cycle without any new legislation.
+- In a **recession**, incomes fall, so income tax revenue falls and spending on programs such as unemployment insurance rises. Disposable income and consumption fall by less, which cushions the drop in AD. The deficit grows automatically.
+- In an **expansion**, tax revenue rises and transfer payments fall, which restrains AD and keeps the economy from overheating.
+- Stabilizers reduce the size of business-cycle swings but do not eliminate them. Unlike discretionary policy, they have no decision lag.
+! A stimulus bill passed by Congress is discretionary policy, not an automatic stabilizer.
+? Which of the following is an automatic stabilizer?
+a) Congress passes a one-time stimulus bill during a recession
+b) The central bank lowers interest rates
+*c) Unemployment insurance payments rise as more workers lose their jobs
+d) A law requires the federal budget to be balanced every year
+% Unemployment insurance spending rises with no new law being passed. A stimulus bill is discretionary, lower interest rates are monetary policy, and a balanced-budget rule would force cuts during recessions.
+? During an economic expansion, automatic stabilizers cause
+*a) tax revenues to rise and transfer payments to fall, which restrains aggregate demand
+b) tax revenues to fall and transfer payments to rise, which increases aggregate demand
+c) tax revenues and transfer payments to fall, which leaves aggregate demand unchanged
+d) no change in the budget unless Congress passes new legislation
+% As incomes rise, people pay more in taxes and fewer qualify for transfers. Both effects slow the growth of disposable income and restrain AD.

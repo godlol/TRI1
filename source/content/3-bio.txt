@@ -1,0 +1,539 @@
+@course bio | AP Biology | Biology | Units 1–3
+
+@unit bio-1 | Unit 1 | Chemistry of Life | 8–11% of exam
+
+@topic 1.1 | Structure of Water and Hydrogen Bonding
+- Water is a **polar** molecule. Oxygen pulls shared electrons more strongly than hydrogen, so the oxygen end is partially negative and the hydrogen ends are partially positive.
+- A **hydrogen bond** is the attraction between a partially positive hydrogen on one molecule and a partially negative atom (oxygen or nitrogen) on another. Each one is weak, but together they are strong.
+- **Cohesion**: water molecules stick to each other. It produces **surface tension**.
+- **Adhesion**: water molecules stick to other polar or charged surfaces. Cohesion and adhesion together move water up plant xylem (capillary action).
+- Hydrogen bonding also gives water a **high specific heat** (it resists temperature change), a high heat of vaporization (evaporative cooling), ice that is less dense than liquid water, and the ability to dissolve polar and ionic substances.
+! Hydrogen bonds form between water molecules. The bonds inside one water molecule are polar covalent bonds.
+? Water moves upward through the narrow xylem vessels of a tall tree. Which properties of water are most directly responsible?
+a) Its high specific heat and its high heat of vaporization
+*b) Cohesion between water molecules and adhesion of water to the vessel walls
+c) The lower density of ice compared with liquid water
+d) The covalent bonds between the hydrogen and oxygen atoms within each molecule
+% Hydrogen bonds hold water molecules to each other (cohesion) and to the polar walls of the xylem (adhesion), so the water column is pulled upward without breaking.
+? Hydrogen bonds between water molecules form because
+a) water molecules share electrons with each other
+b) water molecules transfer electrons to each other
+*c) the partially positive hydrogen of one molecule is attracted to the partially negative oxygen of another
+d) the hydrogen atoms of neighboring molecules attract each other
+% Water's polar covalent bonds leave partial charges on each molecule. Opposite partial charges on neighboring molecules attract.
+? A large lake changes temperature much more slowly than the surrounding land. This is best explained by water's
+*a) high specific heat, because energy is absorbed in breaking hydrogen bonds before the temperature rises
+b) low density as a solid
+c) ability to dissolve ionic compounds
+d) adhesion to other surfaces
+% Much of the heat water absorbs goes into disrupting hydrogen bonds instead of speeding up the molecules, so its temperature changes slowly.
+
+@topic 1.2 | Elements of Life
+- Living systems exchange matter with the environment to grow, reproduce, and stay organized.
+- **Carbon** forms the backbone of all four classes of macromolecules: carbohydrates, lipids, proteins, and nucleic acids.
+- **Nitrogen** is needed to build proteins and nucleic acids.
+- **Phosphorus** is needed to build nucleic acids and certain lipids, such as phospholipids.
+- **Sulfur** is found in some amino acids, so it is used to build proteins.
+- Carbohydrates and most lipids contain only carbon, hydrogen, and oxygen.
+? A plant is grown in soil that lacks phosphorus. Which molecules will the plant be least able to make?
+a) Carbohydrates and proteins
+*b) Nucleic acids and phospholipids
+c) Proteins and fats
+d) Starch and cellulose
+% Phosphorus is part of the phosphate groups in nucleotides and in phospholipids. Carbohydrates, fats, and most proteins contain no phosphorus.
+? Radioactive nitrogen is supplied to growing cells. In which two types of macromolecules will the label appear?
+a) Carbohydrates and lipids
+b) Lipids and nucleic acids
+c) Carbohydrates and proteins
+*d) Proteins and nucleic acids
+% Amino acids contain an amino group, and nucleotides contain nitrogenous bases. Carbohydrates and lipids do not contain nitrogen.
+
+@topic 1.3 | Introduction to Macromolecules
+- Most macromolecules are **polymers** built from smaller units called **monomers**.
+- **Dehydration synthesis** joins monomers with a covalent bond and releases one molecule of water for each bond formed.
+- **Hydrolysis** breaks a polymer apart by adding water across the bond. Digestion works by hydrolysis.
+- Monomers and their polymers: monosaccharides form polysaccharides, amino acids form proteins, and nucleotides form nucleic acids. Lipids are not true polymers.
+! Dehydration synthesis releases water and builds. Hydrolysis uses water and breaks.
+? Ten glucose molecules are joined into a single chain by dehydration synthesis. How many water molecules are released?
+a) 1
+*b) 9
+c) 10
+d) 11
+% Each bond formed releases one water molecule, and joining 10 monomers in a chain takes 9 bonds.
+? Which process breaks a protein into amino acids during digestion?
+a) Dehydration synthesis, which releases water
+*b) Hydrolysis, which uses water to break covalent bonds
+c) Denaturation, which breaks hydrogen bonds
+d) Phosphorylation, which adds phosphate groups
+% Hydrolysis adds a water molecule across each peptide bond and splits the polymer into monomers.
+
+@topic 1.4 | Carbohydrates
+- Carbohydrates are made of sugar monomers (**monosaccharides**, such as glucose) joined by covalent **glycosidic bonds** into **polysaccharides**.
+- Carbohydrate polymers can be linear or branched.
+- **Storage** polysaccharides: starch in plants and glycogen in animals. Glycogen is highly branched.
+- **Structural** polysaccharides: cellulose in plant cell walls and chitin in fungal cell walls and arthropod exoskeletons.
+- Starch and cellulose are both made of glucose. They differ in how the glucose units are linked, which gives them different shapes and functions.
+? Starch and cellulose are both polymers of glucose, yet humans can digest starch and not cellulose. The best explanation is that
+a) cellulose contains nitrogen and starch does not
+*b) the glucose monomers are linked differently, and human enzymes fit only the linkages in starch
+c) cellulose is made of a different monosaccharide
+d) starch is a lipid and cellulose is a carbohydrate
+% The orientation of the glycosidic bonds differs between the two polymers. Enzymes are specific to the shape of their substrate, so the enzyme that hydrolyzes starch does not fit cellulose.
+? Which carbohydrate serves as the main energy-storage molecule in animal cells?
+a) Cellulose
+b) Chitin
+c) Starch
+*d) Glycogen
+% Animals store glucose as glycogen, mostly in liver and muscle cells. Starch is the storage form in plants, and cellulose and chitin are structural.
+
+@topic 1.5 | Lipids
+- Lipids are **nonpolar** and **hydrophobic**. They include fats, phospholipids, and steroids.
+- A fat is glycerol joined to three **fatty acids**. Fats store energy.
+- **Saturated** fatty acids have no carbon–carbon double bonds, are straight, pack tightly, and are usually solid at room temperature.
+- **Unsaturated** fatty acids have one or more double bonds that put kinks in the chain. They pack loosely and are usually liquid at room temperature.
+- A **phospholipid** has a hydrophilic phosphate head and two hydrophobic fatty acid tails. In water, phospholipids form a bilayer.
+- **Steroids**, such as cholesterol, have four fused carbon rings.
+? Olive oil is liquid at room temperature and butter is solid. The best explanation is that the fatty acids in olive oil
+a) are shorter than those in butter
+b) contain more hydrogen atoms than those in butter
+*c) have double bonds that kink the chains and keep the molecules from packing tightly
+d) are attached to phosphate groups instead of glycerol
+% Unsaturated fatty acids have carbon–carbon double bonds. The kinks keep the molecules apart, which lowers the melting point.
+? When phospholipids are placed in water, they form a bilayer because
+a) their heads are hydrophobic and their tails are hydrophilic
+*b) their hydrophilic heads face the water and their hydrophobic tails face each other
+c) covalent bonds form between the tails of neighboring molecules
+d) water molecules bond covalently to the phosphate groups
+% Phospholipids are amphipathic. The arrangement that keeps the nonpolar tails away from water and the polar heads in contact with it is a bilayer.
+
+@topic 1.6 | Nucleic Acids
+- Nucleic acids are polymers of **nucleotides**. Each nucleotide has a five-carbon sugar, a phosphate group, and a nitrogenous base.
+- **DNA**: the sugar is deoxyribose; the bases are A, T, G, and C; it is usually a double helix of two **antiparallel** strands.
+- **RNA**: the sugar is ribose; uracil (U) replaces thymine; it is usually single-stranded.
+- Each strand has **directionality**: a 5′ end with a free phosphate and a 3′ end with a free hydroxyl. New nucleotides are added only to the 3′ end.
+- Nucleotides in a strand are joined by covalent bonds in the **sugar–phosphate backbone**. The two DNA strands are held together by hydrogen bonds between bases: A pairs with T (two hydrogen bonds) and G pairs with C (three hydrogen bonds).
+! Covalent bonds hold each strand together. Hydrogen bonds hold the two strands to each other.
+? A double-stranded DNA molecule is 30% adenine. What percent of its bases are guanine?
+a) 30%
+*b) 20%
+c) 40%
+d) 70%
+% Adenine pairs with thymine, so thymine is also 30%. The remaining 40% is split equally between guanine and cytosine: 20% each.
+? Which feature is found in RNA but not in DNA?
+a) A sugar–phosphate backbone
+b) The base guanine
+*c) The sugar ribose
+d) Phosphate groups
+% RNA nucleotides contain ribose and DNA nucleotides contain deoxyribose. RNA also uses uracil in place of thymine.
+? One strand of DNA has the sequence 5′-ATGC-3′. What is the sequence of the complementary strand, written 5′ to 3′?
+a) 5′-ATGC-3′
+b) 5′-TACG-3′
+*c) 5′-GCAT-3′
+d) 5′-CGTA-3′
+% The strands are antiparallel. Pairing gives 3′-TACG-5′, which reads 5′-GCAT-3′ when written in the standard direction.
+
+@topic 1.7 | Proteins
+- Proteins are polymers of **amino acids**. Each amino acid has a central carbon bonded to an amino group, a carboxyl group, a hydrogen, and an **R group**.
+- R groups can be hydrophobic (nonpolar), hydrophilic (polar), or charged. Their properties determine how the protein folds.
+- Amino acids are joined by covalent **peptide bonds** between the carboxyl group of one and the amino group of the next. A polypeptide has an amino end (N-terminus) and a carboxyl end (C-terminus).
+- **Primary structure**: the sequence of amino acids. **Secondary**: alpha helices and beta sheets formed by hydrogen bonds in the backbone. **Tertiary**: the overall three-dimensional shape, formed by interactions among R groups. **Quaternary**: two or more polypeptides joined together.
+- A protein's shape determines its function. **Denaturation** (by heat or pH change) disrupts shape and function without breaking peptide bonds.
+! Secondary structure comes from the backbone. Tertiary structure comes from the R groups.
+? A mutation replaces a hydrophilic amino acid on the surface of a protein with a hydrophobic one. Which level of structure is changed first?
+*a) Primary structure, because the amino acid sequence is different
+b) Secondary structure, because hydrogen bonds in the backbone break
+c) Tertiary structure, because the protein unfolds
+d) Quaternary structure, because the subunits separate
+% A change in the amino acid sequence is a change in primary structure. Any changes in folding at higher levels follow from it.
+? The tertiary structure of a protein is held in place mainly by
+a) peptide bonds between adjacent amino acids
+b) hydrogen bonds between atoms of the polypeptide backbone
+*c) interactions among the R groups of its amino acids
+d) bonds between separate polypeptide chains
+% Hydrophobic interactions, hydrogen bonds, ionic bonds, and disulfide bridges among R groups fold the chain into its overall shape. Backbone hydrogen bonds form secondary structure.
+? An enzyme is heated until it loses its function, yet its amino acid sequence is unchanged. The heat most directly disrupted
+a) the peptide bonds of the primary structure
+*b) the hydrogen bonds and other weak interactions that maintain its folded shape
+c) the covalent bonds within each amino acid
+d) the number of amino acids in the chain
+% Denaturation breaks the weak interactions of secondary and tertiary structure. Peptide bonds stay intact, so the sequence does not change.
+
+@unit bio-2 | Unit 2 | Cells | 10–13% of exam
+
+@topic 2.1 | Cell Structure and Function
+- **Ribosomes** build proteins from the instructions in mRNA. They are made of rRNA and protein and are found in all cells, which is evidence of common ancestry.
+- **Rough endoplasmic reticulum** has ribosomes attached and makes proteins for membranes and for export. **Smooth ER** makes lipids and detoxifies.
+- The **Golgi complex** is a stack of membrane sacs that modifies, sorts, and packages proteins into vesicles.
+- **Mitochondria** have a double membrane. The folded inner membrane (cristae) provides a large surface for ATP production.
+- **Lysosomes** contain hydrolytic enzymes that digest macromolecules and worn-out cell parts.
+- **Vacuoles** store materials. The large central vacuole of a plant cell holds water and maintains turgor pressure.
+- **Chloroplasts** have a double membrane, stacks of thylakoids (grana) where the light reactions occur, and a fluid stroma where the Calvin cycle occurs.
+! The path of a secreted protein is ribosome on the rough ER, then Golgi, then vesicle, then plasma membrane.
+? A cell that makes and secretes large amounts of a protein hormone would be expected to have an unusually large amount of
+a) smooth endoplasmic reticulum and lysosomes
+*b) rough endoplasmic reticulum and Golgi complex
+c) chloroplasts and central vacuoles
+d) free ribosomes and peroxisomes
+% Proteins for export are made on ribosomes of the rough ER and are modified and packaged by the Golgi before secretion.
+? The inner membrane of a mitochondrion is highly folded. The folding is an advantage because it
+a) stores more DNA
+b) keeps the organelle rigid
+*c) increases the surface area available for the reactions that make ATP
+d) allows the organelle to carry out photosynthesis
+% The proteins of the electron transport chain and ATP synthase sit in the inner membrane. More membrane means more of them and more ATP.
+? Which cell structure is found in both prokaryotic and eukaryotic cells?
+a) Mitochondria
+b) Endoplasmic reticulum
+c) Golgi complex
+*d) Ribosomes
+% All cells make proteins on ribosomes. The other structures are membrane-bound organelles found only in eukaryotes.
+
+@topic 2.2 | Cell Size
+- Cells exchange materials and heat with their surroundings across their surface, but their needs depend on their volume.
+- As a cell grows, its volume increases faster than its surface area, so its **surface area-to-volume ratio** falls.
+- A higher ratio means more efficient exchange. This limits how large a cell can be.
+- Folds and extensions such as microvilli and root hairs increase surface area without adding much volume.
+- The same idea applies to whole organisms: a smaller animal has a higher ratio, loses heat faster, and has a higher metabolic rate per unit of body mass.
+= $\text{cube: } SA = 6s^2 \qquad V = s^3$ :: Cube
+= $\text{sphere: } SA = 4\pi r^2 \qquad V = \tfrac{4}{3}\pi r^3$ :: Sphere
+? A cube-shaped cell has sides 2 micrometers long. What is its surface area-to-volume ratio?
+a) 1.5 to 1
+*b) 3 to 1
+c) 6 to 1
+d) 12 to 1
+% Surface area is $6(2)^2 = 24$ and volume is $2^3 = 8$, so the ratio is $24/8 = 3$.
+? Which cube-shaped cell would exchange materials with its environment most efficiently?
+*a) A cell with sides of 1 micrometer
+b) A cell with sides of 2 micrometers
+c) A cell with sides of 3 micrometers
+d) A cell with sides of 4 micrometers
+% For a cube the ratio is $6/s$, so the smallest cell has the highest surface area-to-volume ratio: 6, compared with 3, 2, and 1.5.
+? Cells that line the small intestine have many microvilli. The microvilli are an advantage because they
+a) increase the volume of the cell
+b) decrease the rate of diffusion
+*c) increase the surface area for absorbing nutrients
+d) protect the cell from digestive enzymes
+% Folding the membrane adds surface area with little added volume, which raises the surface area-to-volume ratio and speeds absorption.
+
+@topic 2.3 | Plasma Membrane
+- The plasma membrane is a **phospholipid bilayer**. Hydrophilic heads face the watery inside and outside of the cell; hydrophobic tails face each other.
+- **Embedded proteins** have hydrophobic regions inside the bilayer and hydrophilic regions exposed to water.
+- The **fluid mosaic model**: the membrane is a moving mixture of phospholipids, proteins, cholesterol, glycoproteins, and glycolipids.
+- **Cholesterol** helps regulate membrane fluidity. Glycoproteins and glycolipids act in cell recognition.
+? The part of a membrane protein that spans the interior of the phospholipid bilayer is most likely made of amino acids with
+a) charged R groups
+b) polar R groups
+*c) nonpolar R groups
+d) no R groups
+% The interior of the bilayer is made of hydrophobic fatty acid tails, so the region of a protein in contact with it must also be hydrophobic.
+? The plasma membrane is described as a fluid mosaic because
+a) it is made mostly of water
+*b) its phospholipids and proteins can move sideways within the membrane, and it contains many kinds of molecules
+c) it is rigid and has a repeating pattern
+d) its proteins are fixed in place by covalent bonds
+% The molecules are held by weak hydrophobic interactions, so they drift within the layer. The variety of proteins and lipids forms the mosaic.
+
+@topic 2.4 | Membrane Permeability
+- The hydrophobic interior of the bilayer makes the membrane **selectively permeable**.
+- **Small nonpolar molecules**, such as oxygen, carbon dioxide, and nitrogen, pass freely through the bilayer.
+- **Ions and large polar molecules** cannot pass through the bilayer and need channel or transport proteins.
+- **Small polar molecules** such as water pass through the bilayer only in small amounts. Most water crosses through channel proteins called aquaporins.
+- **Cell walls** of plants (cellulose), fungi (chitin), and prokaryotes give structure and are an additional barrier outside the membrane.
+? Which substance crosses a phospholipid bilayer most easily without a transport protein?
+a) A sodium ion
+b) Glucose
+*c) Carbon dioxide
+d) A protein
+% Carbon dioxide is small and nonpolar, so it dissolves in the hydrophobic interior of the bilayer. Ions and large or polar molecules are repelled by it.
+? Sodium ions cannot diffuse directly through the phospholipid bilayer mainly because
+a) they are too large to fit between phospholipids
+*b) they are charged and are repelled by the hydrophobic interior of the bilayer
+c) they bind to cholesterol in the membrane
+d) the cell has no use for them
+% A charged particle is surrounded by water and cannot enter the nonpolar interior of the membrane. It crosses through channel or carrier proteins.
+
+@topic 2.5 | Membrane Transport
+- **Passive transport** is the net movement of a substance from higher to lower concentration. It needs no energy from the cell.
+- **Active transport** moves a substance from lower to higher concentration. It needs energy, usually from ATP, and a transport protein.
+- **Endocytosis** takes large materials into the cell in vesicles formed from the plasma membrane. **Exocytosis** releases materials when vesicles fuse with the plasma membrane. Both need energy.
+- Selective transport lets a cell build and keep **concentration gradients**.
+? A cell keeps the concentration of potassium ions inside it much higher than the concentration outside. Moving more potassium into the cell requires
+a) simple diffusion
+b) facilitated diffusion
+c) osmosis
+*d) active transport
+% Moving a substance against its concentration gradient, from low to high, takes energy and a transport protein.
+? A white blood cell surrounds a bacterium with its plasma membrane and takes it in inside a vesicle. This process is
+a) exocytosis
+*b) endocytosis
+c) facilitated diffusion
+d) osmosis
+% Endocytosis brings large particles into the cell by folding the membrane around them. Engulfing a solid particle is the form called phagocytosis.
+
+@topic 2.6 | Facilitated Diffusion
+- **Facilitated diffusion** is passive transport through a membrane protein. The substance still moves down its concentration gradient, and no energy is used.
+- **Channel proteins** form pores for specific ions or for water (aquaporins). **Carrier proteins** change shape to move a specific molecule across.
+- Movement of ions through channels can make a membrane **polarized**, with different charges on its two sides.
+- Because the number of transport proteins is limited, the rate of facilitated diffusion levels off when all of them are in use.
+! Facilitated diffusion uses a protein but not energy. Active transport uses both.
+? Glucose enters many cells through a carrier protein, moving from higher to lower concentration with no ATP used. This is an example of
+a) simple diffusion
+*b) facilitated diffusion
+c) active transport
+d) endocytosis
+% The movement is down the gradient and uses no energy, so it is passive. Because a membrane protein is required, it is facilitated diffusion.
+? As the concentration of a solute outside a cell increases, its rate of entry by facilitated diffusion rises and then levels off. The rate levels off because
+a) the cell runs out of ATP
+*b) all of the transport proteins are occupied
+c) the solute concentration inside becomes higher than outside
+d) the membrane becomes impermeable
+% There is a fixed number of transport proteins. Once every one is working at its maximum rate, adding more solute cannot increase the rate.
+
+@topic 2.7 | Tonicity and Osmoregulation
+- **Osmosis** is the diffusion of water across a selectively permeable membrane. Water moves from a **hypotonic** solution (lower solute concentration) to a **hypertonic** solution (higher solute concentration).
+- In an **isotonic** solution there is no net movement of water.
+- Animal cells swell and may burst in a hypotonic solution and shrink in a hypertonic one. Plant cells become **turgid** in a hypotonic solution, which is their healthy state, and undergo **plasmolysis** in a hypertonic one.
+- **Water potential** ($\Psi$) predicts the direction of water movement. Water moves from higher water potential to lower water potential.
+- Adding solute lowers the solute potential and so lowers water potential. Pressure raises it. In an open container the pressure potential is zero.
+- **Osmoregulation** keeps water balance. For example, a contractile vacuole pumps excess water out of a freshwater protist.
+= $\Psi = \Psi_p + \Psi_s$ :: Water potential
+= $\Psi_s = -iCRT \qquad R = 0.0831\ \tfrac{\text{L·bar}}{\text{mol·K}}$ :: Solute potential
+! In $\Psi_s = -iCRT$, $T$ is in kelvin and $i$ is the number of particles each solute unit forms: 1 for sucrose, 2 for NaCl.
+? What is the solute potential of a 0.30 M sucrose solution in an open beaker at 27 °C? (For sucrose, $i = 1$.)
+a) $-15$ bars
+*b) $-7.5$ bars
+c) $-0.67$ bars
+d) $7.5$ bars
+% $\Psi_s = -iCRT = -(1)(0.30)(0.0831)(300) = -7.5$ bars. The temperature must be in kelvin: $27 + 273 = 300$. Solute potential is always negative.
+? A plant cell with a water potential of $-6$ bars is placed in a solution with a water potential of $-9$ bars. What happens?
+a) Water enters the cell, and the cell becomes turgid
+*b) Water leaves the cell, and the cell may plasmolyze
+c) There is no net movement of water
+d) Solute leaves the cell until the water potentials are equal
+% Water moves from higher water potential to lower water potential. Because $-6$ is higher than $-9$, water moves out of the cell.
+? Red blood cells are placed in pure water. What happens to them?
+a) They shrink, because water leaves the cells
+b) They do not change, because pure water is isotonic to the cells
+*c) They swell and may burst, because water enters the cells
+d) They become turgid and stop taking in water, because of their cell walls
+% Pure water is hypotonic to the cytoplasm, so water enters by osmosis. Animal cells have no cell wall to resist the swelling.
+? At the same temperature, how does the solute potential of 0.10 M NaCl compare with that of 0.10 M sucrose?
+a) It is the same, because the concentrations are equal
+*b) It is lower (more negative), because each unit of NaCl forms two particles
+c) It is higher (less negative), because NaCl is an ionic compound
+d) It is zero, because NaCl dissolves completely
+% NaCl separates into two ions, so $i = 2$ and the solute potential is twice as negative as that of sucrose at the same concentration.
+
+@topic 2.8 | Mechanisms of Transport
+- Cells use many processes to move ions and molecules: simple diffusion, facilitated diffusion, active transport, endocytosis, and exocytosis.
+- A **pump** uses ATP to move ions against their gradients. The **sodium–potassium pump** moves three sodium ions out of the cell and two potassium ions in for each ATP, which helps maintain the membrane potential.
+- Pumps create an **electrochemical gradient**, a combination of a concentration difference and a charge difference across the membrane.
+- **Cotransport** (secondary active transport) uses the energy stored in one substance's gradient to move a different substance against its own gradient.
+? The sodium–potassium pump moves sodium ions out of a cell and potassium ions into it, each against its concentration gradient. The pump is an example of
+a) facilitated diffusion, because it uses a membrane protein
+b) osmosis, because ions are dissolved in water
+*c) active transport, because it uses energy from ATP
+d) exocytosis, because sodium leaves the cell
+% Moving ions from lower to higher concentration requires an input of energy, which the pump gets by hydrolyzing ATP.
+? A plant cell pumps hydrogen ions out of the cell using ATP. The hydrogen ions then flow back in through a protein that carries sucrose into the cell along with them, against the sucrose gradient. The movement of sucrose is an example of
+a) simple diffusion
+b) facilitated diffusion
+*c) cotransport powered by the hydrogen ion gradient
+d) endocytosis
+% The energy for moving sucrose uphill comes from hydrogen ions flowing down the gradient that the pump created. ATP is used indirectly.
+
+@topic 2.9 | Cell Compartmentalization
+- Internal membranes divide a eukaryotic cell into **compartments**, so that different reactions can occur in different places under different conditions.
+- Compartments keep processes that would interfere with each other apart. For example, the digestive enzymes of a lysosome are kept away from the rest of the cell.
+- Internal membranes also provide extra **surface area** where reactions occur, as in the inner mitochondrial membrane and the thylakoid membranes.
+- Prokaryotes generally lack membrane-bound organelles, but they have internal regions with specialized functions, such as the nucleoid.
+? Lysosomes hold hydrolytic enzymes at a low pH. Keeping these enzymes inside a membrane-bound compartment is an advantage because it
+a) lets the enzymes work at the pH of the cytosol
+*b) keeps the enzymes from digesting the rest of the cell and provides the conditions they need
+c) increases the volume of the cell
+d) allows the enzymes to make ATP
+% Compartments separate reactions and maintain different internal conditions. The enzymes work best in the acidic interior and are kept away from other cell components.
+? Which statement correctly compares prokaryotic and eukaryotic cells?
+a) Only eukaryotic cells have ribosomes
+b) Only prokaryotic cells have a plasma membrane
+*c) Only eukaryotic cells have membrane-bound organelles
+d) Only prokaryotic cells have DNA
+% Both types of cells have a plasma membrane, ribosomes, and DNA. Internal membrane-bound compartments are the feature that sets eukaryotes apart.
+
+@topic 2.10 | Origins of Cell Compartmentalization
+- Membrane-bound organelles are thought to have evolved from once free-living prokaryotes through **endosymbiosis**: an ancestral cell took in a prokaryote, and the two became dependent on each other.
+- **Mitochondria** descend from aerobic bacteria. **Chloroplasts** descend from photosynthetic bacteria.
+- Evidence: both organelles have a **double membrane**, their own **circular DNA**, their own **ribosomes** that resemble those of bacteria, and they reproduce by dividing on their own, as bacteria do.
+- Prokaryotes and eukaryotes share a plasma membrane, ribosomes, and DNA, which points to a common ancestor.
+? Which observation is evidence that mitochondria evolved from free-living prokaryotes?
+a) Mitochondria are found in every cell
+*b) Mitochondria have their own circular DNA and ribosomes similar to those of bacteria
+c) Mitochondria are surrounded by a single membrane
+d) Mitochondria are made by the Golgi complex
+% Their bacteria-like DNA and ribosomes, double membrane, and independent division all match what would be expected of a prokaryote living inside another cell.
+? According to the endosymbiotic theory, chloroplasts originated when
+a) a mitochondrion mutated and gained the ability to absorb light
+b) the nuclear membrane folded inward
+*c) an ancestral eukaryotic cell engulfed a photosynthetic prokaryote that survived inside it
+d) plant cells fused with animal cells
+% The engulfed prokaryote was not digested. Over many generations it became an organelle that the host cell depends on for photosynthesis.
+
+@unit bio-3 | Unit 3 | Cellular Energetics | 12–16% of exam
+
+@topic 3.1 | Enzymes
+- **Enzymes** are biological catalysts, usually proteins. They speed up reactions by lowering the **activation energy**.
+- The **substrate** binds at the enzyme's **active site**. The two must be compatible in shape and charge.
+- Enzymes are not used up. After the products are released, the enzyme can act again.
+- An enzyme does not change the overall energy difference between reactants and products. It only makes the reaction happen faster.
+! An enzyme lowers activation energy. It does not add energy to the reaction or change the free energy of the products.
+? An enzyme speeds up a chemical reaction by
+a) raising the temperature of the cell
+b) supplying energy to the reactants
+*c) lowering the activation energy of the reaction
+d) increasing the energy released by the reaction
+% The enzyme provides a pathway that needs less energy to start. The energy of the reactants and products is unchanged.
+? Each enzyme usually catalyzes only one reaction or a few similar reactions. This is because
+a) each enzyme is used up after one reaction
+*b) the shape and charge of the active site fit only specific substrates
+c) each enzyme works at only one temperature
+d) enzymes are made of nucleotides
+% The substrate must match the active site in shape and in the pattern of charges. Other molecules do not bind well enough to react.
+
+@topic 3.2 | Environmental Impacts on Enzyme Function
+- A change in an enzyme's shape changes its function. **Denaturation** is a loss of shape caused by temperature or pH outside the enzyme's working range. It is sometimes reversible.
+- **Temperature**: warming speeds molecules up and causes more collisions between enzyme and substrate, so the rate rises up to an optimum. Above the optimum the enzyme denatures and the rate falls sharply.
+- **pH**: each enzyme has an optimum. Changing the hydrogen ion concentration disrupts the hydrogen bonds and charges that hold the enzyme's shape.
+- **Substrate concentration**: the rate rises as substrate is added until all active sites are occupied, then levels off.
+- **Competitive inhibitors** bind at the active site and block the substrate. Adding more substrate can overcome them.
+- **Noncompetitive inhibitors** bind at another site (an allosteric site) and change the enzyme's shape. Adding more substrate does not overcome them.
+? An enzyme from a human cell works fastest at 37 °C. When the temperature is raised to 70 °C, the reaction rate drops almost to zero. The best explanation is that
+a) the substrate molecules stop moving
+b) the enzyme is used up faster
+*c) the enzyme's shape changes, so the substrate no longer fits the active site
+d) the activation energy of the reaction decreases
+% High temperature breaks the weak bonds that hold the enzyme's three-dimensional shape. A denatured active site cannot bind substrate.
+? An inhibitor slows an enzyme-catalyzed reaction. When much more substrate is added, the reaction returns to its normal maximum rate. The inhibitor is most likely
+*a) a competitive inhibitor that binds to the active site
+b) a noncompetitive inhibitor that binds to an allosteric site
+c) a molecule that denatures the enzyme permanently
+d) a second enzyme that uses up the substrate
+% A competitive inhibitor and the substrate compete for the same site. A large excess of substrate wins the competition. A noncompetitive inhibitor would still lower the maximum rate.
+? In an experiment, the amount of enzyme is held constant and the substrate concentration is increased. The reaction rate rises and then levels off because
+a) the enzyme is denatured by the substrate
+b) the products inhibit the enzyme
+*c) all of the enzyme's active sites are occupied
+d) the activation energy increases
+% Once every enzyme molecule is working as fast as it can, adding more substrate cannot raise the rate. Only adding more enzyme would.
+? Pepsin, a stomach enzyme, works best at pH 2. If pepsin is placed in a solution at pH 8, its activity falls because
+a) there is less substrate at pH 8
+*b) the change in hydrogen ion concentration disrupts the bonds that maintain the shape of the active site
+c) pepsin is a competitive inhibitor at pH 8
+d) the temperature of the solution rises
+% A change in pH alters the charges on amino acid R groups and disrupts hydrogen bonding, which changes the enzyme's shape.
+
+@topic 3.3 | Cellular Energy
+- All living systems need a constant input of energy. Energy is never created or destroyed, and every transfer increases disorder, so cells must keep taking in energy to stay organized.
+- Cells **couple** reactions: an energy-releasing process, such as the breakdown of ATP, is paired with an energy-requiring process to drive it.
+- **ATP** stores energy in its phosphate bonds. Removing a phosphate (ATP to ADP) releases energy that the cell can use.
+- Energy transfers happen in **sequential steps** in metabolic pathways, which allows controlled and efficient transfer.
+- Core pathways such as glycolysis are shared by nearly all organisms, which is evidence of common ancestry.
+? Building a protein from amino acids requires energy. Cells drive this process by
+a) raising their temperature
+*b) coupling it to an energy-releasing reaction such as the breakdown of ATP
+c) creating new energy in the ribosome
+d) using enzymes that add energy to the reactants
+% Energy coupling uses the energy released by one reaction to power another. Enzymes speed reactions but do not supply energy.
+? An organism that stops taking in energy will eventually die because
+a) its enzymes are used up
+b) its cells run out of DNA
+*c) it cannot maintain the order of its cells without a continuing input of energy
+d) energy is destroyed each time it is transferred
+% Living systems are highly ordered, and every energy transfer loses some energy as heat. Without new energy, order is lost. Energy is never destroyed.
+
+@topic 3.4 | Photosynthesis
+- Photosynthesis captures light energy and stores it in sugars. It first evolved in prokaryotes and is the source of the oxygen in the atmosphere.
+- The **light reactions** occur in the **thylakoid membranes**. Chlorophyll in photosystems II and I absorbs light, which excites electrons.
+- **Water is split** at photosystem II. This replaces the lost electrons and releases **oxygen**.
+- Electrons pass along an **electron transport chain** between the photosystems. The energy released pumps hydrogen ions into the thylakoid, forming a **proton gradient**.
+- Hydrogen ions flow back through **ATP synthase**, which makes ATP. At the end of the chain, electrons reduce NADP+ to **NADPH**.
+- The **Calvin cycle** occurs in the **stroma**. It uses ATP and NADPH to build carbohydrates from **carbon dioxide**.
+= $6\,\ce{CO2} + 6\,\ce{H2O} + \text{light energy} \rightarrow \ce{C6H12O6} + 6\,\ce{O2}$ :: Overall equation
+! The oxygen released comes from water, not from carbon dioxide. The carbon in sugar comes from carbon dioxide.
+? The oxygen gas released during photosynthesis comes from
+a) carbon dioxide
+*b) water
+c) glucose
+d) NADPH
+% Water molecules are split at photosystem II to replace electrons lost by chlorophyll. Oxygen is the by-product.
+? Which products of the light reactions are used in the Calvin cycle?
+a) Oxygen and water
+b) Carbon dioxide and glucose
+*c) ATP and NADPH
+d) ADP and NADP+
+% The light reactions store energy in ATP and high-energy electrons in NADPH. The Calvin cycle spends both to turn carbon dioxide into sugar.
+? A chemical makes the thylakoid membrane leaky to hydrogen ions. The most direct effect on the chloroplast is that
+a) water can no longer be split
+b) chlorophyll can no longer absorb light
+*c) ATP production falls, because the proton gradient cannot be maintained
+d) carbon dioxide can no longer enter the stroma
+% ATP synthase is powered by hydrogen ions flowing down their gradient. If the ions leak across the membrane, there is no gradient to drive it.
+? In which part of the chloroplast does the Calvin cycle take place?
+a) The thylakoid membrane
+b) The space inside the thylakoid
+*c) The stroma
+d) The outer membrane
+% The enzymes of the Calvin cycle are dissolved in the stroma, the fluid around the thylakoids. The light reactions occur in the thylakoid membranes.
+? A plant is kept in the light but is given no carbon dioxide. Which will happen first?
+*a) The Calvin cycle slows, and NADPH and ATP build up
+b) The light reactions stop, because water cannot be split
+c) Oxygen production increases
+d) Chlorophyll is destroyed
+% Without carbon dioxide the Calvin cycle cannot use ATP and NADPH, so they accumulate. The light reactions then slow for lack of ADP and NADP+.
+
+@topic 3.5 | Cellular Respiration
+- Cellular respiration releases the energy in glucose and stores it in ATP.
+- **Glycolysis** occurs in the cytosol and needs no oxygen. It splits glucose into two pyruvate and yields a net of 2 ATP and 2 NADH.
+- Pyruvate enters the mitochondrion and is oxidized, releasing carbon dioxide. The **Krebs cycle**, in the mitochondrial matrix, releases more carbon dioxide and produces ATP, NADH, and FADH2.
+- NADH and FADH2 deliver electrons to the **electron transport chain** in the inner mitochondrial membrane. The energy released pumps hydrogen ions into the intermembrane space.
+- **Oxygen** is the final electron acceptor and forms water.
+- Hydrogen ions flow back through **ATP synthase**, producing most of the cell's ATP. This is **oxidative phosphorylation** by chemiosmosis.
+- **Fermentation** occurs without oxygen. It regenerates NAD+ so that glycolysis can continue, and it produces lactic acid or alcohol and carbon dioxide.
+- When electron transport is uncoupled from ATP production, the energy is released as **heat**.
+= $\ce{C6H12O6} + 6\,\ce{O2} \rightarrow 6\,\ce{CO2} + 6\,\ce{H2O} + \text{energy (ATP)}$ :: Overall equation
+! Fermentation makes no ATP beyond glycolysis. Its job is to recycle NADH back to NAD+.
+? In aerobic cellular respiration, oxygen is needed because it
+a) splits glucose into pyruvate
+b) combines with carbon to form carbon dioxide in the Krebs cycle
+*c) accepts electrons at the end of the electron transport chain
+d) pumps hydrogen ions across the inner mitochondrial membrane
+% Oxygen pulls electrons through the chain and combines with them and with hydrogen ions to form water. Without it the chain stops.
+? Most of the ATP made in aerobic cellular respiration is produced by
+a) glycolysis
+b) the Krebs cycle
+c) fermentation
+*d) oxidative phosphorylation
+% The electron transport chain builds a proton gradient, and ATP synthase uses it to make far more ATP than glycolysis and the Krebs cycle make directly.
+? The main benefit of fermentation to a cell without oxygen is that it
+a) produces large amounts of ATP
+*b) regenerates NAD+ so that glycolysis can continue
+c) releases carbon dioxide for photosynthesis
+d) produces oxygen
+% Glycolysis needs NAD+. Without oxygen, the electron transport chain cannot recycle NADH, so fermentation does it by passing electrons to pyruvate.
+? Where in a eukaryotic cell does glycolysis occur?
+*a) The cytosol
+b) The mitochondrial matrix
+c) The inner mitochondrial membrane
+d) The intermembrane space
+% Glycolysis takes place in the cytosol and does not need mitochondria or oxygen. It occurs in nearly all living cells.
+? A poison blocks the electron transport chain of mitochondria. Which change follows most directly?
+a) Glycolysis produces more ATP for each glucose
+*b) The proton gradient across the inner membrane is no longer maintained, and ATP synthase makes much less ATP
+c) The Krebs cycle speeds up
+d) Oxygen consumption increases
+% Electron transport supplies the energy to pump hydrogen ions. With no pumping there is no gradient, and ATP synthase has nothing to drive it. Oxygen use falls.
+? Some mammals have brown fat cells in which hydrogen ions leak across the inner mitochondrial membrane without passing through ATP synthase. The result is that these cells
+a) make more ATP than other cells
+b) stop consuming oxygen
+*c) release the energy of the proton gradient as heat
+d) switch to fermentation
+% Uncoupling electron transport from ATP synthesis lets the stored energy escape as heat, which helps keep the animal warm.
