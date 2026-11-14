@@ -384,7 +384,7 @@
 
   function resetZone(asking) {
     $('reset-zone').innerHTML = asking
-      ? '<span class="confirm">Clear every answer in all four courses?' + btn('Yes, clear everything', 'reset-yes', '', true) + btn('Cancel', 'reset-no', '') + '</span>'
+      ? '<span class="confirm">Clear every answer in every course?' + btn('Yes, clear everything', 'reset-yes', '', true) + btn('Cancel', 'reset-no', '') + '</span>'
       : btn('Clear all answers', 'reset-ask', '');
   }
 

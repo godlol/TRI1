@@ -308,7 +308,7 @@ function overviewView(courses, totals) {
 
 function reportView() {
   return `<section class="view" data-view="report" aria-labelledby="h-report"><div class="wrap narrow-wrap">
-<header class="course-head"><p class="eyebrow">All four courses</p><h1 id="h-report" tabindex="-1">Score report</h1>
+<header class="course-head"><p class="eyebrow">All five courses</p><h1 id="h-report" tabindex="-1">Score report</h1>
 <p class="lede small">This report covers every unit you have graded. It updates each time you grade or retake a unit.</p></header>
 <div id="rep-tiles" class="tiles"></div>
 <section class="copybox" aria-labelledby="h-copy"><h2 id="h-copy">Paste this into any AI chat</h2>
@@ -319,6 +319,26 @@ function reportView() {
 <section aria-labelledby="h-topics"><h2 id="h-topics">Topics to review</h2><div id="rep-topics"></div></section>
 <section aria-labelledby="h-missed"><h2 id="h-missed">Missed and skipped questions</h2><div id="rep-missed"></div></section>
 <section class="reset" aria-labelledby="h-reset"><h2 id="h-reset">Start over</h2><p>Clear every answer and grade on this device.</p><div id="reset-zone"><button type="button" class="btn" data-action="reset-ask">Clear all answers</button></div></section>
+</div></section>`;
+}
+
+const CREDIT_NAME = 'godlol';
+const CREDIT_URL = 'https://github.com/godlol';
+const REPO_URL = 'https://github.com/godlol/TRI1';
+
+function creditsView() {
+  return `<section class="view" data-view="credits" aria-labelledby="h-credits"><div class="wrap narrow-wrap">
+<header class="course-head"><p class="eyebrow">About this guide</p><h1 id="h-credits" tabindex="-1">Credits</h1>
+<p class="lede small">This study guide was made by <a href="${CREDIT_URL}" target="_blank" rel="noopener"><b>${escHtml(CREDIT_NAME)}</b></a>.</p></header>
+<section class="credit-card" aria-labelledby="h-made"><h2 id="h-made">Made by</h2>
+<p class="credit-name">${escHtml(CREDIT_NAME)}</p>
+<p>Created, written and published by ${escHtml(CREDIT_NAME)}: the notes, the practice questions and explanations, the score report, and the site itself.</p>
+<p><a class="btn" href="${CREDIT_URL}" target="_blank" rel="noopener">GitHub profile</a> <a class="btn" href="${REPO_URL}" target="_blank" rel="noopener">Source code</a></p></section>
+<section class="credit-card" aria-labelledby="h-thanks"><h2 id="h-thanks">Tools and sources</h2><ul class="credit-list">
+<li><b>Course outlines.</b> Topic lists follow the College Board course and exam descriptions for each course.</li>
+<li><b>Formulas.</b> Typeset with MathJax and saved as images in the page.</li>
+<li><b>Fonts.</b> Archivo and STIX Two Text, from Google Fonts.</li></ul>
+<p class="credit-fine">AP is a trademark registered by the College Board, which is not affiliated with this guide.</p></section>
 </div></section>`;
 }
 
@@ -336,7 +356,7 @@ courses.forEach((c) => { dist[c.id] = balance(c); });
 
 const totals = { units: courses.reduce((n, c) => n + c.units.length, 0), topics: courses.reduce((n, c) => n + courseTopics(c), 0), questions: courses.reduce((n, c) => n + courseQs(c), 0) };
 
-const views = overviewView(courses, totals) + courses.map((c) => notesView(c) + practiceView(c)).join('') + reportView();
+const views = overviewView(courses, totals) + courses.map((c) => notesView(c) + practiceView(c)).join('') + reportView() + creditsView();
 
 const data = {
   title: TITLE,
@@ -355,7 +375,8 @@ const data = {
 
 const nav = '<a href="#overview" data-go="overview">Overview</a>' +
   courses.map((c) => `<a href="#${c.id}" data-go="${c.id}" data-group="${c.id}">${escHtml(c.short)}</a>`).join('') +
-  '<a href="#report" data-go="report" class="nav-report">Score report</a>';
+  '<a href="#report" data-go="report" class="nav-report">Score report</a>' +
+  '<a href="#credits" data-go="credits">Credits</a>';
 
 const css = fs.readFileSync(path.join(__dirname, 'page.css'), 'utf8');
 const js = fs.readFileSync(path.join(__dirname, 'page.js'), 'utf8');
@@ -379,7 +400,7 @@ ${mj.cacheSvg()}
 <main id="main">
 ${views}
 </main>
-<footer class="foot"><div class="wrap"><p>Topic lists follow the College Board course and exam descriptions for each course. Practice questions are original and written for this guide. AP is a trademark registered by the College Board, which is not affiliated with this guide.</p></div></footer>
+<footer class="foot"><div class="wrap"><p class="foot-credit">Made by <a href="#credits" data-go="credits">${escHtml(CREDIT_NAME)}</a>. <a href="#credits" data-go="credits">Credits</a></p><p>Topic lists follow the College Board course and exam descriptions for each course. Practice questions are original and written for this guide. AP is a trademark registered by the College Board, which is not affiliated with this guide.</p></div></footer>
 <script type="application/json" id="guide-data">${JSON.stringify(data).replace(/</g, '\\u003c')}</script>
 <script>
 ${js}

@@ -331,3 +331,13 @@ textarea { display: block; width: 100%; font: 400 0.8rem/1.5 ui-monospace, SFMon
 
 .foot { border-top: 1px solid var(--rule); padding: 1.5rem 0 2.5rem; font: 450 0.78rem/1.5 var(--display); color: var(--ink-2); }
 .foot p { max-width: 46rem; }
+
+/* credits */
+.foot .foot-credit { font-weight: 650; color: var(--ink); margin-bottom: 0.5rem; }
+.foot a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+.credit-card { border-top: 1.5px solid var(--ink); padding: 0.9rem 0 1.6rem; }
+.credit-card h2 { font: 800 0.8rem/1 var(--display); letter-spacing: 0.08em; text-transform: uppercase; margin: 0 0 0.8rem; }
+.credit-card p { max-width: 40rem; margin: 0 0 0.9rem; }
+.credit-name { font: 800 clamp(2.2rem, 7vw, 3.6rem)/1 var(--display); font-stretch: 62%; margin: 0 0 0.7rem; overflow-wrap: anywhere; }
+.credit-list { list-style: none; margin: 0 0 1rem; padding: 0; display: grid; gap: 0.6rem; max-width: 40rem; }
+.credit-fine { font-size: 0.85rem; color: var(--ink-2); }
